@@ -1,0 +1,56 @@
+40 words
+¶lab¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶section¶ ¶1¶ ¶-¶ ¶meeting¶ ¶(¶ ¶dialogue¶ ¶)¶ ¶about¶ ¶the¶ ¶paranormal¶ ¶marcellus¶ ¶:¶ ¶what¶ ¶,¶ ¶has¶ ¶this¶ ¶thing¶ ¶appear'd¶ ¶again¶ ¶to-night¶ ¶?¶ ¶bernardo¶ ¶"I have seen naught but "¶ ¶list¶ ¶of¶ ¶things¶ ¶in¶ ¶battlements¶ ¶"."¶ ¶"Horatio says 'tis but our fantasy."¶ 
+36 distinct words
+¶Lab¶ ¶lab¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Section¶ ¶section¶ 20
+¶1¶ ¶1¶ 20
+¶-¶ ¶-¶ 20
+¶Meeting¶ ¶meeting¶ 20
+¶(¶ ¶(¶ 20
+¶dialogue¶ ¶dialogue¶ 20
+¶)¶ ¶)¶ 20
+¶|__¶ ¶|__¶ 0a
+¶(¶ ¶(¶ 20
+¶About¶ ¶about¶ 20
+¶the¶ ¶the¶ 20
+¶paranormal¶ ¶paranormal¶ 20
+¶.¶ ¶.¶ 20
+¶)¶ ¶)¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Marcellus¶ ¶marcellus¶ 20
+¶:¶ ¶:¶ 20
+¶What¶ ¶what¶ 20
+¶,¶ ¶,¶ 20
+¶has¶ ¶has¶ 20
+¶this¶ ¶this¶ 20
+¶thing¶ ¶thing¶ 20
+¶appear'd¶ ¶appear'd¶ 20
+¶again¶ ¶again¶ 20
+¶to-night¶ ¶to-night¶ 20
+¶?¶ ¶?¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Bernardo¶ ¶bernardo¶ 20
+¶:¶ ¶:¶ 20
+¶"I have seen naught but "¶ ¶"I have seen naught but "¶ 20
+¶,¶ ¶,¶ 20
+¶list¶ ¶list¶ 20
+¶of¶ ¶of¶ 20
+¶things¶ ¶things¶ 20
+¶in¶ ¶in¶ 20
+¶the¶ ¶the¶ 20
+¶Battlements¶ ¶battlements¶ 20
+¶,¶ ¶,¶ 20
+¶"."¶ ¶"."¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Marcellus¶ ¶marcellus¶ 20
+¶:¶ ¶:¶ 20
+¶"Horatio says 'tis but our fantasy."¶ ¶"Horatio says 'tis but our fantasy."¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,25 @@
+14 words
+¶entrance¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶before¶ ¶printing¶ ¶the¶ ¶description¶ ¶of¶ ¶dark¶ ¶:¶ ¶(-¶ ¶ x ¶ 
+15 distinct words
+¶Entrance¶ ¶entrance¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Before¶ ¶before¶ 20
+¶printing¶ ¶printing¶ 20
+¶the¶ ¶the¶ 20
+¶description¶ ¶description¶ 20
+¶of¶ ¶of¶ 20
+¶a¶ ¶a¶ 20
+¶dark¶ ¶dark¶ 20
+¶room¶ ¶room¶ 20
+¶:¶ ¶:¶ 20
+¶(-¶ ¶(-¶ 20
+¶ x ¶ ¶ x ¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

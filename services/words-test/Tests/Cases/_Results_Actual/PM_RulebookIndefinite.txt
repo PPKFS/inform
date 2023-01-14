@@ -1,0 +1,46 @@
+36 words
+¶foo¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶zog¶ ¶sayable¶ ¶value¶ ¶based¶ ¶rulebook¶ ¶rule¶ ¶for¶ ¶stored¶ ¶action¶ ¶(¶ ¶called¶ ¶obj¶ ¶)¶ ¶:¶ ¶say¶ ¶"I, [obj], am a stored action!"¶ ¶when¶ ¶play¶ ¶begins¶ ¶follow¶ ¶the¶ ¶swedish¶ ¶language¶ ¶|__¶ 
+29 distinct words
+¶Foo¶ ¶foo¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶Zog¶ ¶zog¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶sayable¶ ¶sayable¶ 20
+¶value¶ ¶value¶ 20
+¶based¶ ¶based¶ 20
+¶rulebook¶ ¶rulebook¶ 20
+¶.¶ ¶.¶ 20
+¶A¶ ¶a¶ 0a
+¶zog¶ ¶zog¶ 20
+¶rule¶ ¶rule¶ 20
+¶for¶ ¶for¶ 20
+¶a¶ ¶a¶ 20
+¶stored¶ ¶stored¶ 20
+¶action¶ ¶action¶ 20
+¶(¶ ¶(¶ 20
+¶called¶ ¶called¶ 20
+¶obj¶ ¶obj¶ 20
+¶)¶ ¶)¶ 20
+¶:¶ ¶:¶ 20
+¶say¶ ¶say¶ 20
+¶"I, [obj], am a stored action!"¶ ¶"I, [obj], am a stored action!"¶ 20
+¶.¶ ¶.¶ 20
+¶When¶ ¶when¶ 0a
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶:¶ ¶:¶ 20
+¶follow¶ ¶follow¶ 20
+¶zog¶ ¶zog¶ 20
+¶for¶ ¶for¶ 20
+¶the¶ ¶the¶ 20
+¶Swedish¶ ¶swedish¶ 20
+¶language¶ ¶language¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

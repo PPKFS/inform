@@ -1,0 +1,24 @@
+15 words
+¶the¶ ¶church¶ ¶is¶ ¶a¶ ¶room¶ ¶|__¶ ¶stored¶ ¶actions¶ ¶variable¶ ¶truth¶ ¶state¶ ¶that¶ ¶varies¶ ¶.¶ 
+14 distinct words
+¶The¶ ¶the¶ 0a
+¶Church¶ ¶church¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶stored¶ ¶stored¶ 20
+¶actions¶ ¶actions¶ 20
+¶variable¶ ¶variable¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶truth¶ ¶truth¶ 20
+¶state¶ ¶state¶ 20
+¶that¶ ¶that¶ 20
+¶varies¶ ¶varies¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

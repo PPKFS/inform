@@ -1,0 +1,49 @@
+38 words
+¶the¶ ¶ni¶ ¶school¶ ¶for¶ ¶typing¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶when¶ ¶play¶ ¶begins¶ ¶:¶ ¶say¶ ¶unicode¶ ¶coastline¶ ¶of¶ ¶spain¶ ¶;¶ ¶"Look at the "¶ ¶,¶ ¶france¶ ¶" there."¶ ¶let¶ ¶t¶ ¶be¶ ¶"oh, my, that appears to be "¶ ¶italy¶ ¶""¶ 
+30 distinct words
+¶The¶ ¶the¶ 0a
+¶NI¶ ¶ni¶ 20
+¶School¶ ¶school¶ 20
+¶for¶ ¶for¶ 20
+¶Typing¶ ¶typing¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶When¶ ¶when¶ 20
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶:¶ ¶:¶ 20
+¶say¶ ¶say¶ 41
+¶unicode¶ ¶unicode¶ 20
+¶Coastline¶ ¶coastline¶ 20
+¶of¶ ¶of¶ 20
+¶Spain¶ ¶spain¶ 20
+¶;¶ ¶;¶ 20
+¶say¶ ¶say¶ 41
+¶"Look at the "¶ ¶"Look at the "¶ 20
+¶,¶ ¶,¶ 20
+¶unicode¶ ¶unicode¶ 20
+¶Coastline¶ ¶coastline¶ 20
+¶of¶ ¶of¶ 20
+¶France¶ ¶france¶ 20
+¶,¶ ¶,¶ 20
+¶" there."¶ ¶" there."¶ 20
+¶;¶ ¶;¶ 20
+¶let¶ ¶let¶ 41
+¶T¶ ¶t¶ 20
+¶be¶ ¶be¶ 20
+¶"oh, my, that appears to be "¶ ¶"oh, my, that appears to be "¶ 20
+¶,¶ ¶,¶ 20
+¶unicode¶ ¶unicode¶ 20
+¶Coastline¶ ¶coastline¶ 20
+¶of¶ ¶of¶ 20
+¶Italy¶ ¶italy¶ 20
+¶,¶ ¶,¶ 20
+¶""¶ ¶""¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

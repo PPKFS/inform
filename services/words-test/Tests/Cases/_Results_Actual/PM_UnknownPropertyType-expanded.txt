@@ -1,0 +1,28 @@
+17 words
+¶there¶ ¶is¶ ¶room¶ ¶.¶ ¶|__¶ ¶the¶ ¶verb¶ ¶to¶ ¶be¶ ¶read¶ ¶implies¶ ¶printed¶ ¶text¶ ¶property¶ ¶yourself¶ ¶"hah!"¶ 
+16 distinct words
+¶There¶ ¶there¶ 0a
+¶is¶ ¶is¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶verb¶ ¶verb¶ 20
+¶to¶ ¶to¶ 20
+¶be¶ ¶be¶ 20
+¶read¶ ¶read¶ 20
+¶implies¶ ¶implies¶ 20
+¶the¶ ¶the¶ 20
+¶printed¶ ¶printed¶ 20
+¶text¶ ¶text¶ 20
+¶property¶ ¶property¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Yourself¶ ¶yourself¶ 20
+¶is¶ ¶is¶ 20
+¶read¶ ¶read¶ 20
+¶"hah!"¶ ¶"hah!"¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,20 @@
+11 words
+¶the¶ ¶taj¶ ¶mahal¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶portable¶ ¶|__¶ 
+9 distinct words
+¶The¶ ¶the¶ 0a
+¶Taj¶ ¶taj¶ 20
+¶Mahal¶ ¶mahal¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶The¶ ¶the¶ 20
+¶Taj¶ ¶taj¶ 20
+¶Mahal¶ ¶mahal¶ 20
+¶is¶ ¶is¶ 20
+¶portable¶ ¶portable¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

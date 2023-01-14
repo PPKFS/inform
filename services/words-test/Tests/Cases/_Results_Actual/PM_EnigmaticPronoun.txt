@@ -1,0 +1,17 @@
+7 words
+¶it¶ ¶is¶ ¶lighted¶ ¶.¶ ¶|__¶ ¶xanadu¶ ¶a¶ ¶room¶ 
+8 distinct words
+¶It¶ ¶it¶ 0a
+¶is¶ ¶is¶ 20
+¶lighted¶ ¶lighted¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Xanadu¶ ¶xanadu¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

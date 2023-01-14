@@ -1,0 +1,31 @@
+21 words
+¶the¶ ¶winter¶ ¶palace¶ ¶and¶ ¶hills¶ ¶are¶ ¶rooms¶ ¶.¶ ¶|__¶ ¶printed¶ ¶name¶ ¶of¶ ¶is¶ 
+13 distinct words
+¶The¶ ¶the¶ 0a
+¶Winter¶ ¶winter¶ 20
+¶Palace¶ ¶palace¶ 20
+¶and¶ ¶and¶ 20
+¶the¶ ¶the¶ 20
+¶Hills¶ ¶hills¶ 20
+¶are¶ ¶are¶ 20
+¶rooms¶ ¶rooms¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶printed¶ ¶printed¶ 20
+¶name¶ ¶name¶ 20
+¶of¶ ¶of¶ 20
+¶the¶ ¶the¶ 20
+¶Palace¶ ¶palace¶ 20
+¶is¶ ¶is¶ 20
+¶the¶ ¶the¶ 20
+¶printed¶ ¶printed¶ 20
+¶name¶ ¶name¶ 20
+¶of¶ ¶of¶ 20
+¶the¶ ¶the¶ 20
+¶Hills¶ ¶hills¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

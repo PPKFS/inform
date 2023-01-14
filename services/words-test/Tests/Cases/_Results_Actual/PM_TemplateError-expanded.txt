@@ -1,0 +1,30 @@
+8 words
+¶cliff¶ ¶edge¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶include¶ ¶(-¶ ¶
+
+{-callv:Banana Milk Shake}
+
+¶ 
+10 distinct words
+¶Cliff¶ ¶cliff¶ 0a
+¶Edge¶ ¶edge¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Include¶ ¶include¶ 20
+¶(-¶ ¶(-¶ 20
+¶
+
+{-callv:Banana Milk Shake}
+
+¶ ¶
+
+{-callv:Banana Milk Shake}
+
+¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

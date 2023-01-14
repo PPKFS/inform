@@ -1,0 +1,16 @@
+8 words
+¶a¶ ¶door¶ ¶is¶ ¶in¶ ¶the¶ ¶hall¶ ¶of¶ ¶infinity¶ ¶.¶ ¶|__¶ 
+10 distinct words
+¶A¶ ¶a¶ 0a
+¶door¶ ¶door¶ 20
+¶is¶ ¶is¶ 20
+¶in¶ ¶in¶ 20
+¶the¶ ¶the¶ 20
+¶Hall¶ ¶hall¶ 20
+¶of¶ ¶of¶ 20
+¶Infinity¶ ¶infinity¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

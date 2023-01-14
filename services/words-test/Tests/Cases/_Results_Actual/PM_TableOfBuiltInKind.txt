@@ -1,0 +1,30 @@
+20 words
+¶the¶ ¶admiralty¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶some¶ ¶numbers¶ ¶are¶ ¶defined¶ ¶by¶ ¶table¶ ¶1¶ ¶|__¶ ¶-¶ ¶numerals¶ ¶name¶ ¶french¶ ¶4¶ ¶"quatre"¶ 
+20 distinct words
+¶The¶ ¶the¶ 0a
+¶Admiralty¶ ¶admiralty¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶Some¶ ¶some¶ 20
+¶numbers¶ ¶numbers¶ 20
+¶are¶ ¶are¶ 20
+¶defined¶ ¶defined¶ 20
+¶by¶ ¶by¶ 20
+¶Table¶ ¶table¶ 20
+¶1¶ ¶1¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Table¶ ¶table¶ 20
+¶1¶ ¶1¶ 20
+¶-¶ ¶-¶ 20
+¶Numerals¶ ¶numerals¶ 20
+¶name¶ ¶name¶ 0a
+¶French¶ ¶french¶ 09
+¶4¶ ¶4¶ 0a
+¶"quatre"¶ ¶"quatre"¶ 09
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

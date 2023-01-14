@@ -1,0 +1,21 @@
+11 words
+¶xanadu¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶kind¶ ¶can¶ ¶be¶ ¶significant¶ ¶or¶ ¶ordinary¶ 
+12 distinct words
+¶Xanadu¶ ¶xanadu¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶A¶ ¶a¶ 20
+¶kind¶ ¶kind¶ 20
+¶can¶ ¶can¶ 20
+¶be¶ ¶be¶ 20
+¶significant¶ ¶significant¶ 20
+¶or¶ ¶or¶ 20
+¶ordinary¶ ¶ordinary¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

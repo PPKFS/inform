@@ -1,0 +1,25 @@
+15 words
+¶foo¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶quog¶ ¶that¶ ¶varies¶ ¶the¶ ¶player¶ ¶in¶ ¶|__¶ 
+12 distinct words
+¶Foo¶ ¶foo¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶Quog¶ ¶quog¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶that¶ ¶that¶ 20
+¶varies¶ ¶varies¶ 20
+¶.¶ ¶.¶ 20
+¶The¶ ¶the¶ 0a
+¶player¶ ¶player¶ 20
+¶is¶ ¶is¶ 20
+¶in¶ ¶in¶ 20
+¶Quog¶ ¶quog¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

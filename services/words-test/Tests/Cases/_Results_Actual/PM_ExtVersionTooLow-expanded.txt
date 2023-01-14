@@ -1,0 +1,35 @@
+23 words
+¶include¶ ¶version¶ ¶3/070628¶ ¶of¶ ¶extversiontoolow¶ ¶extension¶ ¶by¶ ¶araminta¶ ¶intest¶ ¶.¶ ¶|__¶ ¶2.7¶ ¶extnoversion¶ ¶beachy¶ ¶head¶ ¶is¶ ¶a¶ ¶room¶ 
+18 distinct words
+¶Include¶ ¶include¶ 0a
+¶version¶ ¶version¶ 20
+¶3/070628¶ ¶3/070628¶ 20
+¶of¶ ¶of¶ 20
+¶ExtVersionTooLow¶ ¶extversiontoolow¶ 20
+¶Extension¶ ¶extension¶ 20
+¶by¶ ¶by¶ 20
+¶Araminta¶ ¶araminta¶ 20
+¶Intest¶ ¶intest¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Include¶ ¶include¶ 20
+¶version¶ ¶version¶ 20
+¶2.7¶ ¶2.7¶ 20
+¶of¶ ¶of¶ 20
+¶ExtNoVersion¶ ¶extnoversion¶ 20
+¶Extension¶ ¶extension¶ 20
+¶by¶ ¶by¶ 20
+¶Araminta¶ ¶araminta¶ 20
+¶Intest¶ ¶intest¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Beachy¶ ¶beachy¶ 20
+¶Head¶ ¶head¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

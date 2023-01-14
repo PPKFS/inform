@@ -1,0 +1,28 @@
+18 words
+¶the¶ ¶gram-schmidt¶ ¶memorial¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶statue¶ ¶in¶ ¶|__¶ ¶understand¶ ¶"look [frog"¶ ¶as¶ 
+13 distinct words
+¶The¶ ¶the¶ 0a
+¶Gram-Schmidt¶ ¶gram-schmidt¶ 20
+¶Memorial¶ ¶memorial¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶The¶ ¶the¶ 20
+¶statue¶ ¶statue¶ 20
+¶is¶ ¶is¶ 20
+¶in¶ ¶in¶ 20
+¶the¶ ¶the¶ 20
+¶Memorial¶ ¶memorial¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Understand¶ ¶understand¶ 20
+¶"look [frog"¶ ¶"look [frog"¶ 20
+¶as¶ ¶as¶ 20
+¶the¶ ¶the¶ 20
+¶statue¶ ¶statue¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

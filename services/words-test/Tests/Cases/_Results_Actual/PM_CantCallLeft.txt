@@ -1,0 +1,26 @@
+14 words
+¶home¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶ineptness¶ ¶relates¶ ¶various¶ ¶rooms¶ ¶(¶ ¶called¶ ¶the¶ ¶domain¶ ¶)¶ ¶to¶ ¶one¶ 
+17 distinct words
+¶Home¶ ¶home¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Ineptness¶ ¶ineptness¶ 20
+¶relates¶ ¶relates¶ 20
+¶various¶ ¶various¶ 20
+¶rooms¶ ¶rooms¶ 20
+¶(¶ ¶(¶ 20
+¶called¶ ¶called¶ 20
+¶the¶ ¶the¶ 20
+¶domain¶ ¶domain¶ 20
+¶)¶ ¶)¶ 20
+¶to¶ ¶to¶ 20
+¶one¶ ¶one¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

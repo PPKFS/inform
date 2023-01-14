@@ -1,0 +1,15 @@
+7 words
+¶release¶ ¶along¶ ¶with¶ ¶an¶ ¶existing¶ ¶story¶ ¶file¶ ¶.¶ ¶|__¶ 
+9 distinct words
+¶Release¶ ¶release¶ 0a
+¶along¶ ¶along¶ 20
+¶with¶ ¶with¶ 20
+¶an¶ ¶an¶ 20
+¶existing¶ ¶existing¶ 20
+¶story¶ ¶story¶ 20
+¶file¶ ¶file¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

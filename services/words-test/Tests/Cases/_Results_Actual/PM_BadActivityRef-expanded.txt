@@ -1,0 +1,22 @@
+12 words
+¶xanadu¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶printing¶ ¶the¶ ¶name¶ ¶has¶ ¶number¶ ¶called¶ ¶fred¶ 
+13 distinct words
+¶Xanadu¶ ¶xanadu¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Printing¶ ¶printing¶ 20
+¶the¶ ¶the¶ 20
+¶name¶ ¶name¶ 20
+¶has¶ ¶has¶ 20
+¶a¶ ¶a¶ 20
+¶number¶ ¶number¶ 20
+¶called¶ ¶called¶ 20
+¶Fred¶ ¶fred¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

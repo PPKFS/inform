@@ -1,0 +1,15 @@
+7 words
+¶in¶ ¶the¶ ¶box¶ ¶is¶ ¶on¶ ¶table¶ ¶.¶ ¶|__¶ 
+8 distinct words
+¶In¶ ¶in¶ 0a
+¶the¶ ¶the¶ 20
+¶box¶ ¶box¶ 20
+¶is¶ ¶is¶ 20
+¶on¶ ¶on¶ 20
+¶the¶ ¶the¶ 20
+¶table¶ ¶table¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

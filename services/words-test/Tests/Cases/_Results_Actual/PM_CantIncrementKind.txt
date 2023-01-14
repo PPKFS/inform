@@ -1,0 +1,30 @@
+19 words
+¶there¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶has¶ ¶person¶ ¶called¶ ¶spong¶ ¶every¶ ¶turn¶ ¶:¶ ¶increment¶ ¶the¶ ¶of¶ ¶location¶ ¶;¶ ¶|__¶ 
+18 distinct words
+¶There¶ ¶there¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶A¶ ¶a¶ 0a
+¶room¶ ¶room¶ 20
+¶has¶ ¶has¶ 20
+¶a¶ ¶a¶ 20
+¶person¶ ¶person¶ 20
+¶called¶ ¶called¶ 20
+¶spong¶ ¶spong¶ 20
+¶.¶ ¶.¶ 20
+¶Every¶ ¶every¶ 0a
+¶turn¶ ¶turn¶ 20
+¶:¶ ¶:¶ 20
+¶increment¶ ¶increment¶ 41
+¶the¶ ¶the¶ 20
+¶spong¶ ¶spong¶ 20
+¶of¶ ¶of¶ 20
+¶the¶ ¶the¶ 20
+¶location¶ ¶location¶ 20
+¶;¶ ¶;¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

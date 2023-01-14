@@ -1,0 +1,32 @@
+25 words
+¶the¶ ¶burrow¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶wellington¶ ¶and¶ ¶orinoco¶ ¶are¶ ¶in¶ ¶|__¶ ¶instead¶ ¶of¶ ¶pushing¶ ¶or¶ ¶,¶ ¶say¶ ¶"Be a good Womble, now."¶ 
+19 distinct words
+¶The¶ ¶the¶ 0a
+¶Burrow¶ ¶burrow¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶Wellington¶ ¶wellington¶ 20
+¶and¶ ¶and¶ 20
+¶Orinoco¶ ¶orinoco¶ 20
+¶are¶ ¶are¶ 20
+¶in¶ ¶in¶ 20
+¶the¶ ¶the¶ 20
+¶Burrow¶ ¶burrow¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Instead¶ ¶instead¶ 20
+¶of¶ ¶of¶ 20
+¶pushing¶ ¶pushing¶ 20
+¶Wellington¶ ¶wellington¶ 20
+¶or¶ ¶or¶ 20
+¶pushing¶ ¶pushing¶ 20
+¶Orinoco¶ ¶orinoco¶ 20
+¶,¶ ¶,¶ 20
+¶say¶ ¶say¶ 20
+¶"Be a good Womble, now."¶ ¶"Be a good Womble, now."¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

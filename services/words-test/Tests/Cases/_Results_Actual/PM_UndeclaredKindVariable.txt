@@ -1,0 +1,24 @@
+11 words
+¶xanadu¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶to¶ ¶splodge¶ ¶(¶ ¶val¶ ¶-¶ ¶k¶ ¶)¶ ¶:¶ ¶do¶ ¶nothing¶ 
+16 distinct words
+¶Xanadu¶ ¶xanadu¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶To¶ ¶to¶ 20
+¶splodge¶ ¶splodge¶ 20
+¶(¶ ¶(¶ 20
+¶val¶ ¶val¶ 20
+¶-¶ ¶-¶ 20
+¶K¶ ¶k¶ 20
+¶)¶ ¶)¶ 20
+¶:¶ ¶:¶ 20
+¶do¶ ¶do¶ 20
+¶nothing¶ ¶nothing¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

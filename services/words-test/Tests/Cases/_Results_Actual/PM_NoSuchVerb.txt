@@ -1,0 +1,15 @@
+7 words
+¶jackdaws¶ ¶love¶ ¶my¶ ¶big¶ ¶sphinx¶ ¶of¶ ¶quartz¶ ¶.¶ ¶|__¶ 
+9 distinct words
+¶Jackdaws¶ ¶jackdaws¶ 0a
+¶love¶ ¶love¶ 20
+¶my¶ ¶my¶ 20
+¶big¶ ¶big¶ 20
+¶sphinx¶ ¶sphinx¶ 20
+¶of¶ ¶of¶ 20
+¶quartz¶ ¶quartz¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

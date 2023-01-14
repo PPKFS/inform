@@ -1,0 +1,12 @@
+4 words
+¶carelessness¶ ¶is¶ ¶dropping¶ ¶something¶ ¶.¶ ¶|__¶ 
+6 distinct words
+¶Carelessness¶ ¶carelessness¶ 0a
+¶is¶ ¶is¶ 20
+¶dropping¶ ¶dropping¶ 20
+¶something¶ ¶something¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

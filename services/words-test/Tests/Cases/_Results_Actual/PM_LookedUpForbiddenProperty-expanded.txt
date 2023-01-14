@@ -1,0 +1,28 @@
+17 words
+¶xanadu¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶when¶ ¶play¶ ¶begins¶ ¶:¶ ¶let¶ ¶m¶ ¶be¶ ¶the¶ ¶carrying¶ ¶capacity¶ ¶of¶ ¶entire¶ ¶game¶ 
+19 distinct words
+¶Xanadu¶ ¶xanadu¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶When¶ ¶when¶ 20
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶:¶ ¶:¶ 20
+¶let¶ ¶let¶ 0a
+¶M¶ ¶m¶ 20
+¶be¶ ¶be¶ 20
+¶the¶ ¶the¶ 20
+¶carrying¶ ¶carrying¶ 20
+¶capacity¶ ¶capacity¶ 20
+¶of¶ ¶of¶ 20
+¶the¶ ¶the¶ 20
+¶Entire¶ ¶entire¶ 20
+¶Game¶ ¶game¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

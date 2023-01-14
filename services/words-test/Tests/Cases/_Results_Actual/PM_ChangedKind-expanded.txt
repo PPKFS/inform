@@ -1,0 +1,27 @@
+16 words
+¶colour¶ ¶is¶ ¶a¶ ¶kind¶ ¶of¶ ¶value¶ ¶.¶ ¶the¶ ¶colours¶ ¶are¶ ¶red¶ ¶and¶ ¶black¶ ¶|__¶ ¶number¶ 
+15 distinct words
+¶Colour¶ ¶colour¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶kind¶ ¶kind¶ 20
+¶of¶ ¶of¶ 20
+¶value¶ ¶value¶ 20
+¶.¶ ¶.¶ 20
+¶The¶ ¶the¶ 20
+¶colours¶ ¶colours¶ 20
+¶are¶ ¶are¶ 20
+¶red¶ ¶red¶ 20
+¶and¶ ¶and¶ 20
+¶black¶ ¶black¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Red¶ ¶red¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶number¶ ¶number¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

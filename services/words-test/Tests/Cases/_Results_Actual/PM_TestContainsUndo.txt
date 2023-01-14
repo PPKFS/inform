@@ -1,0 +1,20 @@
+11 words
+¶the¶ ¶fudge¶ ¶palace¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶test¶ ¶me¶ ¶with¶ ¶"eat fudge/undo"¶ 
+12 distinct words
+¶The¶ ¶the¶ 0a
+¶Fudge¶ ¶fudge¶ 20
+¶Palace¶ ¶palace¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Test¶ ¶test¶ 20
+¶me¶ ¶me¶ 20
+¶with¶ ¶with¶ 20
+¶"eat fudge/undo"¶ ¶"eat fudge/undo"¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

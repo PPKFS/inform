@@ -1,0 +1,21 @@
+11 words
+¶a¶ ¶thing¶ ¶is¶ ¶kind¶ ¶of¶ ¶room¶ ¶.¶ ¶|__¶ ¶foo¶ 
+9 distinct words
+¶A¶ ¶a¶ 0a
+¶thing¶ ¶thing¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶kind¶ ¶kind¶ 20
+¶of¶ ¶of¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Foo¶ ¶foo¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

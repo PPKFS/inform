@@ -1,0 +1,21 @@
+11 words
+¶the¶ ¶kitchen¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶examine¶ ¶supporters¶ ¶rule¶ ¶north¶ 
+11 distinct words
+¶The¶ ¶the¶ 0a
+¶Kitchen¶ ¶kitchen¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶examine¶ ¶examine¶ 20
+¶supporters¶ ¶supporters¶ 20
+¶rule¶ ¶rule¶ 20
+¶is¶ ¶is¶ 20
+¶north¶ ¶north¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

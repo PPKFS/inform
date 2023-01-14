@@ -1,0 +1,18 @@
+9 words
+¶foo¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶12¶ ¶east¶ ¶of¶ ¶|__¶ 
+9 distinct words
+¶Foo¶ ¶foo¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶12¶ ¶12¶ 0a
+¶is¶ ¶is¶ 20
+¶east¶ ¶east¶ 20
+¶of¶ ¶of¶ 20
+¶Foo¶ ¶foo¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

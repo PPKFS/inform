@@ -1,0 +1,34 @@
+20 words
+¶place¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶finale¶ ¶scene¶ ¶every¶ ¶turn¶ ¶:¶ ¶now¶ ¶lighted¶ ¶;¶ ¶action¶ ¶requires¶ ¶carried¶ ¶noun¶ 
+18 distinct words
+¶Place¶ ¶place¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Finale¶ ¶finale¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶scene¶ ¶scene¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Every¶ ¶every¶ 20
+¶turn¶ ¶turn¶ 20
+¶:¶ ¶:¶ 20
+¶now¶ ¶now¶ 20
+¶Place¶ ¶place¶ 20
+¶is¶ ¶is¶ 20
+¶lighted¶ ¶lighted¶ 20
+¶;¶ ¶;¶ 20
+¶now¶ ¶now¶ 20
+¶action¶ ¶action¶ 20
+¶requires¶ ¶requires¶ 20
+¶a¶ ¶a¶ 20
+¶carried¶ ¶carried¶ 20
+¶noun¶ ¶noun¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

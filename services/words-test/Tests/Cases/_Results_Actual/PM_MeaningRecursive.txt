@@ -1,0 +1,28 @@
+17 words
+¶foo¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶wog¶ ¶always¶ ¶zog¶ ¶when¶ ¶play¶ ¶begins¶ ¶:¶ ¶say¶ ¶"[Wog]."¶ ¶|__¶ 
+15 distinct words
+¶Foo¶ ¶foo¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶Wog¶ ¶wog¶ 0a
+¶is¶ ¶is¶ 20
+¶always¶ ¶always¶ 20
+¶Zog¶ ¶zog¶ 20
+¶.¶ ¶.¶ 20
+¶Zog¶ ¶zog¶ 0a
+¶is¶ ¶is¶ 20
+¶always¶ ¶always¶ 20
+¶Wog¶ ¶wog¶ 20
+¶.¶ ¶.¶ 20
+¶When¶ ¶when¶ 0a
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶:¶ ¶:¶ 20
+¶say¶ ¶say¶ 20
+¶"[Wog]."¶ ¶"[Wog]."¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

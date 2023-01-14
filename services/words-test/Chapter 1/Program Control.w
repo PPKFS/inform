@@ -30,8 +30,8 @@ int main(int argc, char **argv) {
 
 void Main::respond(int id, int val, text_stream *arg, void *state) {
 	switch (id) {
-		case TEST_LEXER_CLSW: Unit::test_lexer(arg); break;
-		case TEST_PREFORM_CLSW: Unit::test_preform(arg); break;
+		case TEST_LEXER_CLSW: Unit::test_lexer(arg, FALSE); break;
+		case TEST_PREFORM_CLSW: Unit::test_lexer(arg, TRUE); break;
 	}
 }
 

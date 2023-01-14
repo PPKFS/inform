@@ -1,0 +1,27 @@
+16 words
+¶xanadu¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶to¶ ¶decide¶ ¶which¶ ¶truth¶ ¶state¶ ¶the¶ ¶mystical¶ ¶outcome¶ ¶:¶ ¶on¶ ¶false¶ 
+17 distinct words
+¶Xanadu¶ ¶xanadu¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶To¶ ¶to¶ 20
+¶decide¶ ¶decide¶ 20
+¶which¶ ¶which¶ 20
+¶truth¶ ¶truth¶ 20
+¶state¶ ¶state¶ 20
+¶is¶ ¶is¶ 20
+¶the¶ ¶the¶ 20
+¶mystical¶ ¶mystical¶ 20
+¶outcome¶ ¶outcome¶ 20
+¶:¶ ¶:¶ 20
+¶decide¶ ¶decide¶ 20
+¶on¶ ¶on¶ 20
+¶false¶ ¶false¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

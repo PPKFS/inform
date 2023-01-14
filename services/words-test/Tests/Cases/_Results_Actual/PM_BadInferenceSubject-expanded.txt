@@ -1,0 +1,21 @@
+11 words
+¶xanadu¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶the¶ ¶carrying¶ ¶capacity¶ ¶of¶ ¶10¶ ¶5¶ 
+12 distinct words
+¶Xanadu¶ ¶xanadu¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶carrying¶ ¶carrying¶ 20
+¶capacity¶ ¶capacity¶ 20
+¶of¶ ¶of¶ 20
+¶10¶ ¶10¶ 20
+¶is¶ ¶is¶ 20
+¶5¶ ¶5¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

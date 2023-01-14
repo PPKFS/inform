@@ -1,0 +1,23 @@
+13 words
+¶xanadu¶ ¶and¶ ¶alph¶ ¶are¶ ¶rooms¶ ¶.¶ ¶|__¶ ¶index¶ ¶map¶ ¶with¶ ¶mapped¶ ¶of¶ 
+12 distinct words
+¶Xanadu¶ ¶xanadu¶ 0a
+¶and¶ ¶and¶ 20
+¶Alph¶ ¶alph¶ 20
+¶are¶ ¶are¶ 20
+¶rooms¶ ¶rooms¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Index¶ ¶index¶ 20
+¶map¶ ¶map¶ 20
+¶with¶ ¶with¶ 20
+¶Xanadu¶ ¶xanadu¶ 20
+¶mapped¶ ¶mapped¶ 20
+¶Alph¶ ¶alph¶ 20
+¶of¶ ¶of¶ 20
+¶Alph¶ ¶alph¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

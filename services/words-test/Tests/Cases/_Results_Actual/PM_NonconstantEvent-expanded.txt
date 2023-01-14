@@ -1,0 +1,29 @@
+16 words
+¶frogstar¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶when¶ ¶play¶ ¶begins¶ ¶:¶ ¶let¶ ¶k¶ ¶be¶ ¶rule¶ ¶;¶ ¶at¶ ¶10:11¶ ¶am¶ 
+18 distinct words
+¶Frogstar¶ ¶frogstar¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶When¶ ¶when¶ 20
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶:¶ ¶:¶ 20
+¶let¶ ¶let¶ 41
+¶K¶ ¶k¶ 20
+¶be¶ ¶be¶ 20
+¶a¶ ¶a¶ 20
+¶rule¶ ¶rule¶ 20
+¶;¶ ¶;¶ 20
+¶K¶ ¶k¶ 41
+¶at¶ ¶at¶ 20
+¶10:11¶ ¶10:11¶ 20
+¶AM¶ ¶am¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

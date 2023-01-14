@@ -1,0 +1,68 @@
+73 words
+¶place¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶the¶ ¶player¶ ¶carries¶ ¶an¶ ¶edible¶ ¶container¶ ¶called¶ ¶ice¶ ¶cream¶ ¶cone¶ ¶thing¶ ¶scoop¶ ¶of¶ ¶mint¶ ¶in¶ ¶cherry¶ ¶description¶ ¶"A delicious ice cream cone[if the cherry is in the ice
+cream cone], topped with a cherry[else if], sadly lacking a cherry[end if]."¶ 
+24 distinct words
+¶Place¶ ¶place¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶player¶ ¶player¶ 20
+¶carries¶ ¶carries¶ 20
+¶an¶ ¶an¶ 20
+¶edible¶ ¶edible¶ 20
+¶container¶ ¶container¶ 20
+¶called¶ ¶called¶ 20
+¶an¶ ¶an¶ 20
+¶ice¶ ¶ice¶ 20
+¶cream¶ ¶cream¶ 20
+¶cone¶ ¶cone¶ 20
+¶.¶ ¶.¶ 20
+¶An¶ ¶an¶ 20
+¶edible¶ ¶edible¶ 20
+¶thing¶ ¶thing¶ 20
+¶called¶ ¶called¶ 20
+¶a¶ ¶a¶ 20
+¶scoop¶ ¶scoop¶ 20
+¶of¶ ¶of¶ 20
+¶mint¶ ¶mint¶ 20
+¶ice¶ ¶ice¶ 0a
+¶cream¶ ¶cream¶ 20
+¶is¶ ¶is¶ 20
+¶in¶ ¶in¶ 20
+¶the¶ ¶the¶ 20
+¶ice¶ ¶ice¶ 20
+¶cream¶ ¶cream¶ 20
+¶cone¶ ¶cone¶ 20
+¶.¶ ¶.¶ 20
+¶In¶ ¶in¶ 20
+¶the¶ ¶the¶ 20
+¶ice¶ ¶ice¶ 20
+¶cream¶ ¶cream¶ 20
+¶cone¶ ¶cone¶ 20
+¶is¶ ¶is¶ 20
+¶an¶ ¶an¶ 20
+¶edible¶ ¶edible¶ 20
+¶thing¶ ¶thing¶ 20
+¶called¶ ¶called¶ 20
+¶a¶ ¶a¶ 20
+¶cherry¶ ¶cherry¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶description¶ ¶description¶ 20
+¶of¶ ¶of¶ 20
+¶the¶ ¶the¶ 20
+¶ice¶ ¶ice¶ 20
+¶cream¶ ¶cream¶ 20
+¶cone¶ ¶cone¶ 20
+¶is¶ ¶is¶ 20
+¶"A delicious ice cream cone[if the cherry is in the ice
+cream cone], topped with a cherry[else if], sadly lacking a cherry[end if]."¶ ¶"A delicious ice cream cone[if the cherry is in the ice
+cream cone], topped with a cherry[else if], sadly lacking a cherry[end if]."¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,29 @@
+19 words
+¶the¶ ¶components¶ ¶palace¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶widget¶ ¶thing¶ ¶with¶ ¶printed¶ ¶name¶ ¶container¶ ¶in¶ 
+15 distinct words
+¶The¶ ¶the¶ 0a
+¶Components¶ ¶components¶ 20
+¶Palace¶ ¶palace¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶widget¶ ¶widget¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶thing¶ ¶thing¶ 20
+¶with¶ ¶with¶ 20
+¶printed¶ ¶printed¶ 20
+¶name¶ ¶name¶ 20
+¶a¶ ¶a¶ 20
+¶container¶ ¶container¶ 20
+¶in¶ ¶in¶ 20
+¶the¶ ¶the¶ 20
+¶Palace¶ ¶palace¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

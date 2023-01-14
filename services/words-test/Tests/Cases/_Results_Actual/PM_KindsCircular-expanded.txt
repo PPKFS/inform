@@ -1,0 +1,21 @@
+11 words
+¶there¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶person¶ ¶kind¶ ¶of¶ ¶animal¶ 
+10 distinct words
+¶There¶ ¶there¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶A¶ ¶a¶ 20
+¶person¶ ¶person¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶kind¶ ¶kind¶ 20
+¶of¶ ¶of¶ 20
+¶animal¶ ¶animal¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

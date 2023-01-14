@@ -1,0 +1,24 @@
+46 words
+¶the¶ ¶studio¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶"The TV studio is small and dominated by the personality of the interviewer."¶ ¶|__¶ ¶table¶ ¶of¶ ¶interview¶ ¶topic¶ ¶question¶ ¶answer¶ ¶"War"¶ ¶"Was the decision to go to war taken by you alone?"¶ ¶"Of course not. It was the will of the people."¶ 
+17 distinct words
+¶The¶ ¶the¶ 0a
+¶Studio¶ ¶studio¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶"The TV studio is small and dominated by the personality of the interviewer."¶ ¶"The TV studio is small and dominated by the personality of the interviewer."¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Table¶ ¶table¶ 20
+¶of¶ ¶of¶ 20
+¶Interview¶ ¶interview¶ 20
+¶Topic¶ ¶topic¶ 0a
+¶Question¶ ¶question¶ 09
+¶Answer¶ ¶answer¶ 09
+¶"War"¶ ¶"War"¶ 0a
+¶"Was the decision to go to war taken by you alone?"¶ ¶"Was the decision to go to war taken by you alone?"¶ 09
+¶"Of course not. It was the will of the people."¶ ¶"Of course not. It was the will of the people."¶ 09
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

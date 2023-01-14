@@ -1,0 +1,23 @@
+12 words
+¶there¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶to¶ ¶decide¶ ¶which¶ ¶value¶ ¶froggg¶ ¶:¶ ¶(-¶ ¶ 0 ¶ ¶|__¶ 
+14 distinct words
+¶There¶ ¶there¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶To¶ ¶to¶ 0a
+¶decide¶ ¶decide¶ 20
+¶which¶ ¶which¶ 20
+¶value¶ ¶value¶ 20
+¶is¶ ¶is¶ 20
+¶froggg¶ ¶froggg¶ 20
+¶:¶ ¶:¶ 20
+¶(-¶ ¶(-¶ 20
+¶ 0 ¶ ¶ 0 ¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

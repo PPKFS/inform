@@ -1,0 +1,25 @@
+14 words
+¶wharf¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶when¶ ¶play¶ ¶begins¶ ¶:¶ ¶now¶ ¶woman¶ ¶in¶ ¶the¶ 
+14 distinct words
+¶Wharf¶ ¶wharf¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶When¶ ¶when¶ 20
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶:¶ ¶:¶ 20
+¶now¶ ¶now¶ 41
+¶a¶ ¶a¶ 20
+¶woman¶ ¶woman¶ 20
+¶is¶ ¶is¶ 20
+¶in¶ ¶in¶ 20
+¶the¶ ¶the¶ 20
+¶Wharf¶ ¶wharf¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

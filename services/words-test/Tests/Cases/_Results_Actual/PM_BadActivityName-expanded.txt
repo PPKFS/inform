@@ -1,0 +1,30 @@
+18 words
+¶wabe¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶5¶ ¶an¶ ¶activity¶ ¶prattling¶ ¶on¶ ¶about¶ 
+12 distinct words
+¶Wabe¶ ¶wabe¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶5¶ ¶5¶ 20
+¶is¶ ¶is¶ 20
+¶an¶ ¶an¶ 20
+¶activity¶ ¶activity¶ 20
+¶.¶ ¶.¶ 20
+¶Wabe¶ ¶wabe¶ 0a
+¶is¶ ¶is¶ 20
+¶an¶ ¶an¶ 20
+¶activity¶ ¶activity¶ 20
+¶.¶ ¶.¶ 20
+¶Prattling¶ ¶prattling¶ 0a
+¶on¶ ¶on¶ 20
+¶about¶ ¶about¶ 20
+¶is¶ ¶is¶ 20
+¶an¶ ¶an¶ 20
+¶activity¶ ¶activity¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,33 @@
+20 words
+¶sanitarium¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶theme¶ ¶kind¶ ¶of¶ ¶value¶ ¶movie¶ ¶thing¶ ¶has¶ ¶called¶ 
+14 distinct words
+¶Sanitarium¶ ¶sanitarium¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Theme¶ ¶theme¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶kind¶ ¶kind¶ 20
+¶of¶ ¶of¶ 20
+¶value¶ ¶value¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Movie¶ ¶movie¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶thing¶ ¶thing¶ 20
+¶.¶ ¶.¶ 20
+¶Movie¶ ¶movie¶ 20
+¶has¶ ¶has¶ 20
+¶a¶ ¶a¶ 20
+¶theme¶ ¶theme¶ 20
+¶called¶ ¶called¶ 20
+¶theme¶ ¶theme¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

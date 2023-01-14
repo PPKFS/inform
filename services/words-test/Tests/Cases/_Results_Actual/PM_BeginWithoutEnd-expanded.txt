@@ -1,0 +1,36 @@
+25 words
+¶burrow¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶to¶ ¶trigger¶ ¶an¶ ¶error¶ ¶:¶ ¶repeat¶ ¶with¶ ¶item¶ ¶running¶ ¶through¶ ¶things¶ ¶in¶ ¶the¶ ¶begin¶ ¶;¶ ¶say¶ ¶"Oh look, there's "¶ ¶,¶ ¶"."¶ 
+25 distinct words
+¶Burrow¶ ¶burrow¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶To¶ ¶to¶ 20
+¶trigger¶ ¶trigger¶ 20
+¶an¶ ¶an¶ 20
+¶error¶ ¶error¶ 20
+¶:¶ ¶:¶ 20
+¶repeat¶ ¶repeat¶ 41
+¶with¶ ¶with¶ 20
+¶item¶ ¶item¶ 20
+¶running¶ ¶running¶ 20
+¶through¶ ¶through¶ 20
+¶things¶ ¶things¶ 20
+¶in¶ ¶in¶ 20
+¶the¶ ¶the¶ 20
+¶Burrow¶ ¶burrow¶ 20
+¶begin¶ ¶begin¶ 20
+¶;¶ ¶;¶ 20
+¶say¶ ¶say¶ 42
+¶"Oh look, there's "¶ ¶"Oh look, there's "¶ 20
+¶,¶ ¶,¶ 20
+¶the¶ ¶the¶ 20
+¶item¶ ¶item¶ 20
+¶,¶ ¶,¶ 20
+¶"."¶ ¶"."¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

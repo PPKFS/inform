@@ -1,0 +1,12 @@
+4 words
+¶stretching¶ ¶is¶ ¶an¶ ¶action¶ ¶.¶ ¶|__¶ 
+6 distinct words
+¶Stretching¶ ¶stretching¶ 0a
+¶is¶ ¶is¶ 20
+¶an¶ ¶an¶ 20
+¶action¶ ¶action¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

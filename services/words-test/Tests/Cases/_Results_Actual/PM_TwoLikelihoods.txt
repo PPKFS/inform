@@ -1,0 +1,21 @@
+11 words
+¶lettuce¶ ¶patch¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶container¶ ¶never¶ ¶usually¶ ¶opaque¶ 
+11 distinct words
+¶Lettuce¶ ¶lettuce¶ 0a
+¶Patch¶ ¶patch¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶A¶ ¶a¶ 20
+¶container¶ ¶container¶ 20
+¶never¶ ¶never¶ 20
+¶is¶ ¶is¶ 20
+¶usually¶ ¶usually¶ 20
+¶opaque¶ ¶opaque¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

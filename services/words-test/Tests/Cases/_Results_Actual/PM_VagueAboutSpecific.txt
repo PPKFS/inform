@@ -1,0 +1,20 @@
+10 words
+¶the¶ ¶gazebo¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶usually¶ ¶lighted¶ 
+9 distinct words
+¶The¶ ¶the¶ 0a
+¶Gazebo¶ ¶gazebo¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶Gazebo¶ ¶gazebo¶ 20
+¶is¶ ¶is¶ 20
+¶usually¶ ¶usually¶ 20
+¶lighted¶ ¶lighted¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

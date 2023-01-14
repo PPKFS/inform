@@ -1,0 +1,35 @@
+35 words
+¶the¶ ¶white¶ ¶room¶ ¶is¶ ¶a¶ ¶.¶ ¶|__¶ ¶painting¶ ¶thing¶ ¶in¶ ¶"A lovely painting hangs on the wall."¶ ¶description¶ ¶"The medium seems to be crayon."¶ ¶scenery¶ 
+14 distinct words
+¶The¶ ¶the¶ 0a
+¶white¶ ¶white¶ 20
+¶room¶ ¶room¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶painting¶ ¶painting¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶thing¶ ¶thing¶ 20
+¶in¶ ¶in¶ 20
+¶the¶ ¶the¶ 20
+¶white¶ ¶white¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶"A lovely painting hangs on the wall."¶ ¶"A lovely painting hangs on the wall."¶ 20
+¶The¶ ¶the¶ 0a
+¶description¶ ¶description¶ 20
+¶is¶ ¶is¶ 20
+¶"The medium seems to be crayon."¶ ¶"The medium seems to be crayon."¶ 20
+¶The¶ ¶the¶ 20
+¶painting¶ ¶painting¶ 20
+¶is¶ ¶is¶ 20
+¶scenery¶ ¶scenery¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

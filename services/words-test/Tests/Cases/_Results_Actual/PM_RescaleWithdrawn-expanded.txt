@@ -1,0 +1,33 @@
+17 words
+¶lab¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶to¶ ¶flibble¶ ¶(¶ ¶x¶ ¶-¶ ¶number¶ ¶)¶ ¶:¶ ¶(-¶ ¶ {-rescale:X} ¶ ¶when¶ ¶play¶ ¶begins¶ ¶12¶ 
+20 distinct words
+¶Lab¶ ¶lab¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶To¶ ¶to¶ 20
+¶flibble¶ ¶flibble¶ 20
+¶(¶ ¶(¶ 20
+¶X¶ ¶x¶ 20
+¶-¶ ¶-¶ 20
+¶a¶ ¶a¶ 20
+¶number¶ ¶number¶ 20
+¶)¶ ¶)¶ 20
+¶:¶ ¶:¶ 20
+¶(-¶ ¶(-¶ 20
+¶ {-rescale:X} ¶ ¶ {-rescale:X} ¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶When¶ ¶when¶ 20
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶:¶ ¶:¶ 20
+¶flibble¶ ¶flibble¶ 20
+¶12¶ ¶12¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

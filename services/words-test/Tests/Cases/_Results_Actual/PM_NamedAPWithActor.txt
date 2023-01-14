@@ -1,0 +1,30 @@
+19 words
+¶xanadu¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶kubla¶ ¶khan¶ ¶man¶ ¶in¶ ¶|__¶ ¶trying¶ ¶taking¶ ¶something¶ ¶imperial¶ ¶behaviour¶ 
+15 distinct words
+¶Xanadu¶ ¶xanadu¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶Kubla¶ ¶kubla¶ 20
+¶Khan¶ ¶khan¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶man¶ ¶man¶ 20
+¶in¶ ¶in¶ 20
+¶Xanadu¶ ¶xanadu¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Kubla¶ ¶kubla¶ 20
+¶Khan¶ ¶khan¶ 20
+¶trying¶ ¶trying¶ 20
+¶taking¶ ¶taking¶ 20
+¶something¶ ¶something¶ 20
+¶is¶ ¶is¶ 20
+¶Imperial¶ ¶imperial¶ 20
+¶behaviour¶ ¶behaviour¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

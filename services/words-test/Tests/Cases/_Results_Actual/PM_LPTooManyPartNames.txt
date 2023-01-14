@@ -1,0 +1,31 @@
+20 words
+¶foo¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶blorb¶ ¶kind¶ ¶of¶ ¶value¶ ¶|__¶ ¶12b¶ ¶specifies¶ ¶with¶ ¶parts¶ ¶trog¶ ¶and¶ ¶wog¶ 
+17 distinct words
+¶Foo¶ ¶foo¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶A¶ ¶a¶ 20
+¶blorb¶ ¶blorb¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶kind¶ ¶kind¶ 20
+¶of¶ ¶of¶ 20
+¶value¶ ¶value¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶12B¶ ¶12b¶ 20
+¶specifies¶ ¶specifies¶ 20
+¶a¶ ¶a¶ 20
+¶blorb¶ ¶blorb¶ 20
+¶with¶ ¶with¶ 20
+¶parts¶ ¶parts¶ 20
+¶trog¶ ¶trog¶ 20
+¶and¶ ¶and¶ 20
+¶wog¶ ¶wog¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

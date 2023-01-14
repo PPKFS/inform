@@ -1,0 +1,78 @@
+98 words
+¶someplace¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶key¶ ¶,¶ ¶book¶ ¶and¶ ¶golden¶ ¶apple¶ ¶are¶ ¶in¶ ¶the¶ ¶edible¶ ¶table¶ ¶of¶ ¶legend¶ ¶topic¶ ¶script¶ ¶"ancients"¶ ¶or¶ ¶"ancient ones"¶ ¶"three"¶ ¶"'Trust in The Ancient Ones,
+those Three who showed mankind the way of Balance and Harmony.'"¶ ¶"harmony"¶ ¶"'Things in harmony combine to greater beauty than the sum of each considered
+alone.'"¶ ¶"balance"¶ ¶"Balance is required to prevent a disruption of the Pattern.'"¶ ¶"pattern"¶ ¶"The Pattern is All. All is the Pattern.'"¶ ¶definition¶ ¶:¶ ¶legendary¶ ¶rather¶ ¶than¶ ¶mundane¶ ¶if¶ ¶it¶ ¶listed¶ 
+41 distinct words
+¶Someplace¶ ¶someplace¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶A¶ ¶a¶ 20
+¶key¶ ¶key¶ 20
+¶,¶ ¶,¶ 20
+¶a¶ ¶a¶ 20
+¶book¶ ¶book¶ 20
+¶,¶ ¶,¶ 20
+¶and¶ ¶and¶ 20
+¶a¶ ¶a¶ 20
+¶golden¶ ¶golden¶ 20
+¶apple¶ ¶apple¶ 20
+¶are¶ ¶are¶ 20
+¶in¶ ¶in¶ 20
+¶Someplace¶ ¶someplace¶ 20
+¶.¶ ¶.¶ 20
+¶The¶ ¶the¶ 20
+¶apple¶ ¶apple¶ 20
+¶is¶ ¶is¶ 20
+¶edible¶ ¶edible¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Table¶ ¶table¶ 20
+¶of¶ ¶of¶ 20
+¶Legend¶ ¶legend¶ 20
+¶topic¶ ¶topic¶ 0a
+¶script¶ ¶script¶ 09
+¶"ancients"¶ ¶"ancients"¶ 0a
+¶or¶ ¶or¶ 20
+¶"ancient ones"¶ ¶"ancient ones"¶ 20
+¶or¶ ¶or¶ 20
+¶"three"¶ ¶"three"¶ 20
+¶"'Trust in The Ancient Ones,
+those Three who showed mankind the way of Balance and Harmony.'"¶ ¶"'Trust in The Ancient Ones,
+those Three who showed mankind the way of Balance and Harmony.'"¶ 09
+¶"harmony"¶ ¶"harmony"¶ 0a
+¶"'Things in harmony combine to greater beauty than the sum of each considered
+alone.'"¶ ¶"'Things in harmony combine to greater beauty than the sum of each considered
+alone.'"¶ 09
+¶"balance"¶ ¶"balance"¶ 0a
+¶"Balance is required to prevent a disruption of the Pattern.'"¶ ¶"Balance is required to prevent a disruption of the Pattern.'"¶ 09
+¶"pattern"¶ ¶"pattern"¶ 0a
+¶"The Pattern is All. All is the Pattern.'"¶ ¶"The Pattern is All. All is the Pattern.'"¶ 09
+¶|__¶ ¶|__¶ 0a
+¶Definition¶ ¶definition¶ 20
+¶:¶ ¶:¶ 20
+¶a¶ ¶a¶ 20
+¶topic¶ ¶topic¶ 20
+¶is¶ ¶is¶ 20
+¶legendary¶ ¶legendary¶ 20
+¶rather¶ ¶rather¶ 20
+¶than¶ ¶than¶ 20
+¶mundane¶ ¶mundane¶ 20
+¶if¶ ¶if¶ 20
+¶it¶ ¶it¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶topic¶ ¶topic¶ 20
+¶listed¶ ¶listed¶ 20
+¶in¶ ¶in¶ 20
+¶the¶ ¶the¶ 20
+¶Table¶ ¶table¶ 20
+¶of¶ ¶of¶ 20
+¶Legend¶ ¶legend¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

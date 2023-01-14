@@ -1,0 +1,36 @@
+18 words
+¶the¶ ¶study¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶when¶ ¶play¶ ¶begins¶ ¶:¶ ¶withstand¶ ¶;¶ ¶explode¶ ¶to¶ ¶(-¶ ¶ {-counter:abcdeabcdeabcdeabcde} ¶ ¶ {-counter:abcdeabcdeabcdeabcdea} ¶ 
+18 distinct words
+¶The¶ ¶the¶ 0a
+¶study¶ ¶study¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶When¶ ¶when¶ 20
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶:¶ ¶:¶ 20
+¶withstand¶ ¶withstand¶ 41
+¶;¶ ¶;¶ 20
+¶explode¶ ¶explode¶ 41
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶To¶ ¶to¶ 20
+¶withstand¶ ¶withstand¶ 20
+¶:¶ ¶:¶ 20
+¶(-¶ ¶(-¶ 20
+¶ {-counter:abcdeabcdeabcdeabcde} ¶ ¶ {-counter:abcdeabcdeabcdeabcde} ¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶To¶ ¶to¶ 20
+¶explode¶ ¶explode¶ 20
+¶:¶ ¶:¶ 20
+¶(-¶ ¶(-¶ 20
+¶ {-counter:abcdeabcdeabcdeabcdea} ¶ ¶ {-counter:abcdeabcdeabcdeabcdea} ¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

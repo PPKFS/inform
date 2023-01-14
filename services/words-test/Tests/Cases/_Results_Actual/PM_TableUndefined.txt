@@ -1,0 +1,35 @@
+25 words
+¶the¶ ¶admiralty¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶ship¶ ¶kind¶ ¶of¶ ¶value¶ ¶some¶ ¶ships¶ ¶are¶ ¶defined¶ ¶by¶ ¶osmosis¶ ¶|__¶ ¶table¶ ¶1¶ ¶-¶ ¶admirals¶ ¶admiral¶ ¶rank¶ ¶"St Vincent"¶ 
+24 distinct words
+¶The¶ ¶the¶ 0a
+¶Admiralty¶ ¶admiralty¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶Ship¶ ¶ship¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶kind¶ ¶kind¶ 20
+¶of¶ ¶of¶ 20
+¶value¶ ¶value¶ 20
+¶.¶ ¶.¶ 20
+¶Some¶ ¶some¶ 20
+¶ships¶ ¶ships¶ 20
+¶are¶ ¶are¶ 20
+¶defined¶ ¶defined¶ 20
+¶by¶ ¶by¶ 0a
+¶osmosis¶ ¶osmosis¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Table¶ ¶table¶ 20
+¶1¶ ¶1¶ 20
+¶-¶ ¶-¶ 20
+¶Admirals¶ ¶admirals¶ 20
+¶admiral¶ ¶admiral¶ 0a
+¶rank¶ ¶rank¶ 09
+¶"St Vincent"¶ ¶"St Vincent"¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

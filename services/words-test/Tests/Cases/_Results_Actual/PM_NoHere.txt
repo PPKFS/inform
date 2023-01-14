@@ -1,0 +1,18 @@
+8 words
+¶peter¶ ¶is¶ ¶here¶ ¶.¶ ¶|__¶ ¶the¶ ¶prairie¶ ¶a¶ ¶room¶ 
+9 distinct words
+¶Peter¶ ¶peter¶ 0a
+¶is¶ ¶is¶ 20
+¶here¶ ¶here¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶Prairie¶ ¶prairie¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,36 @@
+21 words
+¶home¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶to¶ ¶waste¶ ¶time¶ ¶(¶ ¶this¶ ¶wasting¶ ¶)¶ ¶:¶ ¶do¶ ¶nothing¶ ¶the¶ ¶phrase¶ ¶in¶ ¶question¶ ¶always¶ 
+21 distinct words
+¶Home¶ ¶home¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶To¶ ¶to¶ 20
+¶waste¶ ¶waste¶ 20
+¶time¶ ¶time¶ 20
+¶(¶ ¶(¶ 20
+¶this¶ ¶this¶ 20
+¶is¶ ¶is¶ 20
+¶wasting¶ ¶wasting¶ 20
+¶time¶ ¶time¶ 20
+¶)¶ ¶)¶ 20
+¶:¶ ¶:¶ 20
+¶do¶ ¶do¶ 20
+¶nothing¶ ¶nothing¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶phrase¶ ¶phrase¶ 20
+¶in¶ ¶in¶ 20
+¶question¶ ¶question¶ 20
+¶is¶ ¶is¶ 20
+¶always¶ ¶always¶ 20
+¶wasting¶ ¶wasting¶ 20
+¶time¶ ¶time¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

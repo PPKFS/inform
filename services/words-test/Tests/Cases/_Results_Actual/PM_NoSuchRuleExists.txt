@@ -1,0 +1,32 @@
+19 words
+¶burrow¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶this¶ ¶the¶ ¶wombling¶ ¶rule¶ ¶:¶ ¶do¶ ¶nothing¶ ¶substitutes¶ ¶for¶ ¶flibble¶ 
+16 distinct words
+¶Burrow¶ ¶burrow¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶This¶ ¶this¶ 20
+¶is¶ ¶is¶ 20
+¶the¶ ¶the¶ 20
+¶Wombling¶ ¶wombling¶ 20
+¶rule¶ ¶rule¶ 20
+¶:¶ ¶:¶ 20
+¶do¶ ¶do¶ 20
+¶nothing¶ ¶nothing¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶Wombling¶ ¶wombling¶ 20
+¶rule¶ ¶rule¶ 20
+¶substitutes¶ ¶substitutes¶ 20
+¶for¶ ¶for¶ 20
+¶the¶ ¶the¶ 20
+¶flibble¶ ¶flibble¶ 20
+¶rule¶ ¶rule¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

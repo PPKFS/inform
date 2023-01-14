@@ -1,0 +1,24 @@
+14 words
+¶east¶ ¶of¶ ¶the¶ ¶platte¶ ¶is¶ ¶dry¶ ¶plain¶ ¶.¶ ¶|__¶ ¶on¶ ¶river¶ 
+11 distinct words
+¶East¶ ¶east¶ 0a
+¶of¶ ¶of¶ 20
+¶the¶ ¶the¶ 20
+¶Platte¶ ¶platte¶ 20
+¶is¶ ¶is¶ 20
+¶the¶ ¶the¶ 20
+¶Dry¶ ¶dry¶ 20
+¶Plain¶ ¶plain¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶On¶ ¶on¶ 20
+¶the¶ ¶the¶ 20
+¶Platte¶ ¶platte¶ 20
+¶is¶ ¶is¶ 20
+¶the¶ ¶the¶ 20
+¶river¶ ¶river¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

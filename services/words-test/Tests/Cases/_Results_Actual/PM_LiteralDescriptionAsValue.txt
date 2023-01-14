@@ -1,0 +1,34 @@
+21 words
+¶there¶ ¶is¶ ¶room¶ ¶.¶ ¶|__¶ ¶when¶ ¶play¶ ¶begins¶ ¶:¶ ¶let¶ ¶d¶ ¶be¶ ¶a¶ ¶description¶ ¶of¶ ¶numbers¶ ¶;¶ ¶even¶ ¶say¶ ¶the¶ ¶time¶ 
+21 distinct words
+¶There¶ ¶there¶ 0a
+¶is¶ ¶is¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶When¶ ¶when¶ 20
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶:¶ ¶:¶ 20
+¶let¶ ¶let¶ 41
+¶D¶ ¶d¶ 20
+¶be¶ ¶be¶ 20
+¶a¶ ¶a¶ 20
+¶description¶ ¶description¶ 20
+¶of¶ ¶of¶ 20
+¶numbers¶ ¶numbers¶ 20
+¶;¶ ¶;¶ 20
+¶let¶ ¶let¶ 41
+¶D¶ ¶d¶ 20
+¶be¶ ¶be¶ 20
+¶even¶ ¶even¶ 20
+¶numbers¶ ¶numbers¶ 20
+¶;¶ ¶;¶ 20
+¶say¶ ¶say¶ 41
+¶the¶ ¶the¶ 20
+¶time¶ ¶time¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

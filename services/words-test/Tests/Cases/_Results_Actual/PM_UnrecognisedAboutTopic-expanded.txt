@@ -1,0 +1,35 @@
+17 words
+¶elsinore¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶marcellus¶ ¶here¶ ¶|__¶ ¶section¶ ¶1¶ ¶-¶ ¶meeting¶ ¶(¶ ¶dialogue¶ ¶)¶ ¶about¶ ¶total¶ ¶nonsense¶ ¶:¶ ¶"OK."¶ 
+20 distinct words
+¶Elsinore¶ ¶elsinore¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶Marcellus¶ ¶marcellus¶ 20
+¶is¶ ¶is¶ 20
+¶here¶ ¶here¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Section¶ ¶section¶ 20
+¶1¶ ¶1¶ 20
+¶-¶ ¶-¶ 20
+¶Meeting¶ ¶meeting¶ 20
+¶(¶ ¶(¶ 20
+¶dialogue¶ ¶dialogue¶ 20
+¶)¶ ¶)¶ 20
+¶|__¶ ¶|__¶ 0a
+¶(¶ ¶(¶ 20
+¶About¶ ¶about¶ 20
+¶total¶ ¶total¶ 20
+¶nonsense¶ ¶nonsense¶ 20
+¶.¶ ¶.¶ 20
+¶)¶ ¶)¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Marcellus¶ ¶marcellus¶ 20
+¶:¶ ¶:¶ 20
+¶"OK."¶ ¶"OK."¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

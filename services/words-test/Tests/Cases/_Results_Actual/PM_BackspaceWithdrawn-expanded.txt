@@ -1,0 +1,32 @@
+12 words
+¶home¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶to¶ ¶spong¶ ¶:¶ ¶(-¶ ¶
+		printt{-backspace} "Hello.";
+	¶ ¶when¶ ¶play¶ ¶begins¶ 
+14 distinct words
+¶Home¶ ¶home¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶To¶ ¶to¶ 20
+¶spong¶ ¶spong¶ 20
+¶:¶ ¶:¶ 20
+¶(-¶ ¶(-¶ 41
+¶
+		printt{-backspace} "Hello.";
+	¶ ¶
+		printt{-backspace} "Hello.";
+	¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶When¶ ¶when¶ 20
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶:¶ ¶:¶ 20
+¶spong¶ ¶spong¶ 41
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

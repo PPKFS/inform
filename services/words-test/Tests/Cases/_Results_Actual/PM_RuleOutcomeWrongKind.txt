@@ -1,0 +1,30 @@
+17 words
+¶xanadu¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶splodge¶ ¶rulebook¶ ¶producing¶ ¶number¶ ¶:¶ ¶rule¶ ¶succeeds¶ ¶with¶ ¶result¶ ¶"fish"¶ 
+16 distinct words
+¶Xanadu¶ ¶xanadu¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Splodge¶ ¶splodge¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶rulebook¶ ¶rulebook¶ 20
+¶producing¶ ¶producing¶ 20
+¶a¶ ¶a¶ 20
+¶number¶ ¶number¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Splodge¶ ¶splodge¶ 20
+¶:¶ ¶:¶ 20
+¶rule¶ ¶rule¶ 0a
+¶succeeds¶ ¶succeeds¶ 20
+¶with¶ ¶with¶ 20
+¶result¶ ¶result¶ 20
+¶"fish"¶ ¶"fish"¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

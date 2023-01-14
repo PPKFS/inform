@@ -1,0 +1,45 @@
+38 words
+¶the¶ ¶dock¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶some¶ ¶vending¶ ¶machines¶ ¶are¶ ¶containers¶ ¶in¶ ¶|__¶ ¶instead¶ ¶of¶ ¶examining¶ ¶:¶ ¶now¶ ¶open¶ ¶and¶ ¶player¶ ¶;¶ ¶say¶ ¶"Your heat-vision prangs open the machine."¶ 
+24 distinct words
+¶The¶ ¶the¶ 0a
+¶Dock¶ ¶dock¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶Some¶ ¶some¶ 20
+¶vending¶ ¶vending¶ 20
+¶machines¶ ¶machines¶ 20
+¶are¶ ¶are¶ 20
+¶containers¶ ¶containers¶ 20
+¶in¶ ¶in¶ 20
+¶the¶ ¶the¶ 20
+¶dock¶ ¶dock¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Instead¶ ¶instead¶ 20
+¶of¶ ¶of¶ 20
+¶examining¶ ¶examining¶ 20
+¶the¶ ¶the¶ 20
+¶vending¶ ¶vending¶ 20
+¶machines¶ ¶machines¶ 20
+¶:¶ ¶:¶ 20
+¶now¶ ¶now¶ 41
+¶the¶ ¶the¶ 20
+¶machines¶ ¶machines¶ 20
+¶are¶ ¶are¶ 20
+¶open¶ ¶open¶ 20
+¶and¶ ¶and¶ 20
+¶the¶ ¶the¶ 20
+¶player¶ ¶player¶ 20
+¶is¶ ¶is¶ 20
+¶in¶ ¶in¶ 20
+¶the¶ ¶the¶ 20
+¶Dock¶ ¶dock¶ 20
+¶;¶ ¶;¶ 20
+¶say¶ ¶say¶ 41
+¶"Your heat-vision prangs open the machine."¶ ¶"Your heat-vision prangs open the machine."¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

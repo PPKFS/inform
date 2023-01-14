@@ -1,0 +1,24 @@
+14 words
+¶bc¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶table¶ ¶of¶ ¶requirements¶ ¶recipe¶ ¶ingredients¶ ¶"duck à l'orange"¶ ¶{¶ ¶}¶ ¶"spiced cider"¶ 
+15 distinct words
+¶BC¶ ¶bc¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Table¶ ¶table¶ 20
+¶of¶ ¶of¶ 20
+¶Requirements¶ ¶requirements¶ 20
+¶recipe¶ ¶recipe¶ 0a
+¶ingredients¶ ¶ingredients¶ 09
+¶"duck à l'orange"¶ ¶"duck à l'orange"¶ 0a
+¶{¶ ¶{¶ 09
+¶}¶ ¶}¶ 20
+¶"spiced cider"¶ ¶"spiced cider"¶ 0a
+¶{¶ ¶{¶ 09
+¶}¶ ¶}¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

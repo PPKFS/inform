@@ -1,0 +1,23 @@
+14 words
+¶"Please Release Me"¶ ¶|__¶ ¶despatch¶ ¶area¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶release¶ ¶along¶ ¶with¶ ¶commemorative¶ ¶towel¶ 
+13 distinct words
+¶"Please Release Me"¶ ¶"Please Release Me"¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶Despatch¶ ¶despatch¶ 20
+¶Area¶ ¶area¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Release¶ ¶release¶ 20
+¶along¶ ¶along¶ 20
+¶with¶ ¶with¶ 20
+¶a¶ ¶a¶ 20
+¶commemorative¶ ¶commemorative¶ 20
+¶towel¶ ¶towel¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

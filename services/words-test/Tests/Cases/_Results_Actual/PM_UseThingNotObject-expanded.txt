@@ -1,0 +1,23 @@
+11 words
+¶the¶ ¶compilers'¶ ¶graveyard¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶understand¶ ¶"take "¶ ¶,¶ ¶object¶ ¶""¶ ¶as¶ ¶taking¶ ¶|__¶ 
+15 distinct words
+¶The¶ ¶the¶ 0a
+¶Compilers'¶ ¶compilers'¶ 20
+¶Graveyard¶ ¶graveyard¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶Understand¶ ¶understand¶ 20
+¶"take "¶ ¶"take "¶ 20
+¶,¶ ¶,¶ 20
+¶object¶ ¶object¶ 20
+¶,¶ ¶,¶ 20
+¶""¶ ¶""¶ 20
+¶as¶ ¶as¶ 20
+¶taking¶ ¶taking¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

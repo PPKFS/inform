@@ -1,0 +1,13 @@
+5 words
+¶10¶ ¶has¶ ¶carrying¶ ¶capacity¶ ¶11¶ ¶.¶ ¶|__¶ 
+7 distinct words
+¶10¶ ¶10¶ 0a
+¶has¶ ¶has¶ 20
+¶carrying¶ ¶carrying¶ 20
+¶capacity¶ ¶capacity¶ 20
+¶11¶ ¶11¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

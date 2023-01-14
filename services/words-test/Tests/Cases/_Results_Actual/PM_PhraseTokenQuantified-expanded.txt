@@ -1,0 +1,34 @@
+19 words
+¶"Foo"¶ ¶by¶ ¶bar¶ ¶.¶ ¶foo¶ ¶is¶ ¶a¶ ¶room¶ ¶to¶ ¶flob¶ ¶(¶ ¶n¶ ¶-¶ ¶any¶ ¶number¶ ¶)¶ ¶:¶ ¶do¶ ¶nothing¶ ¶every¶ ¶turn¶ ¶4¶ ¶|__¶ 
+23 distinct words
+¶"Foo"¶ ¶"Foo"¶ 0a
+¶by¶ ¶by¶ 20
+¶Bar¶ ¶bar¶ 20
+¶.¶ ¶.¶ 20
+¶Foo¶ ¶foo¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶To¶ ¶to¶ 0a
+¶flob¶ ¶flob¶ 20
+¶(¶ ¶(¶ 20
+¶N¶ ¶n¶ 20
+¶-¶ ¶-¶ 20
+¶any¶ ¶any¶ 20
+¶number¶ ¶number¶ 20
+¶)¶ ¶)¶ 20
+¶:¶ ¶:¶ 20
+¶do¶ ¶do¶ 20
+¶nothing¶ ¶nothing¶ 20
+¶.¶ ¶.¶ 20
+¶Every¶ ¶every¶ 0a
+¶turn¶ ¶turn¶ 20
+¶:¶ ¶:¶ 20
+¶flob¶ ¶flob¶ 20
+¶4¶ ¶4¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

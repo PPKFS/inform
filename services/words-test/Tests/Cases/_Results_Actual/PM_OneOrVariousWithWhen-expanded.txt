@@ -1,0 +1,25 @@
+15 words
+¶home¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶ineptness¶ ¶relates¶ ¶one¶ ¶to¶ ¶person¶ ¶when¶ ¶1¶ ¶2¶ 
+14 distinct words
+¶Home¶ ¶home¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Ineptness¶ ¶ineptness¶ 20
+¶relates¶ ¶relates¶ 20
+¶one¶ ¶one¶ 20
+¶room¶ ¶room¶ 20
+¶to¶ ¶to¶ 20
+¶one¶ ¶one¶ 20
+¶person¶ ¶person¶ 20
+¶when¶ ¶when¶ 20
+¶1¶ ¶1¶ 20
+¶is¶ ¶is¶ 20
+¶2¶ ¶2¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

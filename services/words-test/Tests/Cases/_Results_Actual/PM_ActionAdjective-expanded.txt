@@ -1,0 +1,12 @@
+4 words
+¶dropping¶ ¶something¶ ¶is¶ ¶closed¶ ¶.¶ ¶|__¶ 
+6 distinct words
+¶Dropping¶ ¶dropping¶ 0a
+¶something¶ ¶something¶ 20
+¶is¶ ¶is¶ 20
+¶closed¶ ¶closed¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

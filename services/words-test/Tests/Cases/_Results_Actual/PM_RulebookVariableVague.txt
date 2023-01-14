@@ -1,0 +1,24 @@
+14 words
+¶the¶ ¶dome¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶every¶ ¶turn¶ ¶rulebook¶ ¶has¶ ¶value¶ ¶called¶ ¶trevor¶ 
+14 distinct words
+¶The¶ ¶the¶ 0a
+¶dome¶ ¶dome¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶every¶ ¶every¶ 20
+¶turn¶ ¶turn¶ 20
+¶rulebook¶ ¶rulebook¶ 20
+¶has¶ ¶has¶ 20
+¶a¶ ¶a¶ 20
+¶value¶ ¶value¶ 20
+¶called¶ ¶called¶ 20
+¶Trevor¶ ¶trevor¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,29 @@
+18 words
+¶foo¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶has¶ ¶number¶ ¶called¶ ¶blor¶ ¶|__¶ ¶zog¶ ¶person¶ ¶with¶ ¶cheese¶ 
+14 distinct words
+¶Foo¶ ¶foo¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶A¶ ¶a¶ 0a
+¶room¶ ¶room¶ 20
+¶has¶ ¶has¶ 20
+¶a¶ ¶a¶ 20
+¶number¶ ¶number¶ 20
+¶called¶ ¶called¶ 20
+¶blor¶ ¶blor¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Zog¶ ¶zog¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶person¶ ¶person¶ 20
+¶with¶ ¶with¶ 20
+¶blor¶ ¶blor¶ 20
+¶CHEESE¶ ¶cheese¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

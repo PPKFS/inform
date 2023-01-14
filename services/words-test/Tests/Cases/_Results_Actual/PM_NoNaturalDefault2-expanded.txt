@@ -1,0 +1,29 @@
+18 words
+¶xanadu¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶when¶ ¶play¶ ¶begins¶ ¶:¶ ¶let¶ ¶q¶ ¶be¶ ¶the¶ ¶default¶ ¶value¶ ¶of¶ ¶number¶ ¶valued¶ ¶table¶ ¶column¶ 
+21 distinct words
+¶Xanadu¶ ¶xanadu¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶When¶ ¶when¶ 20
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶:¶ ¶:¶ 20
+¶let¶ ¶let¶ 0a
+¶Q¶ ¶q¶ 20
+¶be¶ ¶be¶ 20
+¶the¶ ¶the¶ 20
+¶default¶ ¶default¶ 20
+¶value¶ ¶value¶ 20
+¶of¶ ¶of¶ 20
+¶number¶ ¶number¶ 20
+¶valued¶ ¶valued¶ 20
+¶table¶ ¶table¶ 20
+¶column¶ ¶column¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

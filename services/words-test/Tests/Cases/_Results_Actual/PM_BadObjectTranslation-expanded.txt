@@ -1,0 +1,22 @@
+12 words
+¶xanadu¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶the¶ ¶whatsit¶ ¶object¶ ¶translates¶ ¶into¶ ¶i6¶ ¶as¶ ¶"whatsit"¶ 
+14 distinct words
+¶Xanadu¶ ¶xanadu¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶whatsit¶ ¶whatsit¶ 20
+¶object¶ ¶object¶ 20
+¶translates¶ ¶translates¶ 20
+¶into¶ ¶into¶ 20
+¶I6¶ ¶i6¶ 20
+¶as¶ ¶as¶ 20
+¶"whatsit"¶ ¶"whatsit"¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

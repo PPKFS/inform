@@ -1,0 +1,37 @@
+22 words
+¶there¶ ¶is¶ ¶room¶ ¶.¶ ¶|__¶ ¶every¶ ¶turn¶ ¶when¶ ¶true¶ ¶(¶ ¶this¶ ¶a¶ ¶ridiculous¶ ¶rule¶ ¶)¶ ¶:¶ ¶say¶ ¶"True."¶ ¶bonkers¶ ¶do¶ ¶nothing¶ 
+21 distinct words
+¶There¶ ¶there¶ 0a
+¶is¶ ¶is¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Every¶ ¶every¶ 20
+¶turn¶ ¶turn¶ 20
+¶when¶ ¶when¶ 20
+¶true¶ ¶true¶ 20
+¶is¶ ¶is¶ 20
+¶true¶ ¶true¶ 20
+¶(¶ ¶(¶ 20
+¶this¶ ¶this¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶ridiculous¶ ¶ridiculous¶ 20
+¶rule¶ ¶rule¶ 20
+¶)¶ ¶)¶ 20
+¶:¶ ¶:¶ 20
+¶say¶ ¶say¶ 20
+¶"True."¶ ¶"True."¶ 20
+¶|__¶ ¶|__¶ 0a
+¶This¶ ¶this¶ 20
+¶is¶ ¶is¶ 20
+¶bonkers¶ ¶bonkers¶ 20
+¶rule¶ ¶rule¶ 20
+¶:¶ ¶:¶ 20
+¶do¶ ¶do¶ 20
+¶nothing¶ ¶nothing¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

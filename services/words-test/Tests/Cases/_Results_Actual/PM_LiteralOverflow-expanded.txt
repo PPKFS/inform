@@ -1,0 +1,32 @@
+20 words
+¶laboratory¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶when¶ ¶play¶ ¶begins¶ ¶:¶ ¶let¶ ¶f¶ ¶be¶ ¶given¶ ¶by¶ ¶=¶ ¶12345678901234¶ ¶,¶ ¶where¶ ¶number¶ 
+20 distinct words
+¶Laboratory¶ ¶laboratory¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶When¶ ¶when¶ 20
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶:¶ ¶:¶ 20
+¶let¶ ¶let¶ 41
+¶F¶ ¶f¶ 20
+¶be¶ ¶be¶ 20
+¶given¶ ¶given¶ 20
+¶by¶ ¶by¶ 20
+¶F¶ ¶f¶ 20
+¶=¶ ¶=¶ 20
+¶12345678901234¶ ¶12345678901234¶ 20
+¶,¶ ¶,¶ 20
+¶where¶ ¶where¶ 20
+¶F¶ ¶f¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶number¶ ¶number¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

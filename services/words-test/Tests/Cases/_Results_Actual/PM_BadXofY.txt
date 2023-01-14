@@ -1,0 +1,24 @@
+14 words
+¶the¶ ¶winter¶ ¶palace¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶"Chilly"¶ ¶description¶ ¶of¶ 
+11 distinct words
+¶The¶ ¶the¶ 0a
+¶Winter¶ ¶winter¶ 20
+¶Palace¶ ¶palace¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶"Chilly"¶ ¶"Chilly"¶ 20
+¶is¶ ¶is¶ 20
+¶the¶ ¶the¶ 20
+¶description¶ ¶description¶ 20
+¶of¶ ¶of¶ 20
+¶the¶ ¶the¶ 20
+¶Winter¶ ¶winter¶ 20
+¶Palace¶ ¶palace¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

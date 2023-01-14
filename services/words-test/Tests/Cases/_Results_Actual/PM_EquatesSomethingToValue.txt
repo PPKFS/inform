@@ -1,0 +1,28 @@
+16 words
+¶xanadu¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶colour¶ ¶kind¶ ¶of¶ ¶value¶ ¶something¶ ¶called¶ ¶mauve¶ 
+13 distinct words
+¶Xanadu¶ ¶xanadu¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Colour¶ ¶colour¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶kind¶ ¶kind¶ 20
+¶of¶ ¶of¶ 20
+¶value¶ ¶value¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Something¶ ¶something¶ 20
+¶called¶ ¶called¶ 20
+¶mauve¶ ¶mauve¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶colour¶ ¶colour¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

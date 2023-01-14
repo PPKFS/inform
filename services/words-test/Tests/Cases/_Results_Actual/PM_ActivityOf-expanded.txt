@@ -1,0 +1,30 @@
+19 words
+¶the¶ ¶ni¶ ¶school¶ ¶for¶ ¶typing¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶when¶ ¶play¶ ¶begins¶ ¶:¶ ¶carry¶ ¶out¶ ¶printing¶ ¶name¶ ¶of¶ ¶activity¶ 
+20 distinct words
+¶The¶ ¶the¶ 0a
+¶NI¶ ¶ni¶ 20
+¶School¶ ¶school¶ 20
+¶for¶ ¶for¶ 20
+¶Typing¶ ¶typing¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶When¶ ¶when¶ 20
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶:¶ ¶:¶ 20
+¶carry¶ ¶carry¶ 41
+¶out¶ ¶out¶ 20
+¶the¶ ¶the¶ 20
+¶printing¶ ¶printing¶ 20
+¶the¶ ¶the¶ 20
+¶name¶ ¶name¶ 20
+¶of¶ ¶of¶ 20
+¶activity¶ ¶activity¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

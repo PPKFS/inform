@@ -1,0 +1,24 @@
+12 words
+¶xanadu¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶to¶ ¶say/utter¶ ¶(¶ ¶n¶ ¶-¶ ¶number¶ ¶)¶ ¶:¶ ¶say¶ ¶"There."¶ 
+16 distinct words
+¶Xanadu¶ ¶xanadu¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶To¶ ¶to¶ 20
+¶say/utter¶ ¶say/utter¶ 20
+¶(¶ ¶(¶ 20
+¶N¶ ¶n¶ 20
+¶-¶ ¶-¶ 20
+¶a¶ ¶a¶ 20
+¶number¶ ¶number¶ 20
+¶)¶ ¶)¶ 20
+¶:¶ ¶:¶ 20
+¶say¶ ¶say¶ 20
+¶"There."¶ ¶"There."¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

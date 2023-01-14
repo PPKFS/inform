@@ -1,0 +1,42 @@
+30 words
+¶the¶ ¶typographium¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶colour¶ ¶kind¶ ¶of¶ ¶value¶ ¶colours¶ ¶are¶ ¶red¶ ¶,¶ ¶green¶ ¶and¶ ¶blue¶ ¶|__¶ ¶when¶ ¶play¶ ¶begins¶ ¶:¶ ¶if¶ ¶say¶ ¶"Heavens to Betsy!"¶ 
+25 distinct words
+¶The¶ ¶the¶ 0a
+¶Typographium¶ ¶typographium¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶Colour¶ ¶colour¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶kind¶ ¶kind¶ 20
+¶of¶ ¶of¶ 20
+¶value¶ ¶value¶ 20
+¶.¶ ¶.¶ 20
+¶The¶ ¶the¶ 20
+¶colours¶ ¶colours¶ 20
+¶are¶ ¶are¶ 20
+¶red¶ ¶red¶ 20
+¶,¶ ¶,¶ 20
+¶green¶ ¶green¶ 0a
+¶and¶ ¶and¶ 20
+¶blue¶ ¶blue¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶When¶ ¶when¶ 20
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶:¶ ¶:¶ 20
+¶if¶ ¶if¶ 41
+¶the¶ ¶the¶ 20
+¶Typographium¶ ¶typographium¶ 20
+¶is¶ ¶is¶ 20
+¶blue¶ ¶blue¶ 20
+¶,¶ ¶,¶ 20
+¶say¶ ¶say¶ 20
+¶"Heavens to Betsy!"¶ ¶"Heavens to Betsy!"¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

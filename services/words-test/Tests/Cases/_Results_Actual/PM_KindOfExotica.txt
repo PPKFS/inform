@@ -1,0 +1,15 @@
+7 words
+¶a¶ ¶trumpet¶ ¶is¶ ¶kind¶ ¶of¶ ¶activity¶ ¶.¶ ¶|__¶ 
+8 distinct words
+¶A¶ ¶a¶ 0a
+¶trumpet¶ ¶trumpet¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶kind¶ ¶kind¶ 20
+¶of¶ ¶of¶ 20
+¶activity¶ ¶activity¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

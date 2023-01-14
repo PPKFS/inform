@@ -1,0 +1,17 @@
+9 words
+¶this¶ ¶story¶ ¶is¶ ¶episode¶ ¶7¶ ¶of¶ ¶the¶ ¶alexandria¶ ¶quartet¶ ¶.¶ ¶|__¶ 
+11 distinct words
+¶This¶ ¶this¶ 0a
+¶story¶ ¶story¶ 20
+¶is¶ ¶is¶ 20
+¶episode¶ ¶episode¶ 20
+¶7¶ ¶7¶ 20
+¶of¶ ¶of¶ 20
+¶The¶ ¶the¶ 20
+¶Alexandria¶ ¶alexandria¶ 20
+¶Quartet¶ ¶quartet¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,16 @@
+8 words
+¶in¶ ¶the¶ ¶tank¶ ¶is¶ ¶a¶ ¶fish¶ ¶called¶ ¶wanda¶ ¶.¶ ¶|__¶ 
+10 distinct words
+¶In¶ ¶in¶ 0a
+¶the¶ ¶the¶ 20
+¶tank¶ ¶tank¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶fish¶ ¶fish¶ 20
+¶called¶ ¶called¶ 20
+¶Wanda¶ ¶wanda¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

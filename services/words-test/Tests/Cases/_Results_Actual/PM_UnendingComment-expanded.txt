@@ -1,0 +1,5 @@
+words-test: Square-bracketed text never ends: PM_UnendingComment.txt
+0 words
+¶|__¶ 
+1 distinct words
+¶|__¶ ¶|__¶ 0a

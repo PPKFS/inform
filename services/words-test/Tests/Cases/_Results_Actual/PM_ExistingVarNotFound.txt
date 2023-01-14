@@ -1,0 +1,34 @@
+18 words
+¶home¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶to¶ ¶disregard¶ ¶(¶ ¶act¶ ¶-¶ ¶an¶ ¶existing¶ ¶variable¶ ¶)¶ ¶:¶ ¶(-¶ ¶ {act}; ¶ ¶when¶ ¶play¶ ¶begins¶ ¶waiting¶ 
+22 distinct words
+¶Home¶ ¶home¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶To¶ ¶to¶ 20
+¶disregard¶ ¶disregard¶ 20
+¶(¶ ¶(¶ 20
+¶act¶ ¶act¶ 20
+¶-¶ ¶-¶ 20
+¶an¶ ¶an¶ 20
+¶existing¶ ¶existing¶ 20
+¶variable¶ ¶variable¶ 20
+¶)¶ ¶)¶ 20
+¶:¶ ¶:¶ 20
+¶(-¶ ¶(-¶ 20
+¶ {act}; ¶ ¶ {act}; ¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶When¶ ¶when¶ 20
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶:¶ ¶:¶ 20
+¶disregard¶ ¶disregard¶ 20
+¶waiting¶ ¶waiting¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

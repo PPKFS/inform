@@ -1,0 +1,43 @@
+39 words
+¶the¶ ¶cricket¶ ¶history¶ ¶museum¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶section¶ ¶1¶ ¶-¶ ¶arrival¶ ¶(¶ ¶dialogue¶ ¶)¶ ¶this¶ ¶starting¶ ¶beat¶ ¶requiring¶ ¶felicity¶ ¶dumplings¶ ¶and¶ ¶mike¶ ¶atherton¶ ¶narration¶ ¶:¶ ¶"There is a sinister chime, as if this museum is in fact run by Spectre."¶ 
+28 distinct words
+¶The¶ ¶the¶ 0a
+¶Cricket¶ ¶cricket¶ 20
+¶History¶ ¶history¶ 20
+¶Museum¶ ¶museum¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Section¶ ¶section¶ 20
+¶1¶ ¶1¶ 20
+¶-¶ ¶-¶ 20
+¶Arrival¶ ¶arrival¶ 20
+¶(¶ ¶(¶ 20
+¶dialogue¶ ¶dialogue¶ 20
+¶)¶ ¶)¶ 20
+¶|__¶ ¶|__¶ 0a
+¶(¶ ¶(¶ 20
+¶This¶ ¶this¶ 20
+¶is¶ ¶is¶ 20
+¶the¶ ¶the¶ 20
+¶starting¶ ¶starting¶ 20
+¶beat¶ ¶beat¶ 20
+¶.¶ ¶.¶ 20
+¶Requiring¶ ¶requiring¶ 20
+¶Felicity¶ ¶felicity¶ 20
+¶Dumplings¶ ¶dumplings¶ 20
+¶and¶ ¶and¶ 20
+¶Mike¶ ¶mike¶ 20
+¶Atherton¶ ¶atherton¶ 20
+¶.¶ ¶.¶ 20
+¶)¶ ¶)¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Narration¶ ¶narration¶ 20
+¶:¶ ¶:¶ 20
+¶"There is a sinister chime, as if this museum is in fact run by Spectre."¶ ¶"There is a sinister chime, as if this museum is in fact run by Spectre."¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

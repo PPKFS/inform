@@ -1,0 +1,34 @@
+22 words
+¶xanadu¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶the¶ ¶understand¶ ¶token¶ ¶squiggle¶ ¶translates¶ ¶into¶ ¶i6¶ ¶as¶ ¶"SQUIGGLE_TOKEN"¶ ¶"SQUAGGLE_TOKEN"¶ 
+16 distinct words
+¶Xanadu¶ ¶xanadu¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶Understand¶ ¶understand¶ 20
+¶token¶ ¶token¶ 20
+¶squiggle¶ ¶squiggle¶ 20
+¶translates¶ ¶translates¶ 20
+¶into¶ ¶into¶ 20
+¶I6¶ ¶i6¶ 20
+¶as¶ ¶as¶ 20
+¶"SQUIGGLE_TOKEN"¶ ¶"SQUIGGLE_TOKEN"¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶Understand¶ ¶understand¶ 20
+¶token¶ ¶token¶ 20
+¶squiggle¶ ¶squiggle¶ 20
+¶translates¶ ¶translates¶ 20
+¶into¶ ¶into¶ 20
+¶I6¶ ¶i6¶ 20
+¶as¶ ¶as¶ 20
+¶"SQUAGGLE_TOKEN"¶ ¶"SQUAGGLE_TOKEN"¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

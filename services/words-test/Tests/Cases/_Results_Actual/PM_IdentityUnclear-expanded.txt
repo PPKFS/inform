@@ -1,0 +1,16 @@
+7 words
+¶|__¶ ¶a¶ ¶vehicle¶ ¶is¶ ¶the¶ ¶sydney¶ ¶opera¶ ¶house¶ ¶.¶ 
+9 distinct words
+¶|__¶ ¶|__¶ 0a
+¶A¶ ¶a¶ 20
+¶vehicle¶ ¶vehicle¶ 20
+¶is¶ ¶is¶ 20
+¶the¶ ¶the¶ 20
+¶Sydney¶ ¶sydney¶ 20
+¶Opera¶ ¶opera¶ 20
+¶House¶ ¶house¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

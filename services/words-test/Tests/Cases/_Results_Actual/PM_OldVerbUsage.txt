@@ -1,0 +1,22 @@
+12 words
+¶the¶ ¶wobble¶ ¶area¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶understand¶ ¶verb¶ ¶"wibble"¶ ¶as¶ ¶"push"¶ 
+13 distinct words
+¶The¶ ¶the¶ 0a
+¶Wobble¶ ¶wobble¶ 20
+¶Area¶ ¶area¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Understand¶ ¶understand¶ 20
+¶the¶ ¶the¶ 20
+¶verb¶ ¶verb¶ 20
+¶"wibble"¶ ¶"wibble"¶ 20
+¶as¶ ¶as¶ 20
+¶"push"¶ ¶"push"¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

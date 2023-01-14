@@ -1,0 +1,37 @@
+23 words
+¶the¶ ¶temple¶ ¶of¶ ¶eris¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶to¶ ¶beep¶ ¶(¶ ¶n¶ ¶-¶ ¶1¶ ¶)¶ ¶:¶ ¶say¶ ¶"Beep just once."¶ ¶provoke¶ ¶dissent¶ ¶,¶ ¶like¶ ¶so¶ ¶2¶ ¶;¶ 
+26 distinct words
+¶The¶ ¶the¶ 0a
+¶Temple¶ ¶temple¶ 20
+¶of¶ ¶of¶ 20
+¶Eris¶ ¶eris¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶To¶ ¶to¶ 20
+¶beep¶ ¶beep¶ 20
+¶(¶ ¶(¶ 20
+¶N¶ ¶n¶ 20
+¶-¶ ¶-¶ 20
+¶1¶ ¶1¶ 20
+¶)¶ ¶)¶ 20
+¶:¶ ¶:¶ 20
+¶say¶ ¶say¶ 20
+¶"Beep just once."¶ ¶"Beep just once."¶ 20
+¶|__¶ ¶|__¶ 0a
+¶To¶ ¶to¶ 20
+¶provoke¶ ¶provoke¶ 20
+¶dissent¶ ¶dissent¶ 20
+¶,¶ ¶,¶ 20
+¶like¶ ¶like¶ 20
+¶so¶ ¶so¶ 20
+¶:¶ ¶:¶ 20
+¶beep¶ ¶beep¶ 41
+¶2¶ ¶2¶ 20
+¶;¶ ¶;¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,22 @@
+12 words
+¶the¶ ¶palace¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶player¶ ¶on¶ ¶marble¶ ¶throne¶ 
+11 distinct words
+¶The¶ ¶the¶ 0a
+¶Palace¶ ¶palace¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶player¶ ¶player¶ 20
+¶is¶ ¶is¶ 20
+¶on¶ ¶on¶ 20
+¶the¶ ¶the¶ 20
+¶marble¶ ¶marble¶ 20
+¶throne¶ ¶throne¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

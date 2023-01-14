@@ -1,0 +1,35 @@
+23 words
+¶mathematical¶ ¶laboratory¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶table¶ ¶of¶ ¶splodge¶ ¶type¶ ¶(¶ ¶rule¶ ¶)¶ ¶living¶ ¶the¶ ¶evil¶ ¶this¶ ¶:¶ ¶say¶ ¶"Pretty evil, huh?"¶ 
+21 distinct words
+¶Mathematical¶ ¶mathematical¶ 0a
+¶laboratory¶ ¶laboratory¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Table¶ ¶table¶ 20
+¶of¶ ¶of¶ 20
+¶Splodge¶ ¶splodge¶ 20
+¶type¶ ¶type¶ 0a
+¶(¶ ¶(¶ 09
+¶rule¶ ¶rule¶ 20
+¶)¶ ¶)¶ 20
+¶living¶ ¶living¶ 0a
+¶the¶ ¶the¶ 09
+¶evil¶ ¶evil¶ 20
+¶rule¶ ¶rule¶ 20
+¶|__¶ ¶|__¶ 0a
+¶This¶ ¶this¶ 20
+¶is¶ ¶is¶ 20
+¶the¶ ¶the¶ 20
+¶evil¶ ¶evil¶ 20
+¶rule¶ ¶rule¶ 20
+¶:¶ ¶:¶ 20
+¶say¶ ¶say¶ 41
+¶"Pretty evil, huh?"¶ ¶"Pretty evil, huh?"¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

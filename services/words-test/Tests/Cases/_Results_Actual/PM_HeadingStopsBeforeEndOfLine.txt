@@ -1,0 +1,37 @@
+25 words
+¶chapter¶ ¶i¶ ¶.¶ ¶home¶ ¶is¶ ¶a¶ ¶room¶ ¶|__¶ ¶2¶ ¶-¶ ¶this¶ ¶breaks¶ ¶1.2¶ ¶ok¶ ¶1.2.1¶ ¶also¶ 
+16 distinct words
+¶Chapter¶ ¶chapter¶ 0a
+¶I¶ ¶i¶ 20
+¶.¶ ¶.¶ 20
+¶Home¶ ¶home¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Chapter¶ ¶chapter¶ 20
+¶I¶ ¶i¶ 20
+¶.¶ ¶.¶ 20
+¶2¶ ¶2¶ 20
+¶-¶ ¶-¶ 20
+¶This¶ ¶this¶ 20
+¶breaks¶ ¶breaks¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Chapter¶ ¶chapter¶ 20
+¶1.2¶ ¶1.2¶ 20
+¶-¶ ¶-¶ 20
+¶This¶ ¶this¶ 20
+¶is¶ ¶is¶ 20
+¶OK¶ ¶ok¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Chapter¶ ¶chapter¶ 20
+¶1.2.1¶ ¶1.2.1¶ 20
+¶-¶ ¶-¶ 20
+¶This¶ ¶this¶ 20
+¶is¶ ¶is¶ 20
+¶also¶ ¶also¶ 20
+¶OK¶ ¶ok¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

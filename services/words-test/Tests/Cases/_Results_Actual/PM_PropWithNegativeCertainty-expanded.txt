@@ -1,0 +1,32 @@
+21 words
+¶the¶ ¶lab¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶has¶ ¶number¶ ¶called¶ ¶bar¶ ¶of¶ ¶never¶ ¶42¶ 
+14 distinct words
+¶The¶ ¶the¶ 0a
+¶lab¶ ¶lab¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶lab¶ ¶lab¶ 20
+¶has¶ ¶has¶ 20
+¶a¶ ¶a¶ 20
+¶number¶ ¶number¶ 20
+¶called¶ ¶called¶ 20
+¶the¶ ¶the¶ 20
+¶bar¶ ¶bar¶ 20
+¶.¶ ¶.¶ 20
+¶The¶ ¶the¶ 20
+¶bar¶ ¶bar¶ 20
+¶of¶ ¶of¶ 20
+¶the¶ ¶the¶ 20
+¶lab¶ ¶lab¶ 20
+¶is¶ ¶is¶ 20
+¶never¶ ¶never¶ 20
+¶42¶ ¶42¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

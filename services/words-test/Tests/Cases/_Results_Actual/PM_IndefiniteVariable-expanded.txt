@@ -1,0 +1,28 @@
+16 words
+¶home¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶alpha¶ ¶value¶ ¶that¶ ¶varies¶ ¶beta¶ ¶relation¶ 
+12 distinct words
+¶Home¶ ¶home¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Alpha¶ ¶alpha¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶value¶ ¶value¶ 20
+¶that¶ ¶that¶ 20
+¶varies¶ ¶varies¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Beta¶ ¶beta¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶relation¶ ¶relation¶ 20
+¶that¶ ¶that¶ 20
+¶varies¶ ¶varies¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

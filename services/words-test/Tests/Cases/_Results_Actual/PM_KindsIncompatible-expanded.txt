@@ -1,0 +1,19 @@
+10 words
+¶taj¶ ¶mahal¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶person¶ ¶|__¶ 
+8 distinct words
+¶Taj¶ ¶taj¶ 0a
+¶Mahal¶ ¶mahal¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶Taj¶ ¶taj¶ 20
+¶Mahal¶ ¶mahal¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶person¶ ¶person¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,25 @@
+15 words
+¶xanadu¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶the¶ ¶printing¶ ¶name¶ ¶activity¶ ¶has¶ ¶an¶ ¶oligarchy¶ ¶called¶ ¶saudi¶ ¶arabia¶ 
+16 distinct words
+¶Xanadu¶ ¶xanadu¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶printing¶ ¶printing¶ 20
+¶the¶ ¶the¶ 20
+¶name¶ ¶name¶ 20
+¶activity¶ ¶activity¶ 20
+¶has¶ ¶has¶ 20
+¶an¶ ¶an¶ 20
+¶oligarchy¶ ¶oligarchy¶ 20
+¶called¶ ¶called¶ 20
+¶Saudi¶ ¶saudi¶ 20
+¶Arabia¶ ¶arabia¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

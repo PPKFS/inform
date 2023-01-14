@@ -1,0 +1,22 @@
+12 words
+¶home¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶at¶ ¶the¶ ¶end¶ ¶of¶ ¶time¶ ¶rulebook¶ 
+12 distinct words
+¶Home¶ ¶home¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶At¶ ¶at¶ 20
+¶the¶ ¶the¶ 20
+¶end¶ ¶end¶ 20
+¶of¶ ¶of¶ 20
+¶time¶ ¶time¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶rulebook¶ ¶rulebook¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

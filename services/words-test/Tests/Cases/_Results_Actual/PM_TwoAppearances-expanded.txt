@@ -1,0 +1,17 @@
+24 words
+¶the¶ ¶arena¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶"The Arena is the centre of the Roman world."¶ ¶"The Arena, a steam-yacht of 45 feet, is anchored here."¶ 
+9 distinct words
+¶The¶ ¶the¶ 0a
+¶Arena¶ ¶arena¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶"The Arena is the centre of the Roman world."¶ ¶"The Arena is the centre of the Roman world."¶ 20
+¶|__¶ ¶|__¶ 0a
+¶"The Arena, a steam-yacht of 45 feet, is anchored here."¶ ¶"The Arena, a steam-yacht of 45 feet, is anchored here."¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,11 @@
+3 words
+¶before¶ ¶taking¶ ¶something¶ ¶.¶ ¶|__¶ 
+5 distinct words
+¶Before¶ ¶before¶ 0a
+¶taking¶ ¶taking¶ 20
+¶something¶ ¶something¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

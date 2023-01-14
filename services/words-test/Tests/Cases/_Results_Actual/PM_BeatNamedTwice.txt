@@ -1,0 +1,44 @@
+31 words
+¶elsinore¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶section¶ ¶1¶ ¶-¶ ¶meeting¶ ¶(¶ ¶dialogue¶ ¶)¶ ¶about¶ ¶the¶ ¶paranormal¶ ¶this¶ ¶quaintly¶ ¶done¶ ¶scene¶ ¶doubled¶ ¶beat¶ ¶marcellus¶ ¶:¶ ¶"What, has this thing appear'd again to-night?"¶ 
+25 distinct words
+¶Elsinore¶ ¶elsinore¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Section¶ ¶section¶ 20
+¶1¶ ¶1¶ 20
+¶-¶ ¶-¶ 20
+¶Meeting¶ ¶meeting¶ 20
+¶(¶ ¶(¶ 20
+¶dialogue¶ ¶dialogue¶ 20
+¶)¶ ¶)¶ 20
+¶|__¶ ¶|__¶ 0a
+¶(¶ ¶(¶ 20
+¶About¶ ¶about¶ 20
+¶the¶ ¶the¶ 20
+¶paranormal¶ ¶paranormal¶ 20
+¶.¶ ¶.¶ 20
+¶This¶ ¶this¶ 20
+¶is¶ ¶is¶ 20
+¶the¶ ¶the¶ 20
+¶quaintly¶ ¶quaintly¶ 20
+¶done¶ ¶done¶ 20
+¶scene¶ ¶scene¶ 20
+¶.¶ ¶.¶ 20
+¶This¶ ¶this¶ 20
+¶is¶ ¶is¶ 20
+¶the¶ ¶the¶ 20
+¶doubled¶ ¶doubled¶ 20
+¶beat¶ ¶beat¶ 20
+¶.¶ ¶.¶ 20
+¶)¶ ¶)¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Marcellus¶ ¶marcellus¶ 20
+¶:¶ ¶:¶ 20
+¶"What, has this thing appear'd again to-night?"¶ ¶"What, has this thing appear'd again to-night?"¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,24 @@
+14 words
+¶xanadu¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶to¶ ¶decide¶ ¶which¶ ¶xyzzy¶ ¶the¶ ¶great¶ ¶constant¶ ¶:¶ ¶say¶ ¶"There."¶ 
+16 distinct words
+¶Xanadu¶ ¶xanadu¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶To¶ ¶to¶ 20
+¶decide¶ ¶decide¶ 20
+¶which¶ ¶which¶ 20
+¶xyzzy¶ ¶xyzzy¶ 20
+¶is¶ ¶is¶ 20
+¶the¶ ¶the¶ 20
+¶Great¶ ¶great¶ 20
+¶Constant¶ ¶constant¶ 20
+¶:¶ ¶:¶ 20
+¶say¶ ¶say¶ 20
+¶"There."¶ ¶"There."¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

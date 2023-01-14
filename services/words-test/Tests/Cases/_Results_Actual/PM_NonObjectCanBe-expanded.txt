@@ -1,0 +1,14 @@
+6 words
+¶dropping¶ ¶can¶ ¶be¶ ¶fun¶ ¶or¶ ¶tiresome¶ ¶.¶ ¶|__¶ 
+8 distinct words
+¶Dropping¶ ¶dropping¶ 0a
+¶can¶ ¶can¶ 20
+¶be¶ ¶be¶ 20
+¶fun¶ ¶fun¶ 20
+¶or¶ ¶or¶ 20
+¶tiresome¶ ¶tiresome¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

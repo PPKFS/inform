@@ -1,0 +1,21 @@
+11 words
+¶burrow¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶instead¶ ¶of¶ ¶arfle¶ ¶barfle¶ ¶gloop¶ ¶:¶ ¶say¶ ¶"Yes!"¶ 
+14 distinct words
+¶Burrow¶ ¶burrow¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Instead¶ ¶instead¶ 20
+¶of¶ ¶of¶ 20
+¶arfle¶ ¶arfle¶ 20
+¶barfle¶ ¶barfle¶ 20
+¶gloop¶ ¶gloop¶ 20
+¶:¶ ¶:¶ 20
+¶say¶ ¶say¶ 20
+¶"Yes!"¶ ¶"Yes!"¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

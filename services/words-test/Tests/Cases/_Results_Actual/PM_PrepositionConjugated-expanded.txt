@@ -1,0 +1,26 @@
+15 words
+¶the¶ ¶verb¶ ¶to¶ ¶be¶ ¶etherially¶ ¶(¶ ¶he¶ ¶is¶ ¶,¶ ¶they¶ ¶are¶ ¶)¶ ¶implies¶ ¶concealment¶ ¶relation¶ ¶.¶ ¶|__¶ 
+17 distinct words
+¶The¶ ¶the¶ 0a
+¶verb¶ ¶verb¶ 20
+¶to¶ ¶to¶ 20
+¶be¶ ¶be¶ 20
+¶etherially¶ ¶etherially¶ 20
+¶(¶ ¶(¶ 20
+¶he¶ ¶he¶ 20
+¶is¶ ¶is¶ 20
+¶etherially¶ ¶etherially¶ 20
+¶,¶ ¶,¶ 20
+¶they¶ ¶they¶ 20
+¶are¶ ¶are¶ 20
+¶etherially¶ ¶etherially¶ 20
+¶)¶ ¶)¶ 20
+¶implies¶ ¶implies¶ 20
+¶the¶ ¶the¶ 0a
+¶concealment¶ ¶concealment¶ 20
+¶relation¶ ¶relation¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

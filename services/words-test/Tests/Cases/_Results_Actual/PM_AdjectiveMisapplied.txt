@@ -1,0 +1,22 @@
+11 words
+¶laboratory¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶every¶ ¶turn¶ ¶:¶ ¶now¶ ¶the¶ ¶empty¶ 
+12 distinct words
+¶Laboratory¶ ¶laboratory¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Every¶ ¶every¶ 20
+¶turn¶ ¶turn¶ 20
+¶:¶ ¶:¶ 20
+¶now¶ ¶now¶ 41
+¶the¶ ¶the¶ 20
+¶Laboratory¶ ¶laboratory¶ 20
+¶is¶ ¶is¶ 20
+¶empty¶ ¶empty¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

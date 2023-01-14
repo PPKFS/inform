@@ -1,0 +1,14 @@
+7 words
+¶a¶ ¶person¶ ¶has¶ ¶level¶ ¶called¶ ¶the¶ ¶|__¶ 
+7 distinct words
+¶A¶ ¶a¶ 0a
+¶person¶ ¶person¶ 20
+¶has¶ ¶has¶ 20
+¶a¶ ¶a¶ 20
+¶level¶ ¶level¶ 20
+¶called¶ ¶called¶ 20
+¶the¶ ¶the¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

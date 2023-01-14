@@ -1,0 +1,37 @@
+26 words
+¶a¶ ¶room¶ ¶has¶ ¶number¶ ¶called¶ ¶coolness¶ ¶index¶ ¶.¶ ¶|__¶ ¶the¶ ¶property¶ ¶translates¶ ¶into¶ ¶i6¶ ¶as¶ ¶"score"¶ ¶"capacity"¶ 
+17 distinct words
+¶A¶ ¶a¶ 0a
+¶room¶ ¶room¶ 20
+¶has¶ ¶has¶ 20
+¶a¶ ¶a¶ 20
+¶number¶ ¶number¶ 20
+¶called¶ ¶called¶ 20
+¶Coolness¶ ¶coolness¶ 20
+¶Index¶ ¶index¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶coolness¶ ¶coolness¶ 20
+¶index¶ ¶index¶ 20
+¶property¶ ¶property¶ 20
+¶translates¶ ¶translates¶ 20
+¶into¶ ¶into¶ 20
+¶I6¶ ¶i6¶ 20
+¶as¶ ¶as¶ 20
+¶"score"¶ ¶"score"¶ 20
+¶.¶ ¶.¶ 20
+¶The¶ ¶the¶ 0a
+¶coolness¶ ¶coolness¶ 20
+¶index¶ ¶index¶ 20
+¶property¶ ¶property¶ 20
+¶translates¶ ¶translates¶ 20
+¶into¶ ¶into¶ 20
+¶I6¶ ¶i6¶ 20
+¶as¶ ¶as¶ 20
+¶"capacity"¶ ¶"capacity"¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

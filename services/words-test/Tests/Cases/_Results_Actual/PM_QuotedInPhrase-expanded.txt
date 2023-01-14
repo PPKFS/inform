@@ -1,0 +1,22 @@
+12 words
+¶there¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶to¶ ¶define¶ ¶phrase¶ ¶"with quotes"¶ ¶:¶ ¶say¶ ¶"Impossible!"¶ 
+13 distinct words
+¶There¶ ¶there¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶To¶ ¶to¶ 20
+¶define¶ ¶define¶ 20
+¶a¶ ¶a¶ 20
+¶phrase¶ ¶phrase¶ 20
+¶"with quotes"¶ ¶"with quotes"¶ 20
+¶:¶ ¶:¶ 20
+¶say¶ ¶say¶ 41
+¶"Impossible!"¶ ¶"Impossible!"¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,41 @@
+28 words
+¶test¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶use¶ ¶my¶ ¶first¶ ¶thing¶ ¶translates¶ ¶as¶ ¶(-¶ ¶ Constant FOO; ¶ ¶second¶ ¶ Constant BAR; ¶ 
+16 distinct words
+¶Test¶ ¶test¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Use¶ ¶use¶ 20
+¶My¶ ¶my¶ 20
+¶First¶ ¶first¶ 20
+¶Thing¶ ¶thing¶ 20
+¶translates¶ ¶translates¶ 20
+¶as¶ ¶as¶ 20
+¶(-¶ ¶(-¶ 20
+¶ Constant FOO; ¶ ¶ Constant FOO; ¶ 20
+¶Use¶ ¶use¶ 0a
+¶My¶ ¶my¶ 20
+¶Second¶ ¶second¶ 20
+¶Thing¶ ¶thing¶ 20
+¶translates¶ ¶translates¶ 20
+¶as¶ ¶as¶ 20
+¶(-¶ ¶(-¶ 20
+¶ Constant BAR; ¶ ¶ Constant BAR; ¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Use¶ ¶use¶ 20
+¶My¶ ¶my¶ 20
+¶First¶ ¶first¶ 20
+¶Thing¶ ¶thing¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Use¶ ¶use¶ 20
+¶My¶ ¶my¶ 20
+¶Second¶ ¶second¶ 20
+¶Thing¶ ¶thing¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

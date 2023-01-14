@@ -1,0 +1,32 @@
+20 words
+¶the¶ ¶just-released¶ ¶item¶ ¶is¶ ¶a¶ ¶thing¶ ¶that¶ ¶varies¶ ¶.¶ ¶nothing¶ ¶|__¶ ¶mysterious¶ ¶void¶ ¶room¶ ¶"Spooky."¶ 
+15 distinct words
+¶The¶ ¶the¶ 0a
+¶just-released¶ ¶just-released¶ 20
+¶item¶ ¶item¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶thing¶ ¶thing¶ 20
+¶that¶ ¶that¶ 20
+¶varies¶ ¶varies¶ 20
+¶.¶ ¶.¶ 20
+¶The¶ ¶the¶ 20
+¶just-released¶ ¶just-released¶ 20
+¶item¶ ¶item¶ 20
+¶is¶ ¶is¶ 0a
+¶nothing¶ ¶nothing¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶Mysterious¶ ¶mysterious¶ 20
+¶Void¶ ¶void¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶"Spooky."¶ ¶"Spooky."¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

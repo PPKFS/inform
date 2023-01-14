@@ -1,0 +1,30 @@
+19 words
+¶the¶ ¶gram-schmidt¶ ¶memorial¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶statue¶ ¶in¶ ¶|__¶ ¶test¶ ¶huge¶ ¶with¶ ¶"look"¶ 
+14 distinct words
+¶The¶ ¶the¶ 0a
+¶Gram-Schmidt¶ ¶gram-schmidt¶ 20
+¶Memorial¶ ¶memorial¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶The¶ ¶the¶ 20
+¶statue¶ ¶statue¶ 20
+¶is¶ ¶is¶ 20
+¶in¶ ¶in¶ 20
+¶the¶ ¶the¶ 20
+¶Memorial¶ ¶memorial¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Test¶ ¶test¶ 20
+¶the¶ ¶the¶ 20
+¶huge¶ ¶huge¶ 20
+¶memorial¶ ¶memorial¶ 20
+¶statue¶ ¶statue¶ 20
+¶with¶ ¶with¶ 20
+¶"look"¶ ¶"look"¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

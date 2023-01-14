@@ -1,0 +1,37 @@
+27 words
+¶the¶ ¶admiralty¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶ship¶ ¶kind¶ ¶of¶ ¶vehicle¶ ¶some¶ ¶475¶ ¶are¶ ¶defined¶ ¶by¶ ¶table¶ ¶1¶ ¶|__¶ ¶-¶ ¶vessels¶ ¶rate¶ ¶commander¶ ¶2¶ ¶"Captain Meldrew"¶ 
+24 distinct words
+¶The¶ ¶the¶ 0a
+¶Admiralty¶ ¶admiralty¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶Ship¶ ¶ship¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶kind¶ ¶kind¶ 20
+¶of¶ ¶of¶ 20
+¶vehicle¶ ¶vehicle¶ 20
+¶.¶ ¶.¶ 20
+¶Some¶ ¶some¶ 20
+¶475¶ ¶475¶ 20
+¶are¶ ¶are¶ 0a
+¶defined¶ ¶defined¶ 20
+¶by¶ ¶by¶ 20
+¶Table¶ ¶table¶ 20
+¶1¶ ¶1¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Table¶ ¶table¶ 20
+¶1¶ ¶1¶ 20
+¶-¶ ¶-¶ 20
+¶Vessels¶ ¶vessels¶ 20
+¶rate¶ ¶rate¶ 0a
+¶commander¶ ¶commander¶ 09
+¶2¶ ¶2¶ 0a
+¶"Captain Meldrew"¶ ¶"Captain Meldrew"¶ 09
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

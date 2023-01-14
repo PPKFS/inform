@@ -1,0 +1,26 @@
+16 words
+¶xanadu¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶the¶ ¶printing¶ ¶name¶ ¶activity¶ ¶has¶ ¶value¶ ¶called¶ ¶mystery¶ ¶quantity¶ 
+15 distinct words
+¶Xanadu¶ ¶xanadu¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶printing¶ ¶printing¶ 20
+¶the¶ ¶the¶ 20
+¶name¶ ¶name¶ 20
+¶activity¶ ¶activity¶ 20
+¶has¶ ¶has¶ 20
+¶a¶ ¶a¶ 20
+¶value¶ ¶value¶ 20
+¶called¶ ¶called¶ 20
+¶the¶ ¶the¶ 20
+¶Mystery¶ ¶mystery¶ 20
+¶Quantity¶ ¶quantity¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

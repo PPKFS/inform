@@ -1,0 +1,26 @@
+17 words
+¶the¶ ¶typographium¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶when¶ ¶play¶ ¶begins¶ ¶:¶ ¶if¶ ¶1¶ ¶container¶ ¶,¶ ¶say¶ ¶"Heavens to Betsy!"¶ 
+17 distinct words
+¶The¶ ¶the¶ 0a
+¶Typographium¶ ¶typographium¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶When¶ ¶when¶ 20
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶:¶ ¶:¶ 20
+¶if¶ ¶if¶ 41
+¶1¶ ¶1¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶container¶ ¶container¶ 20
+¶,¶ ¶,¶ 20
+¶say¶ ¶say¶ 20
+¶"Heavens to Betsy!"¶ ¶"Heavens to Betsy!"¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

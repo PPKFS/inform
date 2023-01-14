@@ -1,0 +1,68 @@
+54 words
+¶home¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶understand¶ ¶"note: [text]"¶ ¶as¶ ¶mistake¶ ¶(¶ ¶"Noted."¶ ¶)¶ ¶"note? [text]"¶ ¶"Noted."¶ ¶"note! [text]"¶ ¶"Noted."¶ ¶"note, [text]"¶ ¶"Noted."¶ ¶"note. [text]"¶ ¶"Noted."¶ ¶test¶ ¶me¶ ¶with¶ ¶"note: this is a note / note : this is another note"¶ 
+25 distinct words
+¶Home¶ ¶home¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Understand¶ ¶understand¶ 20
+¶"note: [text]"¶ ¶"note: [text]"¶ 20
+¶as¶ ¶as¶ 20
+¶a¶ ¶a¶ 20
+¶mistake¶ ¶mistake¶ 20
+¶(¶ ¶(¶ 20
+¶"Noted."¶ ¶"Noted."¶ 20
+¶)¶ ¶)¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Understand¶ ¶understand¶ 20
+¶"note? [text]"¶ ¶"note? [text]"¶ 20
+¶as¶ ¶as¶ 20
+¶a¶ ¶a¶ 20
+¶mistake¶ ¶mistake¶ 20
+¶(¶ ¶(¶ 20
+¶"Noted."¶ ¶"Noted."¶ 20
+¶)¶ ¶)¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Understand¶ ¶understand¶ 20
+¶"note! [text]"¶ ¶"note! [text]"¶ 20
+¶as¶ ¶as¶ 20
+¶a¶ ¶a¶ 20
+¶mistake¶ ¶mistake¶ 20
+¶(¶ ¶(¶ 20
+¶"Noted."¶ ¶"Noted."¶ 20
+¶)¶ ¶)¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Understand¶ ¶understand¶ 20
+¶"note, [text]"¶ ¶"note, [text]"¶ 20
+¶as¶ ¶as¶ 20
+¶a¶ ¶a¶ 20
+¶mistake¶ ¶mistake¶ 20
+¶(¶ ¶(¶ 20
+¶"Noted."¶ ¶"Noted."¶ 20
+¶)¶ ¶)¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Understand¶ ¶understand¶ 20
+¶"note. [text]"¶ ¶"note. [text]"¶ 20
+¶as¶ ¶as¶ 20
+¶a¶ ¶a¶ 20
+¶mistake¶ ¶mistake¶ 20
+¶(¶ ¶(¶ 20
+¶"Noted."¶ ¶"Noted."¶ 20
+¶)¶ ¶)¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Test¶ ¶test¶ 20
+¶me¶ ¶me¶ 20
+¶with¶ ¶with¶ 20
+¶"note: this is a note / note : this is another note"¶ ¶"note: this is a note / note : this is another note"¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

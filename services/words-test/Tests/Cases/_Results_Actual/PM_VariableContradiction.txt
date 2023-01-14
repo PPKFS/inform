@@ -1,0 +1,19 @@
+15 words
+¶test¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶the¶ ¶command¶ ¶prompt¶ ¶"What do you want to do? >"¶ 
+10 distinct words
+¶Test¶ ¶test¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶command¶ ¶command¶ 20
+¶prompt¶ ¶prompt¶ 20
+¶is¶ ¶is¶ 20
+¶"What do you want to do? >"¶ ¶"What do you want to do? >"¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,44 @@
+28 words
+¶there¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶to¶ ¶decide¶ ¶which¶ ¶number¶ ¶the¶ ¶bitwise¶ ¶or¶ ¶of¶ ¶(¶ ¶i¶ ¶-¶ ¶)¶ ¶and¶ ¶j¶ ¶this¶ ¶oring¶ ¶:¶ ¶(-¶ ¶ ( {I} | {J} ) ¶ ¶|__¶ 
+25 distinct words
+¶There¶ ¶there¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶To¶ ¶to¶ 0a
+¶decide¶ ¶decide¶ 20
+¶which¶ ¶which¶ 20
+¶number¶ ¶number¶ 20
+¶is¶ ¶is¶ 20
+¶the¶ ¶the¶ 20
+¶bitwise¶ ¶bitwise¶ 20
+¶or¶ ¶or¶ 20
+¶of¶ ¶of¶ 20
+¶(¶ ¶(¶ 20
+¶I¶ ¶i¶ 20
+¶-¶ ¶-¶ 20
+¶a¶ ¶a¶ 20
+¶number¶ ¶number¶ 20
+¶)¶ ¶)¶ 20
+¶and¶ ¶and¶ 20
+¶(¶ ¶(¶ 20
+¶J¶ ¶j¶ 20
+¶-¶ ¶-¶ 20
+¶a¶ ¶a¶ 20
+¶number¶ ¶number¶ 20
+¶)¶ ¶)¶ 20
+¶(¶ ¶(¶ 20
+¶this¶ ¶this¶ 20
+¶is¶ ¶is¶ 20
+¶bitwise¶ ¶bitwise¶ 20
+¶oring¶ ¶oring¶ 20
+¶)¶ ¶)¶ 20
+¶:¶ ¶:¶ 20
+¶(-¶ ¶(-¶ 0a
+¶ ( {I} | {J} ) ¶ ¶ ( {I} | {J} ) ¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

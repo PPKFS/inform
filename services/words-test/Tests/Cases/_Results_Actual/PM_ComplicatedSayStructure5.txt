@@ -1,0 +1,13 @@
+23 words
+¶mab¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶"This is Mab, the [if 1 is 2]leading [one of]pet shop[or]haberdashery[otherwise] and milliner[or]bakery[purely at random] in the Kidlington area."¶ ¶|__¶ 
+7 distinct words
+¶Mab¶ ¶mab¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶"This is Mab, the [if 1 is 2]leading [one of]pet shop[or]haberdashery[otherwise] and milliner[or]bakery[purely at random] in the Kidlington area."¶ ¶"This is Mab, the [if 1 is 2]leading [one of]pet shop[or]haberdashery[otherwise] and milliner[or]bakery[purely at random] in the Kidlington area."¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

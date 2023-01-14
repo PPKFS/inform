@@ -1,0 +1,27 @@
+16 words
+¶laboratory¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶wrangling¶ ¶an¶ ¶action¶ ¶applying¶ ¶to¶ ¶nothing¶ ¶,¶ ¶requiring¶ ¶light¶ ¶and¶ 
+16 distinct words
+¶Laboratory¶ ¶laboratory¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Wrangling¶ ¶wrangling¶ 20
+¶is¶ ¶is¶ 20
+¶an¶ ¶an¶ 20
+¶action¶ ¶action¶ 20
+¶applying¶ ¶applying¶ 20
+¶to¶ ¶to¶ 20
+¶nothing¶ ¶nothing¶ 20
+¶,¶ ¶,¶ 20
+¶requiring¶ ¶requiring¶ 20
+¶light¶ ¶light¶ 20
+¶and¶ ¶and¶ 0a
+¶requiring¶ ¶requiring¶ 20
+¶light¶ ¶light¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

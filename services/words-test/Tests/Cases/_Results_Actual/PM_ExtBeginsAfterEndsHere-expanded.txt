@@ -1,0 +1,20 @@
+10 words
+¶include¶ ¶extbeginsafterendshere¶ ¶extension¶ ¶by¶ ¶araminta¶ ¶intest¶ ¶.¶ ¶|__¶ ¶xenon¶ ¶is¶ ¶a¶ ¶room¶ 
+12 distinct words
+¶Include¶ ¶include¶ 0a
+¶Extbeginsafterendshere¶ ¶extbeginsafterendshere¶ 20
+¶Extension¶ ¶extension¶ 20
+¶by¶ ¶by¶ 20
+¶Araminta¶ ¶araminta¶ 20
+¶Intest¶ ¶intest¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Xenon¶ ¶xenon¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

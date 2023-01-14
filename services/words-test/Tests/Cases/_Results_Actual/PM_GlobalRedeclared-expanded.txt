@@ -1,0 +1,23 @@
+14 words
+¶the¶ ¶tally¶ ¶is¶ ¶a¶ ¶number¶ ¶that¶ ¶varies¶ ¶.¶ ¶text¶ ¶|__¶ 
+10 distinct words
+¶The¶ ¶the¶ 0a
+¶tally¶ ¶tally¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶number¶ ¶number¶ 20
+¶that¶ ¶that¶ 20
+¶varies¶ ¶varies¶ 20
+¶.¶ ¶.¶ 20
+¶The¶ ¶the¶ 0a
+¶tally¶ ¶tally¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶text¶ ¶text¶ 20
+¶that¶ ¶that¶ 20
+¶varies¶ ¶varies¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

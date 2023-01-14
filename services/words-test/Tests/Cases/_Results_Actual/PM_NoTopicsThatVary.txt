@@ -1,0 +1,24 @@
+15 words
+¶home¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶foo¶ ¶topic¶ ¶which¶ ¶varies¶ ¶"some text here"¶ 
+11 distinct words
+¶Home¶ ¶home¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Foo¶ ¶foo¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶topic¶ ¶topic¶ 20
+¶which¶ ¶which¶ 20
+¶varies¶ ¶varies¶ 20
+¶.¶ ¶.¶ 20
+¶Foo¶ ¶foo¶ 20
+¶is¶ ¶is¶ 20
+¶"some text here"¶ ¶"some text here"¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

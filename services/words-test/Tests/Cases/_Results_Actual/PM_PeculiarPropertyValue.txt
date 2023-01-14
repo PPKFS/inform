@@ -1,0 +1,19 @@
+10 words
+¶yourself¶ ¶has¶ ¶carrying¶ ¶capacity¶ ¶empty¶ ¶.¶ ¶looking¶ ¶|__¶ 
+8 distinct words
+¶Yourself¶ ¶yourself¶ 0a
+¶has¶ ¶has¶ 20
+¶carrying¶ ¶carrying¶ 20
+¶capacity¶ ¶capacity¶ 20
+¶empty¶ ¶empty¶ 20
+¶.¶ ¶.¶ 20
+¶Yourself¶ ¶yourself¶ 0a
+¶has¶ ¶has¶ 20
+¶carrying¶ ¶carrying¶ 20
+¶capacity¶ ¶capacity¶ 20
+¶looking¶ ¶looking¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

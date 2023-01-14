@@ -1,0 +1,22 @@
+11 words
+¶foo¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶when¶ ¶play¶ ¶begins¶ ¶:¶ ¶display¶ ¶the¶ ¶boxed¶ ¶quotation¶ ¶""¶ ¶|__¶ 
+15 distinct words
+¶Foo¶ ¶foo¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶When¶ ¶when¶ 0a
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶:¶ ¶:¶ 20
+¶display¶ ¶display¶ 20
+¶the¶ ¶the¶ 20
+¶boxed¶ ¶boxed¶ 20
+¶quotation¶ ¶quotation¶ 20
+¶""¶ ¶""¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

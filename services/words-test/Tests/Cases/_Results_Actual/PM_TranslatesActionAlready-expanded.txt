@@ -1,0 +1,22 @@
+12 words
+¶home¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶the¶ ¶taking¶ ¶action¶ ¶translates¶ ¶into¶ ¶i6¶ ¶as¶ ¶"MyTake"¶ 
+14 distinct words
+¶Home¶ ¶home¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶taking¶ ¶taking¶ 20
+¶action¶ ¶action¶ 20
+¶translates¶ ¶translates¶ 20
+¶into¶ ¶into¶ 20
+¶I6¶ ¶i6¶ 20
+¶as¶ ¶as¶ 20
+¶"MyTake"¶ ¶"MyTake"¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

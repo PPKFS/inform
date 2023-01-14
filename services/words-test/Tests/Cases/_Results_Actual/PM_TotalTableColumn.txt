@@ -1,0 +1,34 @@
+22 words
+¶lab¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶table¶ ¶of¶ ¶bogosity¶ ¶drongo¶ ¶1¶ ¶2¶ ¶44¶ ¶when¶ ¶play¶ ¶begins¶ ¶:¶ ¶let¶ ¶t¶ ¶be¶ ¶the¶ ¶total¶ ¶people¶ 
+23 distinct words
+¶Lab¶ ¶lab¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Table¶ ¶table¶ 20
+¶of¶ ¶of¶ 20
+¶Bogosity¶ ¶bogosity¶ 20
+¶drongo¶ ¶drongo¶ 0a
+¶1¶ ¶1¶ 0a
+¶2¶ ¶2¶ 0a
+¶44¶ ¶44¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶When¶ ¶when¶ 20
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶:¶ ¶:¶ 20
+¶let¶ ¶let¶ 41
+¶T¶ ¶t¶ 20
+¶be¶ ¶be¶ 20
+¶the¶ ¶the¶ 20
+¶total¶ ¶total¶ 20
+¶drongo¶ ¶drongo¶ 20
+¶of¶ ¶of¶ 20
+¶people¶ ¶people¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

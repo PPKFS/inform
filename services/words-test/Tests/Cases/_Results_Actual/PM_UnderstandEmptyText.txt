@@ -1,0 +1,25 @@
+14 words
+¶the¶ ¶test¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶artifact¶ ¶thing¶ ¶understand¶ ¶""¶ ¶as¶ ¶|__¶ 
+12 distinct words
+¶The¶ ¶the¶ 0a
+¶Test¶ ¶test¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶The¶ ¶the¶ 0a
+¶artifact¶ ¶artifact¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶thing¶ ¶thing¶ 20
+¶.¶ ¶.¶ 20
+¶Understand¶ ¶understand¶ 0a
+¶""¶ ¶""¶ 20
+¶as¶ ¶as¶ 20
+¶the¶ ¶the¶ 20
+¶artifact¶ ¶artifact¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

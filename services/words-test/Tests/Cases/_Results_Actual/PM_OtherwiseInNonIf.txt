@@ -1,0 +1,44 @@
+33 words
+¶the¶ ¶ni¶ ¶school¶ ¶for¶ ¶typing¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶typewriter¶ ¶in¶ ¶|__¶ ¶when¶ ¶play¶ ¶begins¶ ¶:¶ ¶while¶ ¶darkness¶ ¶begin¶ ¶;¶ ¶say¶ ¶"Oh, it's dark."¶ ¶otherwise¶ ¶"Is that a light?"¶ ¶end¶ 
+25 distinct words
+¶The¶ ¶the¶ 0a
+¶NI¶ ¶ni¶ 20
+¶School¶ ¶school¶ 20
+¶for¶ ¶for¶ 20
+¶Typing¶ ¶typing¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶The¶ ¶the¶ 20
+¶typewriter¶ ¶typewriter¶ 20
+¶is¶ ¶is¶ 20
+¶in¶ ¶in¶ 20
+¶the¶ ¶the¶ 20
+¶School¶ ¶school¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶When¶ ¶when¶ 20
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶:¶ ¶:¶ 20
+¶while¶ ¶while¶ 41
+¶in¶ ¶in¶ 20
+¶darkness¶ ¶darkness¶ 20
+¶begin¶ ¶begin¶ 41
+¶;¶ ¶;¶ 20
+¶say¶ ¶say¶ 42
+¶"Oh, it's dark."¶ ¶"Oh, it's dark."¶ 20
+¶;¶ ¶;¶ 20
+¶otherwise¶ ¶otherwise¶ 41
+¶;¶ ¶;¶ 20
+¶say¶ ¶say¶ 42
+¶"Is that a light?"¶ ¶"Is that a light?"¶ 20
+¶;¶ ¶;¶ 20
+¶end¶ ¶end¶ 41
+¶while¶ ¶while¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

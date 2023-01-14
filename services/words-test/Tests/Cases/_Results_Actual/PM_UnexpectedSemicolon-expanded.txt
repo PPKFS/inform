@@ -1,0 +1,26 @@
+14 words
+¶countertop¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶refrigtop¶ ¶;¶ ¶"f"¶ ¶down¶ ¶from¶ 
+11 distinct words
+¶Countertop¶ ¶countertop¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Refrigtop¶ ¶refrigtop¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶;¶ ¶;¶ 20
+¶"f"¶ ¶"f"¶ 20
+¶;¶ ¶;¶ 20
+¶down¶ ¶down¶ 0a
+¶from¶ ¶from¶ 20
+¶Refrigtop¶ ¶refrigtop¶ 20
+¶is¶ ¶is¶ 20
+¶Countertop¶ ¶countertop¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

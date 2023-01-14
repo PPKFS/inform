@@ -1,0 +1,9 @@
+words-test: Quoted text never ends: PM_UnendingQuote.txt
+7 words
+¶"Test of a Problem"¶ ¶by¶ ¶dr¶ ¶evil¶ ¶|__¶ 
+5 distinct words
+¶"Test of a Problem"¶ ¶"Test of a Problem"¶ 0a
+¶by¶ ¶by¶ 20
+¶Dr¶ ¶dr¶ 20
+¶Evil¶ ¶evil¶ 20
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,22 @@
+12 words
+¶the¶ ¶moon¶ ¶was¶ ¶a¶ ¶planetesimal¶ ¶.¶ ¶|__¶ ¶triton¶ ¶had¶ ¶been¶ ¶kuiper¶ ¶belt¶ ¶object¶ 
+13 distinct words
+¶The¶ ¶the¶ 0a
+¶moon¶ ¶moon¶ 20
+¶was¶ ¶was¶ 20
+¶a¶ ¶a¶ 20
+¶planetesimal¶ ¶planetesimal¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Triton¶ ¶triton¶ 20
+¶had¶ ¶had¶ 20
+¶been¶ ¶been¶ 20
+¶a¶ ¶a¶ 20
+¶Kuiper¶ ¶kuiper¶ 20
+¶Belt¶ ¶belt¶ 20
+¶Object¶ ¶object¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,32 @@
+21 words
+¶xanadu¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶sound¶ ¶of¶ ¶rustling¶ ¶leaves¶ ¶the¶ ¶file¶ ¶"Rustling leaves.ogg"¶ ¶"Crackling.aiff"¶ 
+14 distinct words
+¶Xanadu¶ ¶xanadu¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Sound¶ ¶sound¶ 20
+¶of¶ ¶of¶ 20
+¶rustling¶ ¶rustling¶ 20
+¶leaves¶ ¶leaves¶ 20
+¶is¶ ¶is¶ 20
+¶the¶ ¶the¶ 20
+¶file¶ ¶file¶ 20
+¶"Rustling leaves.ogg"¶ ¶"Rustling leaves.ogg"¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Sound¶ ¶sound¶ 20
+¶of¶ ¶of¶ 20
+¶rustling¶ ¶rustling¶ 20
+¶leaves¶ ¶leaves¶ 20
+¶is¶ ¶is¶ 20
+¶the¶ ¶the¶ 20
+¶file¶ ¶file¶ 20
+¶"Crackling.aiff"¶ ¶"Crackling.aiff"¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

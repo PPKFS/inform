@@ -1,0 +1,33 @@
+21 words
+¶east¶ ¶of¶ ¶eden¶ ¶is¶ ¶a¶ ¶region¶ ¶.¶ ¶on¶ ¶the¶ ¶prairie¶ ¶|__¶ ¶small¶ ¶room¶ ¶in¶ 
+14 distinct words
+¶East¶ ¶east¶ 0a
+¶of¶ ¶of¶ 20
+¶Eden¶ ¶eden¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶region¶ ¶region¶ 20
+¶.¶ ¶.¶ 20
+¶On¶ ¶on¶ 20
+¶the¶ ¶the¶ 20
+¶Prairie¶ ¶prairie¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶region¶ ¶region¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶Small¶ ¶small¶ 20
+¶Room¶ ¶room¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶in¶ ¶in¶ 20
+¶East¶ ¶east¶ 20
+¶of¶ ¶of¶ 20
+¶Eden¶ ¶eden¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

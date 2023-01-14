@@ -1,0 +1,21 @@
+13 words
+¶king¶ ¶solomon's¶ ¶mine¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶the¶ ¶specification¶ ¶of¶ ¶12¶ ¶"A dozen."¶ 
+13 distinct words
+¶King¶ ¶king¶ 0a
+¶Solomon's¶ ¶solomon's¶ 20
+¶Mine¶ ¶mine¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶specification¶ ¶specification¶ 20
+¶of¶ ¶of¶ 20
+¶12¶ ¶12¶ 20
+¶is¶ ¶is¶ 20
+¶"A dozen."¶ ¶"A dozen."¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

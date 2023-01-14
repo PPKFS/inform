@@ -1,0 +1,24 @@
+13 words
+¶xanadu¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶definition¶ ¶:¶ ¶roomy¶ ¶if¶ ¶arfle¶ ¶barfle¶ ¶gloop¶ 
+13 distinct words
+¶Xanadu¶ ¶xanadu¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Definition¶ ¶definition¶ 20
+¶:¶ ¶:¶ 20
+¶A¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶is¶ ¶is¶ 20
+¶roomy¶ ¶roomy¶ 20
+¶if¶ ¶if¶ 20
+¶arfle¶ ¶arfle¶ 20
+¶barfle¶ ¶barfle¶ 20
+¶gloop¶ ¶gloop¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

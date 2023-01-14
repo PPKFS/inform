@@ -1,0 +1,40 @@
+30 words
+¶home¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶table¶ ¶of¶ ¶exempla¶ ¶flavour¶ ¶"rum and raisin"¶ ¶"Neapolitan"¶ ¶when¶ ¶play¶ ¶begins¶ ¶:¶ ¶if¶ ¶an¶ ¶empty¶ ¶text¶ ¶listed¶ ¶in¶ ¶the¶ ¶,¶ ¶say¶ ¶"Yes."¶ 
+26 distinct words
+¶Home¶ ¶home¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Table¶ ¶table¶ 20
+¶of¶ ¶of¶ 20
+¶Exempla¶ ¶exempla¶ 20
+¶flavour¶ ¶flavour¶ 0a
+¶"rum and raisin"¶ ¶"rum and raisin"¶ 0a
+¶"Neapolitan"¶ ¶"Neapolitan"¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶When¶ ¶when¶ 20
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶:¶ ¶:¶ 20
+¶if¶ ¶if¶ 41
+¶an¶ ¶an¶ 20
+¶empty¶ ¶empty¶ 20
+¶text¶ ¶text¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶flavour¶ ¶flavour¶ 20
+¶listed¶ ¶listed¶ 20
+¶in¶ ¶in¶ 20
+¶the¶ ¶the¶ 20
+¶Table¶ ¶table¶ 20
+¶of¶ ¶of¶ 20
+¶Exempla¶ ¶exempla¶ 20
+¶,¶ ¶,¶ 20
+¶say¶ ¶say¶ 20
+¶"Yes."¶ ¶"Yes."¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

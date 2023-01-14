@@ -1,12 +1,13 @@
--cases 'services/words-test/Tests/Test Cases'
+-cases 'services/words-test/Tests/Cases'
 
 -recipe
 
 	set: $A = $PATH/_Results_Actual/$CASE.txt
+	set: $AE = $PATH/_Results_Actual/$CASE-expanded.txt
 	set: $I = $PATH/_Results_Ideal/$CASE.txt
 	mkdir: $PATH/_Results_Actual
-
-	step: services/words-test/Tangled/words-test -test-$CASE $PATH/$CASE.txt >$A 2>&1
+	step: services/words-test/Tangled/words-test -test-lexer $PATH/$CASE.txt >$A 2>&1
+	step: services/words-test/Tangled/words-test -test-preform $PATH/$CASE.txt >$AE 2>&1
 	or: 'produced errors in words-test' $A
 
 	show: $A

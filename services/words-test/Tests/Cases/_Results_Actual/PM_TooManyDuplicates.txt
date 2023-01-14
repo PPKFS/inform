@@ -1,0 +1,22 @@
+12 words
+¶a¶ ¶dalmatian¶ ¶is¶ ¶kind¶ ¶of¶ ¶animal¶ ¶.¶ ¶|__¶ ¶101¶ ¶dalmatians¶ ¶are¶ ¶in¶ ¶london¶ 
+13 distinct words
+¶A¶ ¶a¶ 0a
+¶Dalmatian¶ ¶dalmatian¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶kind¶ ¶kind¶ 20
+¶of¶ ¶of¶ 20
+¶animal¶ ¶animal¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶101¶ ¶101¶ 20
+¶Dalmatians¶ ¶dalmatians¶ 20
+¶are¶ ¶are¶ 20
+¶in¶ ¶in¶ 20
+¶London¶ ¶london¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,37 @@
+25 words
+¶the¶ ¶shore¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶seashell¶ ¶in¶ ¶bag¶ ¶|__¶ ¶carrying¶ ¶capacity¶ ¶of¶ ¶"roomy"¶ 
+14 distinct words
+¶The¶ ¶the¶ 0a
+¶Shore¶ ¶shore¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶The¶ ¶the¶ 20
+¶seashell¶ ¶seashell¶ 20
+¶is¶ ¶is¶ 20
+¶in¶ ¶in¶ 20
+¶a¶ ¶a¶ 20
+¶bag¶ ¶bag¶ 20
+¶.¶ ¶.¶ 20
+¶The¶ ¶the¶ 20
+¶bag¶ ¶bag¶ 20
+¶is¶ ¶is¶ 20
+¶in¶ ¶in¶ 20
+¶the¶ ¶the¶ 20
+¶Shore¶ ¶shore¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶carrying¶ ¶carrying¶ 20
+¶capacity¶ ¶capacity¶ 20
+¶of¶ ¶of¶ 20
+¶the¶ ¶the¶ 20
+¶bag¶ ¶bag¶ 20
+¶is¶ ¶is¶ 20
+¶"roomy"¶ ¶"roomy"¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

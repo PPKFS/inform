@@ -1,0 +1,26 @@
+16 words
+¶the¶ ¶dome¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶scene¶ ¶has¶ ¶number¶ ¶that¶ ¶varies¶ ¶called¶ ¶difficulty¶ ¶rating¶ 
+15 distinct words
+¶The¶ ¶the¶ 0a
+¶Dome¶ ¶dome¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶A¶ ¶a¶ 20
+¶scene¶ ¶scene¶ 20
+¶has¶ ¶has¶ 20
+¶a¶ ¶a¶ 20
+¶number¶ ¶number¶ 20
+¶that¶ ¶that¶ 20
+¶varies¶ ¶varies¶ 20
+¶called¶ ¶called¶ 20
+¶the¶ ¶the¶ 20
+¶difficulty¶ ¶difficulty¶ 20
+¶rating¶ ¶rating¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,21 @@
+11 words
+¶the¶ ¶steppe¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶afghan¶ ¶shepherd¶ ¶variable¶ 
+10 distinct words
+¶The¶ ¶the¶ 0a
+¶Steppe¶ ¶steppe¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶Afghan¶ ¶afghan¶ 20
+¶shepherd¶ ¶shepherd¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶variable¶ ¶variable¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

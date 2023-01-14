@@ -1,0 +1,16 @@
+8 words
+¶the¶ ¶arrow¶ ¶is¶ ¶in¶ ¶a¶ ¶kind¶ ¶of¶ ¶value¶ ¶.¶ ¶|__¶ 
+10 distinct words
+¶The¶ ¶the¶ 0a
+¶arrow¶ ¶arrow¶ 20
+¶is¶ ¶is¶ 20
+¶in¶ ¶in¶ 20
+¶a¶ ¶a¶ 20
+¶kind¶ ¶kind¶ 20
+¶of¶ ¶of¶ 20
+¶value¶ ¶value¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

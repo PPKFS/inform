@@ -1,0 +1,29 @@
+19 words
+¶there¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶at¶ ¶the¶ ¶time¶ ¶that¶ ¶master¶ ¶arrives¶ ¶:¶ ¶in¶ ¶one¶ ¶turn¶ ¶from¶ ¶now¶ ¶|__¶ 
+18 distinct words
+¶There¶ ¶there¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶At¶ ¶at¶ 0a
+¶the¶ ¶the¶ 20
+¶time¶ ¶time¶ 20
+¶that¶ ¶that¶ 20
+¶the¶ ¶the¶ 20
+¶master¶ ¶master¶ 20
+¶arrives¶ ¶arrives¶ 20
+¶:¶ ¶:¶ 20
+¶the¶ ¶the¶ 41
+¶master¶ ¶master¶ 20
+¶arrives¶ ¶arrives¶ 20
+¶in¶ ¶in¶ 20
+¶one¶ ¶one¶ 20
+¶turn¶ ¶turn¶ 20
+¶from¶ ¶from¶ 20
+¶now¶ ¶now¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

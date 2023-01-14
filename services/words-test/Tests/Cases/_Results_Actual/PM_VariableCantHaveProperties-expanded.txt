@@ -1,0 +1,19 @@
+9 words
+¶place¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶the¶ ¶player¶ ¶can¶ ¶be¶ ¶lackadaisical¶ 
+11 distinct words
+¶Place¶ ¶place¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶player¶ ¶player¶ 20
+¶can¶ ¶can¶ 20
+¶be¶ ¶be¶ 20
+¶lackadaisical¶ ¶lackadaisical¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

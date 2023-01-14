@@ -1,0 +1,19 @@
+10 words
+¶foo¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶in¶ ¶never¶ ¶device¶ ¶|__¶ 
+9 distinct words
+¶Foo¶ ¶foo¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶In¶ ¶in¶ 0a
+¶Foo¶ ¶foo¶ 20
+¶is¶ ¶is¶ 20
+¶never¶ ¶never¶ 20
+¶a¶ ¶a¶ 20
+¶device¶ ¶device¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

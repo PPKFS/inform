@@ -1,0 +1,70 @@
+51 words
+¶the¶ ¶garden¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶gem¶ ¶in¶ ¶|__¶ ¶every¶ ¶turn¶ ¶when¶ ¶carried¶ ¶:¶ ¶if¶ ¶thing¶ ¶(¶ ¶called¶ ¶aa¶ ¶)¶ ¶,¶ ¶say¶ ¶"a. [aa]."¶ ¶;¶ ¶"b. [gem]."¶ ¶cc¶ ¶"c. [cc]."¶ ¶test¶ ¶me¶ ¶with¶ ¶"take gem"¶ 
+31 distinct words
+¶The¶ ¶the¶ 0a
+¶garden¶ ¶garden¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶The¶ ¶the¶ 0a
+¶gem¶ ¶gem¶ 20
+¶is¶ ¶is¶ 20
+¶in¶ ¶in¶ 20
+¶the¶ ¶the¶ 20
+¶garden¶ ¶garden¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Every¶ ¶every¶ 20
+¶turn¶ ¶turn¶ 20
+¶when¶ ¶when¶ 20
+¶the¶ ¶the¶ 20
+¶gem¶ ¶gem¶ 20
+¶is¶ ¶is¶ 20
+¶carried¶ ¶carried¶ 20
+¶:¶ ¶:¶ 20
+¶if¶ ¶if¶ 41
+¶a¶ ¶a¶ 20
+¶thing¶ ¶thing¶ 20
+¶(¶ ¶(¶ 20
+¶called¶ ¶called¶ 20
+¶aa¶ ¶aa¶ 20
+¶)¶ ¶)¶ 20
+¶is¶ ¶is¶ 20
+¶carried¶ ¶carried¶ 20
+¶,¶ ¶,¶ 20
+¶say¶ ¶say¶ 20
+¶"a. [aa]."¶ ¶"a. [aa]."¶ 20
+¶;¶ ¶;¶ 20
+¶if¶ ¶if¶ 41
+¶the¶ ¶the¶ 20
+¶gem¶ ¶gem¶ 20
+¶is¶ ¶is¶ 20
+¶carried¶ ¶carried¶ 20
+¶,¶ ¶,¶ 20
+¶say¶ ¶say¶ 20
+¶"b. [gem]."¶ ¶"b. [gem]."¶ 20
+¶;¶ ¶;¶ 20
+¶if¶ ¶if¶ 41
+¶the¶ ¶the¶ 20
+¶gem¶ ¶gem¶ 20
+¶(¶ ¶(¶ 20
+¶called¶ ¶called¶ 20
+¶cc¶ ¶cc¶ 20
+¶)¶ ¶)¶ 20
+¶is¶ ¶is¶ 20
+¶carried¶ ¶carried¶ 20
+¶,¶ ¶,¶ 20
+¶say¶ ¶say¶ 20
+¶"c. [cc]."¶ ¶"c. [cc]."¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Test¶ ¶test¶ 20
+¶me¶ ¶me¶ 20
+¶with¶ ¶with¶ 20
+¶"take gem"¶ ¶"take gem"¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,28 @@
+18 words
+¶include¶ ¶extauthortoolong¶ ¶extension¶ ¶by¶ ¶araminta¶ ¶spongiform¶ ¶pterodactyl¶ ¶brontosaurus¶ ¶spam¶ ¶intest¶ ¶.¶ ¶|__¶ ¶xenon¶ ¶is¶ ¶a¶ ¶room¶ 
+16 distinct words
+¶Include¶ ¶include¶ 0a
+¶Extauthortoolong¶ ¶extauthortoolong¶ 20
+¶Extension¶ ¶extension¶ 20
+¶by¶ ¶by¶ 20
+¶Araminta¶ ¶araminta¶ 20
+¶Spongiform¶ ¶spongiform¶ 20
+¶Pterodactyl¶ ¶pterodactyl¶ 20
+¶Brontosaurus¶ ¶brontosaurus¶ 20
+¶Spam¶ ¶spam¶ 20
+¶Spam¶ ¶spam¶ 20
+¶Spam¶ ¶spam¶ 20
+¶Spam¶ ¶spam¶ 20
+¶Spam¶ ¶spam¶ 20
+¶Intest¶ ¶intest¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Xenon¶ ¶xenon¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,37 @@
+24 words
+¶in¶ ¶a¶ ¶room¶ ¶called¶ ¶test¶ ¶is¶ ¶wearable¶ ¶thing¶ ¶hat¶ ¶.¶ ¶after¶ ¶taking¶ ¶off¶ ¶:¶ ¶if¶ ¶something¶ ¶(¶ ¶x¶ ¶)¶ ¶was¶ ¶worn¶ ¶,¶ ¶say¶ ¶"hi"¶ ¶|__¶ 
+25 distinct words
+¶In¶ ¶in¶ 0a
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶called¶ ¶called¶ 20
+¶Test¶ ¶test¶ 20
+¶Room¶ ¶room¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶wearable¶ ¶wearable¶ 20
+¶thing¶ ¶thing¶ 20
+¶called¶ ¶called¶ 20
+¶a¶ ¶a¶ 20
+¶hat¶ ¶hat¶ 20
+¶.¶ ¶.¶ 20
+¶After¶ ¶after¶ 0a
+¶taking¶ ¶taking¶ 20
+¶off¶ ¶off¶ 20
+¶:¶ ¶:¶ 20
+¶if¶ ¶if¶ 0a
+¶something¶ ¶something¶ 20
+¶(¶ ¶(¶ 20
+¶called¶ ¶called¶ 20
+¶x¶ ¶x¶ 20
+¶)¶ ¶)¶ 20
+¶was¶ ¶was¶ 20
+¶worn¶ ¶worn¶ 20
+¶,¶ ¶,¶ 20
+¶say¶ ¶say¶ 20
+¶"hi"¶ ¶"hi"¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

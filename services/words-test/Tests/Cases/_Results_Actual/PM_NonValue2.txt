@@ -1,0 +1,33 @@
+21 words
+¶the¶ ¶world¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶food¶ ¶kind¶ ¶of¶ ¶thing¶ ¶that¶ ¶edible¶ ¶carrying¶ ¶capacity¶ ¶not¶ ¶1¶ 
+17 distinct words
+¶The¶ ¶the¶ 0a
+¶World¶ ¶world¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶A¶ ¶a¶ 20
+¶food¶ ¶food¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶kind¶ ¶kind¶ 20
+¶of¶ ¶of¶ 20
+¶thing¶ ¶thing¶ 20
+¶that¶ ¶that¶ 20
+¶is¶ ¶is¶ 20
+¶edible¶ ¶edible¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶carrying¶ ¶carrying¶ 20
+¶capacity¶ ¶capacity¶ 20
+¶is¶ ¶is¶ 20
+¶not¶ ¶not¶ 20
+¶1¶ ¶1¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

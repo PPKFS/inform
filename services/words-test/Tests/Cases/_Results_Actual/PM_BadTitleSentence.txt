@@ -1,0 +1,16 @@
+8 words
+¶"The Gilmore Girls"¶ ¶s01e01¶ ¶.¶ ¶|__¶ ¶xanadu¶ ¶is¶ ¶a¶ ¶room¶ 
+8 distinct words
+¶"The Gilmore Girls"¶ ¶"The Gilmore Girls"¶ 0a
+¶s01e01¶ ¶s01e01¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Xanadu¶ ¶xanadu¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

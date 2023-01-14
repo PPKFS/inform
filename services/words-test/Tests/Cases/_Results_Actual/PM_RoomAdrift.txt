@@ -1,0 +1,33 @@
+21 words
+¶a¶ ¶room¶ ¶is¶ ¶kind¶ ¶of¶ ¶door¶ ¶.¶ ¶|__¶ ¶foo¶ ¶west¶ ¶bar¶ 
+11 distinct words
+¶A¶ ¶a¶ 0a
+¶room¶ ¶room¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶kind¶ ¶kind¶ 20
+¶of¶ ¶of¶ 20
+¶door¶ ¶door¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Foo¶ ¶foo¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶West¶ ¶west¶ 0a
+¶of¶ ¶of¶ 20
+¶Foo¶ ¶foo¶ 20
+¶is¶ ¶is¶ 20
+¶Bar¶ ¶bar¶ 20
+¶.¶ ¶.¶ 20
+¶West¶ ¶west¶ 0a
+¶of¶ ¶of¶ 20
+¶Bar¶ ¶bar¶ 20
+¶is¶ ¶is¶ 20
+¶Foo¶ ¶foo¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

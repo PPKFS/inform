@@ -1,0 +1,22 @@
+13 words
+¶the¶ ¶admiralty¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶table¶ ¶1¶ ¶-¶ ¶admirals¶ ¶admiral¶ ¶rank¶ ¶player¶ 
+14 distinct words
+¶The¶ ¶the¶ 0a
+¶Admiralty¶ ¶admiralty¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Table¶ ¶table¶ 20
+¶1¶ ¶1¶ 20
+¶-¶ ¶-¶ 20
+¶Admirals¶ ¶admirals¶ 20
+¶admiral¶ ¶admiral¶ 0a
+¶rank¶ ¶rank¶ 09
+¶player¶ ¶player¶ 0a
+¶1¶ ¶1¶ 09
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

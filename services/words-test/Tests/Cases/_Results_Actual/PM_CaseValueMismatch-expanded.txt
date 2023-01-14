@@ -1,0 +1,37 @@
+23 words
+¶home¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶when¶ ¶play¶ ¶begins¶ ¶:¶ ¶let¶ ¶the¶ ¶dangerous¶ ¶item¶ ¶be¶ ¶player¶ ¶;¶ ¶if¶ ¶--¶ ¶2¶ ¶say¶ ¶"2"¶ 
+22 distinct words
+¶Home¶ ¶home¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶When¶ ¶when¶ 20
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶:¶ ¶:¶ 20
+¶let¶ ¶let¶ 41
+¶the¶ ¶the¶ 20
+¶dangerous¶ ¶dangerous¶ 20
+¶item¶ ¶item¶ 20
+¶be¶ ¶be¶ 20
+¶the¶ ¶the¶ 20
+¶player¶ ¶player¶ 20
+¶;¶ ¶;¶ 20
+¶if¶ ¶if¶ 41
+¶the¶ ¶the¶ 20
+¶dangerous¶ ¶dangerous¶ 20
+¶item¶ ¶item¶ 20
+¶is¶ ¶is¶ 20
+¶:¶ ¶:¶ 20
+¶--¶ ¶--¶ 42
+¶2¶ ¶2¶ 20
+¶:¶ ¶:¶ 20
+¶say¶ ¶say¶ 20
+¶"2"¶ ¶"2"¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

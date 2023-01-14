@@ -1,0 +1,43 @@
+27 words
+¶the¶ ¶schoolhouse¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶chapter¶ ¶of¶ ¶minimal¶ ¶grammar¶ ¶(¶ ¶in¶ ¶place¶ ¶part¶ ¶six¶ ¶-¶ ¶standard¶ ¶rules¶ ¶by¶ ¶graham¶ ¶nelson¶ ¶)¶ ¶understand¶ ¶"take "¶ ¶,¶ ¶things¶ ¶""¶ ¶as¶ ¶taking¶ 
+30 distinct words
+¶The¶ ¶the¶ 0a
+¶Schoolhouse¶ ¶schoolhouse¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Chapter¶ ¶chapter¶ 20
+¶of¶ ¶of¶ 20
+¶Minimal¶ ¶minimal¶ 20
+¶Grammar¶ ¶grammar¶ 20
+¶(¶ ¶(¶ 20
+¶in¶ ¶in¶ 20
+¶place¶ ¶place¶ 20
+¶of¶ ¶of¶ 20
+¶Part¶ ¶part¶ 20
+¶Six¶ ¶six¶ 20
+¶-¶ ¶-¶ 20
+¶Grammar¶ ¶grammar¶ 20
+¶in¶ ¶in¶ 20
+¶Standard¶ ¶standard¶ 20
+¶Rules¶ ¶rules¶ 20
+¶by¶ ¶by¶ 20
+¶Graham¶ ¶graham¶ 20
+¶Nelson¶ ¶nelson¶ 20
+¶)¶ ¶)¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Understand¶ ¶understand¶ 20
+¶"take "¶ ¶"take "¶ 20
+¶,¶ ¶,¶ 20
+¶things¶ ¶things¶ 20
+¶,¶ ¶,¶ 20
+¶""¶ ¶""¶ 20
+¶as¶ ¶as¶ 20
+¶taking¶ ¶taking¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

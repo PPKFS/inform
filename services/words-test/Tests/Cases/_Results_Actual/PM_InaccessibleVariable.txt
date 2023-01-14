@@ -1,0 +1,47 @@
+33 words
+¶spot¶ ¶is¶ ¶room¶ ¶.¶ ¶|__¶ ¶include¶ ¶(-¶ ¶ Global foobar; ¶ ¶after¶ ¶"Definitions.i6t"¶ ¶foo¶ ¶a¶ ¶number¶ ¶that¶ ¶varies¶ ¶the¶ ¶variable¶ ¶translates¶ ¶into¶ ¶i6¶ ¶as¶ ¶"foobar"¶ ¶usually¶ ¶5¶ ¶when¶ ¶play¶ ¶begins¶ ¶,¶ ¶say¶ ¶"Foo is [foo]."¶ 
+30 distinct words
+¶spot¶ ¶spot¶ 0a
+¶is¶ ¶is¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Include¶ ¶include¶ 20
+¶(-¶ ¶(-¶ 20
+¶ Global foobar; ¶ ¶ Global foobar; ¶ 20
+¶after¶ ¶after¶ 20
+¶"Definitions.i6t"¶ ¶"Definitions.i6t"¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Foo¶ ¶foo¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶number¶ ¶number¶ 20
+¶that¶ ¶that¶ 20
+¶varies¶ ¶varies¶ 20
+¶.¶ ¶.¶ 20
+¶The¶ ¶the¶ 0a
+¶foo¶ ¶foo¶ 20
+¶variable¶ ¶variable¶ 20
+¶translates¶ ¶translates¶ 20
+¶into¶ ¶into¶ 20
+¶I6¶ ¶i6¶ 20
+¶as¶ ¶as¶ 20
+¶"foobar"¶ ¶"foobar"¶ 20
+¶.¶ ¶.¶ 20
+¶Foo¶ ¶foo¶ 0a
+¶is¶ ¶is¶ 20
+¶usually¶ ¶usually¶ 20
+¶5¶ ¶5¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶when¶ ¶when¶ 20
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶,¶ ¶,¶ 20
+¶say¶ ¶say¶ 20
+¶"Foo is [foo]."¶ ¶"Foo is [foo]."¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

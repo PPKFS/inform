@@ -1,0 +1,31 @@
+18 words
+¶the¶ ¶bank¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶coin¶ ¶kind¶ ¶of¶ ¶thing¶ ¶plural¶ ¶"monies"¶ 
+13 distinct words
+¶The¶ ¶the¶ 0a
+¶bank¶ ¶bank¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶A¶ ¶a¶ 20
+¶coin¶ ¶coin¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶kind¶ ¶kind¶ 20
+¶of¶ ¶of¶ 20
+¶thing¶ ¶thing¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶plural¶ ¶plural¶ 20
+¶of¶ ¶of¶ 20
+¶coin¶ ¶coin¶ 20
+¶is¶ ¶is¶ 20
+¶"monies"¶ ¶"monies"¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,33 @@
+20 words
+¶xanadu¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶definition¶ ¶:¶ ¶thing¶ ¶(¶ ¶called¶ ¶the¶ ¶dome¶ ¶)¶ ¶stately¶ ¶if¶ ¶its¶ ¶carrying¶ ¶capacity¶ ¶19¶ ¶or¶ ¶more¶ 
+22 distinct words
+¶Xanadu¶ ¶xanadu¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Definition¶ ¶definition¶ 20
+¶:¶ ¶:¶ 20
+¶a¶ ¶a¶ 20
+¶thing¶ ¶thing¶ 20
+¶(¶ ¶(¶ 20
+¶called¶ ¶called¶ 20
+¶the¶ ¶the¶ 20
+¶dome¶ ¶dome¶ 20
+¶)¶ ¶)¶ 20
+¶is¶ ¶is¶ 20
+¶stately¶ ¶stately¶ 20
+¶if¶ ¶if¶ 20
+¶its¶ ¶its¶ 20
+¶carrying¶ ¶carrying¶ 20
+¶capacity¶ ¶capacity¶ 20
+¶is¶ ¶is¶ 20
+¶19¶ ¶19¶ 20
+¶or¶ ¶or¶ 20
+¶more¶ ¶more¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

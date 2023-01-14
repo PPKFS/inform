@@ -1,0 +1,24 @@
+13 words
+¶burrow¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶definition¶ ¶:¶ ¶the¶ ¶if¶ ¶it¶ ¶dark¶ 
+12 distinct words
+¶Burrow¶ ¶burrow¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Definition¶ ¶definition¶ 20
+¶:¶ ¶:¶ 20
+¶A¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶is¶ ¶is¶ 20
+¶the¶ ¶the¶ 20
+¶if¶ ¶if¶ 20
+¶it¶ ¶it¶ 20
+¶is¶ ¶is¶ 20
+¶dark¶ ¶dark¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

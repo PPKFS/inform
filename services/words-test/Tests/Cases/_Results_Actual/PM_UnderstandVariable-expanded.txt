@@ -1,0 +1,21 @@
+11 words
+¶obligatory¶ ¶starting¶ ¶point¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶understand¶ ¶"fooble"¶ ¶as¶ ¶the¶ ¶player¶ 
+13 distinct words
+¶Obligatory¶ ¶obligatory¶ 0a
+¶Starting¶ ¶starting¶ 20
+¶Point¶ ¶point¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Understand¶ ¶understand¶ 20
+¶"fooble"¶ ¶"fooble"¶ 20
+¶as¶ ¶as¶ 20
+¶the¶ ¶the¶ 20
+¶player¶ ¶player¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,30 @@
+18 words
+¶xanadu¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶the¶ ¶file¶ ¶of¶ ¶glaciers¶ ¶called¶ ¶"ice"¶ ¶"snow"¶ 
+13 distinct words
+¶Xanadu¶ ¶xanadu¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶File¶ ¶file¶ 20
+¶of¶ ¶of¶ 20
+¶Glaciers¶ ¶glaciers¶ 20
+¶is¶ ¶is¶ 20
+¶called¶ ¶called¶ 20
+¶"ice"¶ ¶"ice"¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶File¶ ¶file¶ 20
+¶of¶ ¶of¶ 20
+¶Glaciers¶ ¶glaciers¶ 20
+¶is¶ ¶is¶ 20
+¶called¶ ¶called¶ 20
+¶"snow"¶ ¶"snow"¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

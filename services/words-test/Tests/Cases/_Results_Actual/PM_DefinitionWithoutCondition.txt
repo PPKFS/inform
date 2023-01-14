@@ -1,0 +1,23 @@
+12 words
+¶xanadu¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶definition¶ ¶:¶ ¶roomy¶ ¶pretty¶ ¶much¶ ¶always¶ 
+12 distinct words
+¶Xanadu¶ ¶xanadu¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Definition¶ ¶definition¶ 20
+¶:¶ ¶:¶ 20
+¶A¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶is¶ ¶is¶ 20
+¶roomy¶ ¶roomy¶ 20
+¶pretty¶ ¶pretty¶ 20
+¶much¶ ¶much¶ 20
+¶always¶ ¶always¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

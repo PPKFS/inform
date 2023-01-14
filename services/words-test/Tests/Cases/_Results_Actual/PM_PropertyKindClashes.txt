@@ -1,0 +1,23 @@
+14 words
+¶a¶ ¶room¶ ¶has¶ ¶number¶ ¶called¶ ¶bogosity¶ ¶.¶ ¶container¶ ¶some¶ ¶text¶ ¶|__¶ 
+11 distinct words
+¶A¶ ¶a¶ 0a
+¶room¶ ¶room¶ 20
+¶has¶ ¶has¶ 20
+¶a¶ ¶a¶ 20
+¶number¶ ¶number¶ 20
+¶called¶ ¶called¶ 20
+¶bogosity¶ ¶bogosity¶ 20
+¶.¶ ¶.¶ 20
+¶A¶ ¶a¶ 0a
+¶container¶ ¶container¶ 20
+¶has¶ ¶has¶ 20
+¶some¶ ¶some¶ 20
+¶text¶ ¶text¶ 20
+¶called¶ ¶called¶ 20
+¶bogosity¶ ¶bogosity¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

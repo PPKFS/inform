@@ -1,0 +1,24 @@
+14 words
+¶colour¶ ¶is¶ ¶a¶ ¶kind¶ ¶of¶ ¶value¶ ¶.¶ ¶10a¶ ¶specifies¶ ¶green¶ ¶|__¶ 
+11 distinct words
+¶Colour¶ ¶colour¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶kind¶ ¶kind¶ 20
+¶of¶ ¶of¶ 20
+¶value¶ ¶value¶ 20
+¶.¶ ¶.¶ 20
+¶10A¶ ¶10a¶ 20
+¶specifies¶ ¶specifies¶ 20
+¶a¶ ¶a¶ 20
+¶colour¶ ¶colour¶ 20
+¶.¶ ¶.¶ 20
+¶Green¶ ¶green¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶colour¶ ¶colour¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,27 @@
+19 words
+¶xanadu¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶table¶ ¶of¶ ¶exempla¶ ¶model¶ ¶name¶ ¶(¶ ¶trade¶ ¶marked¶ ¶)¶ ¶4¶ ¶"Quad XL"¶ ¶6¶ ¶"Lollapalooza 6 Pro"¶ 
+19 distinct words
+¶Xanadu¶ ¶xanadu¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Table¶ ¶table¶ 20
+¶of¶ ¶of¶ 20
+¶Exempla¶ ¶exempla¶ 20
+¶model¶ ¶model¶ 0a
+¶model¶ ¶model¶ 09
+¶name¶ ¶name¶ 20
+¶(¶ ¶(¶ 20
+¶trade¶ ¶trade¶ 20
+¶marked¶ ¶marked¶ 20
+¶)¶ ¶)¶ 20
+¶4¶ ¶4¶ 0a
+¶"Quad XL"¶ ¶"Quad XL"¶ 09
+¶6¶ ¶6¶ 0a
+¶"Lollapalooza 6 Pro"¶ ¶"Lollapalooza 6 Pro"¶ 09
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

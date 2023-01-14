@@ -1,0 +1,26 @@
+17 words
+¶burrow¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶to¶ ¶say¶ ¶wombling¶ ¶free¶ ¶,¶ ¶over¶ ¶hill¶ ¶and/or¶ ¶under¶ ¶dale¶ ¶:¶ ¶"Oh go away."¶ 
+18 distinct words
+¶Burrow¶ ¶burrow¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶To¶ ¶to¶ 20
+¶say¶ ¶say¶ 20
+¶wombling¶ ¶wombling¶ 20
+¶free¶ ¶free¶ 20
+¶,¶ ¶,¶ 20
+¶over¶ ¶over¶ 20
+¶hill¶ ¶hill¶ 20
+¶and/or¶ ¶and/or¶ 20
+¶under¶ ¶under¶ 20
+¶dale¶ ¶dale¶ 20
+¶:¶ ¶:¶ 20
+¶say¶ ¶say¶ 20
+¶"Oh go away."¶ ¶"Oh go away."¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

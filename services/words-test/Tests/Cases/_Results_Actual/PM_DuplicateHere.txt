@@ -1,0 +1,28 @@
+17 words
+¶beginning¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶chair¶ ¶here¶ ¶finale¶ ¶north¶ ¶of¶ ¶|__¶ 
+11 distinct words
+¶Beginning¶ ¶beginning¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶A¶ ¶a¶ 0a
+¶chair¶ ¶chair¶ 20
+¶is¶ ¶is¶ 20
+¶here¶ ¶here¶ 20
+¶.¶ ¶.¶ 20
+¶Finale¶ ¶finale¶ 0a
+¶is¶ ¶is¶ 20
+¶north¶ ¶north¶ 20
+¶of¶ ¶of¶ 20
+¶Beginning¶ ¶beginning¶ 20
+¶.¶ ¶.¶ 20
+¶A¶ ¶a¶ 0a
+¶chair¶ ¶chair¶ 20
+¶is¶ ¶is¶ 20
+¶here¶ ¶here¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

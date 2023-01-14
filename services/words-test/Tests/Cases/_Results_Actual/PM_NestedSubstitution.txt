@@ -1,0 +1,28 @@
+19 words
+¶include¶ ¶text¶ ¶substitutions¶ ¶in¶ ¶the¶ ¶debugging¶ ¶log¶ ¶.¶ ¶|__¶ ¶there¶ ¶is¶ ¶a¶ ¶room¶ ¶when¶ ¶play¶ ¶begins¶ ¶:¶ ¶say¶ ¶"[foo [the player] bar]"¶ 
+19 distinct words
+¶Include¶ ¶include¶ 0a
+¶text¶ ¶text¶ 20
+¶substitutions¶ ¶substitutions¶ 20
+¶in¶ ¶in¶ 20
+¶the¶ ¶the¶ 20
+¶debugging¶ ¶debugging¶ 20
+¶log¶ ¶log¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶There¶ ¶there¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶When¶ ¶when¶ 0a
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶:¶ ¶:¶ 20
+¶say¶ ¶say¶ 41
+¶"[foo [the player] bar]"¶ ¶"[foo [the player] bar]"¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

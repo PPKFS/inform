@@ -1,0 +1,33 @@
+22 words
+¶foo¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶container¶ ¶kind¶ ¶of¶ ¶supporter¶ ¶in¶ ¶the¶ ¶box¶ ¶wombat¶ ¶|__¶ 
+14 distinct words
+¶Foo¶ ¶foo¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶A¶ ¶a¶ 0a
+¶container¶ ¶container¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶kind¶ ¶kind¶ 20
+¶of¶ ¶of¶ 20
+¶supporter¶ ¶supporter¶ 20
+¶.¶ ¶.¶ 20
+¶In¶ ¶in¶ 0a
+¶the¶ ¶the¶ 20
+¶box¶ ¶box¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶wombat¶ ¶wombat¶ 20
+¶.¶ ¶.¶ 20
+¶The¶ ¶the¶ 20
+¶box¶ ¶box¶ 20
+¶is¶ ¶is¶ 20
+¶in¶ ¶in¶ 20
+¶Foo¶ ¶foo¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

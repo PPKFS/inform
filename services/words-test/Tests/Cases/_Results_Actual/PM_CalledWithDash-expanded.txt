@@ -1,0 +1,35 @@
+21 words
+¶home¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶when¶ ¶play¶ ¶begins¶ ¶,¶ ¶if¶ ¶one¶ ¶person¶ ¶(¶ ¶called¶ ¶the¶ ¶dude¶ ¶-¶ ¶)¶ ¶in¶ ¶say¶ ¶"ok"¶ 
+22 distinct words
+¶Home¶ ¶home¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶When¶ ¶when¶ 20
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶,¶ ¶,¶ 20
+¶if¶ ¶if¶ 20
+¶one¶ ¶one¶ 20
+¶person¶ ¶person¶ 20
+¶(¶ ¶(¶ 20
+¶called¶ ¶called¶ 20
+¶the¶ ¶the¶ 20
+¶dude¶ ¶dude¶ 20
+¶-¶ ¶-¶ 20
+¶a¶ ¶a¶ 20
+¶person¶ ¶person¶ 20
+¶)¶ ¶)¶ 20
+¶is¶ ¶is¶ 20
+¶in¶ ¶in¶ 20
+¶Home¶ ¶home¶ 20
+¶,¶ ¶,¶ 20
+¶say¶ ¶say¶ 20
+¶"ok"¶ ¶"ok"¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

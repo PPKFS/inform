@@ -1,0 +1,33 @@
+18 words
+¶lab¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶when¶ ¶play¶ ¶begins¶ ¶:¶ ¶if¶ ¶21¶ ¶--¶ ¶otherwise¶ ¶say¶ ¶"No."¶ ¶;¶ ¶"Yes."¶ 
+18 distinct words
+¶Lab¶ ¶lab¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶When¶ ¶when¶ 20
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶:¶ ¶:¶ 20
+¶if¶ ¶if¶ 41
+¶21¶ ¶21¶ 20
+¶is¶ ¶is¶ 20
+¶:¶ ¶:¶ 20
+¶--¶ ¶--¶ 42
+¶otherwise¶ ¶otherwise¶ 20
+¶:¶ ¶:¶ 20
+¶say¶ ¶say¶ 43
+¶"No."¶ ¶"No."¶ 20
+¶;¶ ¶;¶ 20
+¶--¶ ¶--¶ 42
+¶21¶ ¶21¶ 20
+¶:¶ ¶:¶ 20
+¶say¶ ¶say¶ 43
+¶"Yes."¶ ¶"Yes."¶ 20
+¶;¶ ¶;¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

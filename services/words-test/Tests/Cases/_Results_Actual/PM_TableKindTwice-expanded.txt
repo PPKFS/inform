@@ -1,0 +1,36 @@
+24 words
+¶the¶ ¶kitchen¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶apple¶ ¶thing¶ ¶pear¶ ¶table¶ ¶of¶ ¶whoops¶ ¶fruit¶ ¶price¶ ¶2¶ ¶person¶ ¶3¶ 
+18 distinct words
+¶The¶ ¶the¶ 0a
+¶Kitchen¶ ¶kitchen¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶apple¶ ¶apple¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶thing¶ ¶thing¶ 20
+¶.¶ ¶.¶ 20
+¶The¶ ¶the¶ 20
+¶pear¶ ¶pear¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶thing¶ ¶thing¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Table¶ ¶table¶ 20
+¶of¶ ¶of¶ 20
+¶Whoops¶ ¶whoops¶ 20
+¶fruit¶ ¶fruit¶ 0a
+¶price¶ ¶price¶ 09
+¶thing¶ ¶thing¶ 0a
+¶2¶ ¶2¶ 09
+¶person¶ ¶person¶ 0a
+¶3¶ ¶3¶ 09
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

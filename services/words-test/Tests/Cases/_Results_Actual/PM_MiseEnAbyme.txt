@@ -1,0 +1,18 @@
+10 words
+¶the¶ ¶mise¶ ¶en¶ ¶abyme¶ ¶is¶ ¶in¶ ¶.¶ ¶|__¶ 
+8 distinct words
+¶The¶ ¶the¶ 0a
+¶mise¶ ¶mise¶ 20
+¶en¶ ¶en¶ 20
+¶abyme¶ ¶abyme¶ 20
+¶is¶ ¶is¶ 20
+¶in¶ ¶in¶ 20
+¶the¶ ¶the¶ 20
+¶mise¶ ¶mise¶ 20
+¶en¶ ¶en¶ 20
+¶abyme¶ ¶abyme¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

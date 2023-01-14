@@ -1,0 +1,13 @@
+5 words
+¶the¶ ¶fish¶ ¶is¶ ¶fowl¶ ¶.¶ ¶|__¶ 
+6 distinct words
+¶The¶ ¶the¶ 0a
+¶fish¶ ¶fish¶ 20
+¶is¶ ¶is¶ 20
+¶the¶ ¶the¶ 20
+¶fowl¶ ¶fowl¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,23 @@
+12 words
+¶xanadu¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶before¶ ¶starting¶ ¶the¶ ¶virtual¶ ¶machine¶ ¶while¶ ¶"stuff"¶ ¶:¶ ¶stop¶ 
+15 distinct words
+¶Xanadu¶ ¶xanadu¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Before¶ ¶before¶ 20
+¶starting¶ ¶starting¶ 20
+¶the¶ ¶the¶ 20
+¶virtual¶ ¶virtual¶ 20
+¶machine¶ ¶machine¶ 20
+¶while¶ ¶while¶ 20
+¶"stuff"¶ ¶"stuff"¶ 20
+¶:¶ ¶:¶ 20
+¶stop¶ ¶stop¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

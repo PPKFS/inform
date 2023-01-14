@@ -1,0 +1,24 @@
+19 words
+¶there¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶foo¶ ¶here¶ ¶understand¶ ¶"in [something related by reversed room-containment]"¶ ¶as¶ ¶thing¶ ¶|__¶ 
+12 distinct words
+¶There¶ ¶there¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶There¶ ¶there¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶foo¶ ¶foo¶ 20
+¶here¶ ¶here¶ 20
+¶.¶ ¶.¶ 20
+¶Understand¶ ¶understand¶ 0a
+¶"in [something related by reversed room-containment]"¶ ¶"in [something related by reversed room-containment]"¶ 20
+¶as¶ ¶as¶ 20
+¶a¶ ¶a¶ 20
+¶thing¶ ¶thing¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

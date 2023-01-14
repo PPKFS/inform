@@ -1,0 +1,46 @@
+43 words
+¶the¶ ¶retro¶ ¶t-shirt¶ ¶is¶ ¶a¶ ¶thing¶ ¶.¶ ¶|__¶ ¶table¶ ¶1¶ ¶-¶ ¶player's¶ ¶clothing¶ ¶name¶ ¶description¶ ¶"Depicts a character who rose and fell before you were born."¶ ¶darcy's¶ ¶bedroom¶ ¶room¶ ¶are¶ ¶defined¶ ¶by¶ ¶of¶ 
+23 distinct words
+¶The¶ ¶the¶ 0a
+¶retro¶ ¶retro¶ 20
+¶T-shirt¶ ¶t-shirt¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶thing¶ ¶thing¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Table¶ ¶table¶ 20
+¶1¶ ¶1¶ 20
+¶-¶ ¶-¶ 20
+¶Player's¶ ¶player's¶ 20
+¶Clothing¶ ¶clothing¶ 20
+¶name¶ ¶name¶ 0a
+¶description¶ ¶description¶ 09
+¶a¶ ¶a¶ 0a
+¶retro¶ ¶retro¶ 20
+¶T-shirt¶ ¶t-shirt¶ 20
+¶"Depicts a character who rose and fell before you were born."¶ ¶"Depicts a character who rose and fell before you were born."¶ 09
+¶|__¶ ¶|__¶ 0a
+¶Darcy's¶ ¶darcy's¶ 20
+¶Bedroom¶ ¶bedroom¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶retro¶ ¶retro¶ 20
+¶T-shirt¶ ¶t-shirt¶ 20
+¶are¶ ¶are¶ 20
+¶defined¶ ¶defined¶ 20
+¶by¶ ¶by¶ 20
+¶the¶ ¶the¶ 20
+¶Table¶ ¶table¶ 20
+¶of¶ ¶of¶ 20
+¶Player's¶ ¶player's¶ 20
+¶Clothing¶ ¶clothing¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

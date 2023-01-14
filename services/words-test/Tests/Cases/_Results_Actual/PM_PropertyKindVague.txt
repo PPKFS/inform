@@ -1,0 +1,15 @@
+7 words
+¶a¶ ¶room¶ ¶has¶ ¶value¶ ¶called¶ ¶price¶ ¶.¶ ¶|__¶ 
+8 distinct words
+¶A¶ ¶a¶ 0a
+¶room¶ ¶room¶ 20
+¶has¶ ¶has¶ 20
+¶a¶ ¶a¶ 20
+¶value¶ ¶value¶ 20
+¶called¶ ¶called¶ 20
+¶Price¶ ¶price¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

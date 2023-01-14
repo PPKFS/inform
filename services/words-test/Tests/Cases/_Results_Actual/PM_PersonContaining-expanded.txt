@@ -1,0 +1,18 @@
+9 words
+¶daphne¶ ¶is¶ ¶a¶ ¶person¶ ¶.¶ ¶the¶ ¶briefcase¶ ¶in¶ ¶|__¶ 
+9 distinct words
+¶Daphne¶ ¶daphne¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶person¶ ¶person¶ 20
+¶.¶ ¶.¶ 20
+¶The¶ ¶the¶ 20
+¶briefcase¶ ¶briefcase¶ 20
+¶is¶ ¶is¶ 20
+¶in¶ ¶in¶ 20
+¶Daphne¶ ¶daphne¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

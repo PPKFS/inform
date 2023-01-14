@@ -1,0 +1,32 @@
+25 words
+¶the¶ ¶dome¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶box¶ ¶scenery¶ ¶in¶ ¶has¶ ¶description¶ ¶"The box."¶ ¶"A hat box."¶ 
+14 distinct words
+¶The¶ ¶the¶ 0a
+¶dome¶ ¶dome¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶box¶ ¶box¶ 20
+¶is¶ ¶is¶ 20
+¶scenery¶ ¶scenery¶ 20
+¶in¶ ¶in¶ 20
+¶the¶ ¶the¶ 20
+¶dome¶ ¶dome¶ 20
+¶.¶ ¶.¶ 20
+¶The¶ ¶the¶ 20
+¶box¶ ¶box¶ 20
+¶has¶ ¶has¶ 20
+¶description¶ ¶description¶ 20
+¶"The box."¶ ¶"The box."¶ 20
+¶The¶ ¶the¶ 20
+¶box¶ ¶box¶ 20
+¶has¶ ¶has¶ 20
+¶description¶ ¶description¶ 20
+¶"A hat box."¶ ¶"A hat box."¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,33 @@
+20 words
+¶a¶ ¶thing¶ ¶can¶ ¶be¶ ¶fuzzy¶ ¶.¶ ¶|__¶ ¶empty¶ ¶room¶ ¶is¶ ¶the¶ ¶teddy¶ ¶bear¶ ¶in¶ ¶it¶ ¶has¶ 
+16 distinct words
+¶A¶ ¶a¶ 0a
+¶thing¶ ¶thing¶ 20
+¶can¶ ¶can¶ 20
+¶be¶ ¶be¶ 20
+¶fuzzy¶ ¶fuzzy¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Empty¶ ¶empty¶ 20
+¶Room¶ ¶room¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶teddy¶ ¶teddy¶ 20
+¶bear¶ ¶bear¶ 20
+¶is¶ ¶is¶ 20
+¶in¶ ¶in¶ 20
+¶Empty¶ ¶empty¶ 20
+¶Room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶It¶ ¶it¶ 20
+¶has¶ ¶has¶ 20
+¶fuzzy¶ ¶fuzzy¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,20 @@
+10 words
+¶stanford¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶knuth¶ ¶man¶ ¶with¶ ¶description¶ 
+10 distinct words
+¶Stanford¶ ¶stanford¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Knuth¶ ¶knuth¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶man¶ ¶man¶ 20
+¶with¶ ¶with¶ 20
+¶description¶ ¶description¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

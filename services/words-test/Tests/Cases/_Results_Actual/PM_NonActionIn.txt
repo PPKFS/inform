@@ -1,0 +1,21 @@
+14 words
+¶burrow¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶every¶ ¶turn¶ ¶in¶ ¶the¶ ¶,¶ ¶say¶ ¶"You listen for Wombles."¶ 
+13 distinct words
+¶Burrow¶ ¶burrow¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Every¶ ¶every¶ 20
+¶turn¶ ¶turn¶ 20
+¶in¶ ¶in¶ 20
+¶the¶ ¶the¶ 20
+¶Burrow¶ ¶burrow¶ 20
+¶,¶ ¶,¶ 20
+¶say¶ ¶say¶ 20
+¶"You listen for Wombles."¶ ¶"You listen for Wombles."¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

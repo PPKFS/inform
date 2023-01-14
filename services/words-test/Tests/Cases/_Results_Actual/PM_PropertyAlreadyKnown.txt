@@ -1,0 +1,26 @@
+15 words
+¶xanadu¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶thing¶ ¶can¶ ¶be¶ ¶number¶ ¶,¶ ¶the¶ ¶entire¶ ¶game¶ ¶or¶ ¶"this"¶ 
+16 distinct words
+¶Xanadu¶ ¶xanadu¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶A¶ ¶a¶ 20
+¶thing¶ ¶thing¶ 20
+¶can¶ ¶can¶ 20
+¶be¶ ¶be¶ 20
+¶a¶ ¶a¶ 20
+¶number¶ ¶number¶ 20
+¶,¶ ¶,¶ 20
+¶the¶ ¶the¶ 20
+¶Entire¶ ¶entire¶ 20
+¶Game¶ ¶game¶ 20
+¶or¶ ¶or¶ 20
+¶"this"¶ ¶"this"¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

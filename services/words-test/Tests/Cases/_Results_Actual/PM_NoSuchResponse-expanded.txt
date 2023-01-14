@@ -1,0 +1,31 @@
+20 words
+¶the¶ ¶temple¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶when¶ ¶play¶ ¶begins¶ ¶:¶ ¶now¶ ¶print¶ ¶empty¶ ¶inventory¶ ¶rule¶ ¶response¶ ¶(¶ ¶q¶ ¶)¶ ¶"Your hands ..."¶ ¶;¶ 
+22 distinct words
+¶The¶ ¶the¶ 0a
+¶Temple¶ ¶temple¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶When¶ ¶when¶ 20
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶:¶ ¶:¶ 20
+¶now¶ ¶now¶ 41
+¶the¶ ¶the¶ 20
+¶print¶ ¶print¶ 20
+¶empty¶ ¶empty¶ 20
+¶inventory¶ ¶inventory¶ 20
+¶rule¶ ¶rule¶ 20
+¶response¶ ¶response¶ 20
+¶(¶ ¶(¶ 20
+¶Q¶ ¶q¶ 20
+¶)¶ ¶)¶ 20
+¶is¶ ¶is¶ 20
+¶"Your hands ..."¶ ¶"Your hands ..."¶ 20
+¶;¶ ¶;¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

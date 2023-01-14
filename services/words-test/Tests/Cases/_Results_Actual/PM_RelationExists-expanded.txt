@@ -1,0 +1,23 @@
+14 words
+¶proximity¶ ¶relates¶ ¶various¶ ¶things¶ ¶to¶ ¶.¶ ¶rooms¶ ¶|__¶ 
+8 distinct words
+¶Proximity¶ ¶proximity¶ 0a
+¶relates¶ ¶relates¶ 20
+¶various¶ ¶various¶ 20
+¶things¶ ¶things¶ 20
+¶to¶ ¶to¶ 20
+¶various¶ ¶various¶ 20
+¶things¶ ¶things¶ 20
+¶.¶ ¶.¶ 20
+¶Proximity¶ ¶proximity¶ 0a
+¶relates¶ ¶relates¶ 20
+¶various¶ ¶various¶ 20
+¶rooms¶ ¶rooms¶ 20
+¶to¶ ¶to¶ 20
+¶various¶ ¶various¶ 20
+¶rooms¶ ¶rooms¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

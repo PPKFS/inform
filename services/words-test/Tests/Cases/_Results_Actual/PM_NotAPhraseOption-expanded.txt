@@ -1,0 +1,46 @@
+33 words
+¶the¶ ¶english-inform¶ ¶phrasebook¶ ¶editorial¶ ¶building¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶to¶ ¶speak¶ ¶in¶ ¶tongues¶ ¶,¶ ¶french¶ ¶german¶ ¶or¶ ¶dutch¶ ¶:¶ ¶say¶ ¶"You babble, heedless of tongue."¶ ¶when¶ ¶play¶ ¶begins¶ ¶swahili¶ 
+26 distinct words
+¶The¶ ¶the¶ 0a
+¶English-Inform¶ ¶english-inform¶ 20
+¶Phrasebook¶ ¶phrasebook¶ 20
+¶Editorial¶ ¶editorial¶ 20
+¶Building¶ ¶building¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶To¶ ¶to¶ 20
+¶speak¶ ¶speak¶ 20
+¶in¶ ¶in¶ 20
+¶tongues¶ ¶tongues¶ 20
+¶,¶ ¶,¶ 20
+¶in¶ ¶in¶ 41
+¶French¶ ¶french¶ 20
+¶,¶ ¶,¶ 20
+¶in¶ ¶in¶ 41
+¶German¶ ¶german¶ 20
+¶,¶ ¶,¶ 20
+¶or¶ ¶or¶ 20
+¶in¶ ¶in¶ 41
+¶Dutch¶ ¶dutch¶ 20
+¶:¶ ¶:¶ 20
+¶say¶ ¶say¶ 20
+¶"You babble, heedless of tongue."¶ ¶"You babble, heedless of tongue."¶ 20
+¶|__¶ ¶|__¶ 0a
+¶When¶ ¶when¶ 20
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶:¶ ¶:¶ 20
+¶speak¶ ¶speak¶ 20
+¶in¶ ¶in¶ 20
+¶tongues¶ ¶tongues¶ 20
+¶,¶ ¶,¶ 20
+¶in¶ ¶in¶ 20
+¶Swahili¶ ¶swahili¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

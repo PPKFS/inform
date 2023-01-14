@@ -1,0 +1,44 @@
+32 words
+¶boz¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶"This is Boz, the "¶ ¶,¶ ¶if¶ ¶1¶ ¶2¶ ¶"leading "¶ ¶one¶ ¶of¶ ¶"pet shop"¶ ¶or¶ ¶"haberdashery"¶ ¶end¶ ¶" and milliner"¶ ¶"bakery"¶ ¶purely¶ ¶at¶ ¶random¶ ¶" in the Kidlington area."¶ ¶|__¶ 
+24 distinct words
+¶Boz¶ ¶boz¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶"This is Boz, the "¶ ¶"This is Boz, the "¶ 20
+¶,¶ ¶,¶ 20
+¶if¶ ¶if¶ 20
+¶1¶ ¶1¶ 20
+¶is¶ ¶is¶ 20
+¶2¶ ¶2¶ 20
+¶,¶ ¶,¶ 20
+¶"leading "¶ ¶"leading "¶ 20
+¶,¶ ¶,¶ 20
+¶one¶ ¶one¶ 20
+¶of¶ ¶of¶ 20
+¶,¶ ¶,¶ 20
+¶"pet shop"¶ ¶"pet shop"¶ 20
+¶,¶ ¶,¶ 20
+¶or¶ ¶or¶ 20
+¶,¶ ¶,¶ 20
+¶"haberdashery"¶ ¶"haberdashery"¶ 20
+¶,¶ ¶,¶ 20
+¶end¶ ¶end¶ 20
+¶if¶ ¶if¶ 20
+¶,¶ ¶,¶ 20
+¶" and milliner"¶ ¶" and milliner"¶ 20
+¶,¶ ¶,¶ 20
+¶or¶ ¶or¶ 20
+¶,¶ ¶,¶ 20
+¶"bakery"¶ ¶"bakery"¶ 20
+¶,¶ ¶,¶ 20
+¶purely¶ ¶purely¶ 20
+¶at¶ ¶at¶ 20
+¶random¶ ¶random¶ 20
+¶,¶ ¶,¶ 20
+¶" in the Kidlington area."¶ ¶" in the Kidlington area."¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

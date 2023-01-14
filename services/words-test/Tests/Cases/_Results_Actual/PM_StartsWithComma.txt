@@ -1,0 +1,13 @@
+4 words
+¶,¶ ¶kitchen¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ 
+7 distinct words
+¶,¶ ¶,¶ 0a
+¶kitchen¶ ¶kitchen¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

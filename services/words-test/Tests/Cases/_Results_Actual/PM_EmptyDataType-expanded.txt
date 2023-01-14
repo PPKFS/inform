@@ -1,0 +1,29 @@
+18 words
+¶the¶ ¶admiralty¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶sounding¶ ¶kind¶ ¶of¶ ¶value¶ ¶|__¶ ¶bay¶ ¶depth¶ ¶variable¶ 
+14 distinct words
+¶The¶ ¶the¶ 0a
+¶Admiralty¶ ¶admiralty¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶Sounding¶ ¶sounding¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶kind¶ ¶kind¶ 20
+¶of¶ ¶of¶ 20
+¶value¶ ¶value¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶bay¶ ¶bay¶ 20
+¶depth¶ ¶depth¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶sounding¶ ¶sounding¶ 20
+¶variable¶ ¶variable¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

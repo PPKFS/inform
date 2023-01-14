@@ -1,0 +1,47 @@
+43 words
+¶the¶ ¶lab¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶jar¶ ¶and¶ ¶bottle¶ ¶are¶ ¶containers¶ ¶in¶ ¶player¶ ¶carries¶ ¶pebble¶ ¶feather¶ ¶|__¶ ¶understand¶ ¶"put [things] in [things]"¶ ¶as¶ ¶inserting¶ ¶it¶ ¶into¶ ¶test¶ ¶me¶ ¶with¶ ¶"put pebble and feather in jar and bottle"¶ 
+27 distinct words
+¶The¶ ¶the¶ 0a
+¶lab¶ ¶lab¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶The¶ ¶the¶ 20
+¶jar¶ ¶jar¶ 20
+¶and¶ ¶and¶ 20
+¶the¶ ¶the¶ 20
+¶bottle¶ ¶bottle¶ 20
+¶are¶ ¶are¶ 20
+¶containers¶ ¶containers¶ 20
+¶in¶ ¶in¶ 20
+¶the¶ ¶the¶ 20
+¶lab¶ ¶lab¶ 20
+¶.¶ ¶.¶ 20
+¶The¶ ¶the¶ 20
+¶player¶ ¶player¶ 20
+¶carries¶ ¶carries¶ 20
+¶a¶ ¶a¶ 20
+¶pebble¶ ¶pebble¶ 20
+¶and¶ ¶and¶ 0a
+¶a¶ ¶a¶ 20
+¶feather¶ ¶feather¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Understand¶ ¶understand¶ 20
+¶"put [things] in [things]"¶ ¶"put [things] in [things]"¶ 20
+¶as¶ ¶as¶ 20
+¶inserting¶ ¶inserting¶ 20
+¶it¶ ¶it¶ 20
+¶into¶ ¶into¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶test¶ ¶test¶ 20
+¶me¶ ¶me¶ 20
+¶with¶ ¶with¶ 20
+¶"put pebble and feather in jar and bottle"¶ ¶"put pebble and feather in jar and bottle"¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

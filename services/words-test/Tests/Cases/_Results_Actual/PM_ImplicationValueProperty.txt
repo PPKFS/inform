@@ -1,0 +1,35 @@
+22 words
+¶the¶ ¶void¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶thing¶ ¶can¶ ¶be¶ ¶stashable¶ ¶or¶ ¶unstashable¶ ¶variably¶ ¶portable¶ ¶usually¶ 
+16 distinct words
+¶The¶ ¶the¶ 0a
+¶void¶ ¶void¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶A¶ ¶a¶ 20
+¶thing¶ ¶thing¶ 20
+¶can¶ ¶can¶ 20
+¶be¶ ¶be¶ 20
+¶stashable¶ ¶stashable¶ 20
+¶or¶ ¶or¶ 20
+¶unstashable¶ ¶unstashable¶ 20
+¶or¶ ¶or¶ 20
+¶variably¶ ¶variably¶ 20
+¶stashable¶ ¶stashable¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶A¶ ¶a¶ 20
+¶portable¶ ¶portable¶ 20
+¶thing¶ ¶thing¶ 20
+¶is¶ ¶is¶ 20
+¶usually¶ ¶usually¶ 20
+¶variably¶ ¶variably¶ 20
+¶stashable¶ ¶stashable¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

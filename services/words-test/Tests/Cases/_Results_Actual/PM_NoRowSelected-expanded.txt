@@ -1,0 +1,42 @@
+28 words
+¶the¶ ¶ni¶ ¶school¶ ¶for¶ ¶typing¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶table¶ ¶of¶ ¶exempla¶ ¶flavour¶ ¶"rum and raisin"¶ ¶"Neapolitan"¶ ¶when¶ ¶play¶ ¶begins¶ ¶:¶ ¶now¶ ¶description¶ ¶player¶ ¶""¶ ¶,¶ ¶entry¶ ¶""¶ 
+27 distinct words
+¶The¶ ¶the¶ 0a
+¶NI¶ ¶ni¶ 20
+¶School¶ ¶school¶ 20
+¶for¶ ¶for¶ 20
+¶Typing¶ ¶typing¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Table¶ ¶table¶ 20
+¶of¶ ¶of¶ 20
+¶Exempla¶ ¶exempla¶ 20
+¶flavour¶ ¶flavour¶ 0a
+¶"rum and raisin"¶ ¶"rum and raisin"¶ 0a
+¶"Neapolitan"¶ ¶"Neapolitan"¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶When¶ ¶when¶ 20
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶:¶ ¶:¶ 20
+¶now¶ ¶now¶ 41
+¶the¶ ¶the¶ 20
+¶description¶ ¶description¶ 20
+¶of¶ ¶of¶ 20
+¶the¶ ¶the¶ 20
+¶player¶ ¶player¶ 20
+¶is¶ ¶is¶ 20
+¶""¶ ¶""¶ 20
+¶,¶ ¶,¶ 20
+¶flavour¶ ¶flavour¶ 20
+¶entry¶ ¶entry¶ 20
+¶,¶ ¶,¶ 20
+¶""¶ ¶""¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,31 @@
+19 words
+¶the¶ ¶school¶ ¶for¶ ¶gifted¶ ¶kiddies¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶professor¶ ¶zaphier¶ ¶in¶ ¶understand¶ ¶"Prof/--"¶ ¶as¶ 
+16 distinct words
+¶The¶ ¶the¶ 0a
+¶School¶ ¶school¶ 20
+¶for¶ ¶for¶ 20
+¶Gifted¶ ¶gifted¶ 20
+¶Kiddies¶ ¶kiddies¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Professor¶ ¶professor¶ 20
+¶Zaphier¶ ¶zaphier¶ 20
+¶is¶ ¶is¶ 20
+¶in¶ ¶in¶ 20
+¶the¶ ¶the¶ 20
+¶School¶ ¶school¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Understand¶ ¶understand¶ 20
+¶"Prof/--"¶ ¶"Prof/--"¶ 20
+¶as¶ ¶as¶ 20
+¶Professor¶ ¶professor¶ 20
+¶Zaphier¶ ¶zaphier¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

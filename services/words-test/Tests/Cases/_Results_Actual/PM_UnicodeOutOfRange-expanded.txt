@@ -1,0 +1,17 @@
+9 words
+¶roman¶ ¶dimidia¶ ¶sextula¶ ¶sign¶ ¶translates¶ ¶into¶ ¶unicode¶ ¶as¶ ¶65940¶ ¶.¶ ¶|__¶ 
+11 distinct words
+¶Roman¶ ¶roman¶ 0a
+¶Dimidia¶ ¶dimidia¶ 20
+¶Sextula¶ ¶sextula¶ 20
+¶Sign¶ ¶sign¶ 20
+¶translates¶ ¶translates¶ 20
+¶into¶ ¶into¶ 20
+¶Unicode¶ ¶unicode¶ 20
+¶as¶ ¶as¶ 20
+¶65940¶ ¶65940¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

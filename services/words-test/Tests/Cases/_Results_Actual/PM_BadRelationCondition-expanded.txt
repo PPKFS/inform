@@ -1,0 +1,35 @@
+21 words
+¶xanadu¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶contact¶ ¶relates¶ ¶thing¶ ¶(¶ ¶called¶ ¶x¶ ¶)¶ ¶to¶ ¶y¶ ¶when¶ ¶arfle¶ ¶barfly¶ ¶gloop¶ 
+19 distinct words
+¶Xanadu¶ ¶xanadu¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Contact¶ ¶contact¶ 20
+¶relates¶ ¶relates¶ 20
+¶a¶ ¶a¶ 20
+¶thing¶ ¶thing¶ 20
+¶(¶ ¶(¶ 20
+¶called¶ ¶called¶ 20
+¶X¶ ¶x¶ 20
+¶)¶ ¶)¶ 20
+¶to¶ ¶to¶ 20
+¶a¶ ¶a¶ 20
+¶thing¶ ¶thing¶ 20
+¶(¶ ¶(¶ 20
+¶called¶ ¶called¶ 20
+¶Y¶ ¶y¶ 20
+¶)¶ ¶)¶ 20
+¶when¶ ¶when¶ 20
+¶X¶ ¶x¶ 20
+¶arfle¶ ¶arfle¶ 20
+¶barfly¶ ¶barfly¶ 20
+¶Y¶ ¶y¶ 0a
+¶gloop¶ ¶gloop¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

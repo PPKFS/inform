@@ -1,0 +1,25 @@
+15 words
+¶the¶ ¶great¶ ¶outdoors¶ ¶and¶ ¶prairie¶ ¶are¶ ¶regions¶ ¶.¶ ¶|__¶ ¶is¶ ¶carrying¶ 
+11 distinct words
+¶The¶ ¶the¶ 0a
+¶Great¶ ¶great¶ 20
+¶Outdoors¶ ¶outdoors¶ 20
+¶and¶ ¶and¶ 20
+¶the¶ ¶the¶ 20
+¶Prairie¶ ¶prairie¶ 20
+¶are¶ ¶are¶ 20
+¶regions¶ ¶regions¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶Prairie¶ ¶prairie¶ 20
+¶is¶ ¶is¶ 20
+¶carrying¶ ¶carrying¶ 20
+¶the¶ ¶the¶ 20
+¶Great¶ ¶great¶ 20
+¶Outdoors¶ ¶outdoors¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

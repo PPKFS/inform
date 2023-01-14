@@ -1,0 +1,17 @@
+9 words
+¶if¶ ¶the¶ ¶box¶ ¶is¶ ¶open¶ ¶then¶ ¶award¶ ¶4¶ ¶points¶ ¶.¶ ¶|__¶ 
+11 distinct words
+¶If¶ ¶if¶ 0a
+¶the¶ ¶the¶ 20
+¶box¶ ¶box¶ 20
+¶is¶ ¶is¶ 20
+¶open¶ ¶open¶ 20
+¶then¶ ¶then¶ 20
+¶award¶ ¶award¶ 20
+¶4¶ ¶4¶ 20
+¶points¶ ¶points¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

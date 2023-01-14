@@ -1,0 +1,33 @@
+22 words
+¶the¶ ¶cave¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶jelly¶ ¶monster¶ ¶an¶ ¶animal¶ ¶in¶ ¶player¶ ¶part¶ ¶of¶ 
+15 distinct words
+¶The¶ ¶the¶ 0a
+¶Cave¶ ¶cave¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶jelly¶ ¶jelly¶ 20
+¶monster¶ ¶monster¶ 20
+¶is¶ ¶is¶ 20
+¶an¶ ¶an¶ 20
+¶animal¶ ¶animal¶ 20
+¶in¶ ¶in¶ 20
+¶the¶ ¶the¶ 20
+¶cave¶ ¶cave¶ 20
+¶.¶ ¶.¶ 20
+¶The¶ ¶the¶ 20
+¶player¶ ¶player¶ 20
+¶is¶ ¶is¶ 20
+¶part¶ ¶part¶ 20
+¶of¶ ¶of¶ 20
+¶the¶ ¶the¶ 20
+¶jelly¶ ¶jelly¶ 20
+¶monster¶ ¶monster¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,54 @@
+36 words
+¶lab¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶peering¶ ¶for¶ ¶something¶ ¶an¶ ¶activity¶ ¶on¶ ¶numbers¶ ¶rule¶ ¶number¶ ¶(¶ ¶called¶ ¶n¶ ¶)¶ ¶:¶ ¶say¶ ¶"Yep, "¶ ¶,¶ ¶" is there."¶ ¶when¶ ¶play¶ ¶begins¶ ¶carry¶ ¶out¶ ¶the¶ ¶with¶ ¶2¶ 
+32 distinct words
+¶Lab¶ ¶lab¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Peering¶ ¶peering¶ 20
+¶for¶ ¶for¶ 20
+¶something¶ ¶something¶ 20
+¶is¶ ¶is¶ 20
+¶an¶ ¶an¶ 20
+¶activity¶ ¶activity¶ 20
+¶on¶ ¶on¶ 20
+¶numbers¶ ¶numbers¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Rule¶ ¶rule¶ 20
+¶for¶ ¶for¶ 20
+¶peering¶ ¶peering¶ 20
+¶for¶ ¶for¶ 20
+¶a¶ ¶a¶ 20
+¶number¶ ¶number¶ 20
+¶(¶ ¶(¶ 20
+¶called¶ ¶called¶ 20
+¶n¶ ¶n¶ 20
+¶)¶ ¶)¶ 20
+¶:¶ ¶:¶ 20
+¶say¶ ¶say¶ 20
+¶"Yep, "¶ ¶"Yep, "¶ 20
+¶,¶ ¶,¶ 20
+¶n¶ ¶n¶ 20
+¶,¶ ¶,¶ 20
+¶" is there."¶ ¶" is there."¶ 20
+¶|__¶ ¶|__¶ 0a
+¶When¶ ¶when¶ 20
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶:¶ ¶:¶ 20
+¶carry¶ ¶carry¶ 20
+¶out¶ ¶out¶ 20
+¶the¶ ¶the¶ 20
+¶peering¶ ¶peering¶ 20
+¶for¶ ¶for¶ 20
+¶activity¶ ¶activity¶ 20
+¶with¶ ¶with¶ 20
+¶2¶ ¶2¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

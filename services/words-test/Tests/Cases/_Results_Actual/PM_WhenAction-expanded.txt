@@ -1,0 +1,45 @@
+27 words
+¶there¶ ¶is¶ ¶room¶ ¶.¶ ¶a¶ ¶rock¶ ¶here¶ ¶bob¶ ¶man¶ ¶,¶ ¶|__¶ ¶mumbling¶ ¶an¶ ¶action¶ ¶applying¶ ¶to¶ ¶one¶ ¶thing¶ ¶understand¶ ¶"mumble "¶ ¶""¶ ¶as¶ ¶when¶ ¶taking¶ 
+24 distinct words
+¶There¶ ¶there¶ 0a
+¶is¶ ¶is¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶A¶ ¶a¶ 20
+¶rock¶ ¶rock¶ 20
+¶is¶ ¶is¶ 20
+¶here¶ ¶here¶ 20
+¶.¶ ¶.¶ 20
+¶Bob¶ ¶bob¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶man¶ ¶man¶ 20
+¶,¶ ¶,¶ 20
+¶here¶ ¶here¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Mumbling¶ ¶mumbling¶ 20
+¶is¶ ¶is¶ 20
+¶an¶ ¶an¶ 20
+¶action¶ ¶action¶ 20
+¶applying¶ ¶applying¶ 20
+¶to¶ ¶to¶ 20
+¶one¶ ¶one¶ 20
+¶thing¶ ¶thing¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Understand¶ ¶understand¶ 20
+¶"mumble "¶ ¶"mumble "¶ 20
+¶,¶ ¶,¶ 20
+¶thing¶ ¶thing¶ 20
+¶,¶ ¶,¶ 20
+¶""¶ ¶""¶ 20
+¶as¶ ¶as¶ 20
+¶mumbling¶ ¶mumbling¶ 20
+¶when¶ ¶when¶ 20
+¶taking¶ ¶taking¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

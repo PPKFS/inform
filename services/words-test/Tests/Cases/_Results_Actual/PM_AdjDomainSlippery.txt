@@ -1,0 +1,27 @@
+16 words
+¶home¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶definition¶ ¶:¶ ¶an¶ ¶open¶ ¶door¶ ¶wibbly¶ ¶if¶ ¶it¶ ¶100¶ ¶years¶ ¶old¶ 
+17 distinct words
+¶Home¶ ¶home¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Definition¶ ¶definition¶ 20
+¶:¶ ¶:¶ 20
+¶An¶ ¶an¶ 20
+¶open¶ ¶open¶ 20
+¶door¶ ¶door¶ 20
+¶is¶ ¶is¶ 20
+¶wibbly¶ ¶wibbly¶ 20
+¶if¶ ¶if¶ 20
+¶it¶ ¶it¶ 20
+¶is¶ ¶is¶ 20
+¶100¶ ¶100¶ 20
+¶years¶ ¶years¶ 20
+¶old¶ ¶old¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,22 @@
+12 words
+¶laboratory¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶the¶ ¶travelator¶ ¶vehicle¶ ¶which¶ ¶everywhere¶ 
+11 distinct words
+¶Laboratory¶ ¶laboratory¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶travelator¶ ¶travelator¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶vehicle¶ ¶vehicle¶ 20
+¶which¶ ¶which¶ 20
+¶is¶ ¶is¶ 20
+¶everywhere¶ ¶everywhere¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

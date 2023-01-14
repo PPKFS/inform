@@ -1,0 +1,22 @@
+13 words
+¶foo¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶the¶ ¶instead¶ ¶rulebook¶ ¶has¶ ¶fgdfgdgand¶ ¶number¶ ¶called¶ ¶borp¶ ¶|__¶ 
+14 distinct words
+¶Foo¶ ¶foo¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶The¶ ¶the¶ 0a
+¶instead¶ ¶instead¶ 20
+¶rulebook¶ ¶rulebook¶ 20
+¶has¶ ¶has¶ 20
+¶a¶ ¶a¶ 20
+¶fgdfgdgand¶ ¶fgdfgdgand¶ 20
+¶number¶ ¶number¶ 20
+¶called¶ ¶called¶ 20
+¶borp¶ ¶borp¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

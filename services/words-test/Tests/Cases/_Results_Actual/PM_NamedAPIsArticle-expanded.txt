@@ -1,0 +1,19 @@
+10 words
+¶womping¶ ¶is¶ ¶an¶ ¶action¶ ¶applying¶ ¶to¶ ¶nothing¶ ¶.¶ ¶|__¶ 
+9 distinct words
+¶Womping¶ ¶womping¶ 0a
+¶is¶ ¶is¶ 20
+¶an¶ ¶an¶ 20
+¶action¶ ¶action¶ 20
+¶applying¶ ¶applying¶ 20
+¶to¶ ¶to¶ 20
+¶nothing¶ ¶nothing¶ 20
+¶.¶ ¶.¶ 20
+¶Womping¶ ¶womping¶ 0a
+¶is¶ ¶is¶ 20
+¶an¶ ¶an¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,28 @@
+20 words
+¶the¶ ¶spotlight¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶at¶ ¶time¶ ¶when¶ ¶supply¶ ¶of¶ ¶air¶ ¶tank¶ ¶-4¶ ¶:¶ ¶say¶ ¶"You have suffocated."¶ 
+18 distinct words
+¶The¶ ¶the¶ 0a
+¶spotlight¶ ¶spotlight¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶At¶ ¶at¶ 20
+¶the¶ ¶the¶ 20
+¶time¶ ¶time¶ 20
+¶when¶ ¶when¶ 20
+¶supply¶ ¶supply¶ 20
+¶of¶ ¶of¶ 20
+¶the¶ ¶the¶ 20
+¶air¶ ¶air¶ 20
+¶tank¶ ¶tank¶ 20
+¶is¶ ¶is¶ 20
+¶-4¶ ¶-4¶ 20
+¶:¶ ¶:¶ 20
+¶say¶ ¶say¶ 41
+¶"You have suffocated."¶ ¶"You have suffocated."¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,30 @@
+18 words
+¶xanadu¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶figure¶ ¶of¶ ¶woodlands¶ ¶the¶ ¶file¶ ¶"Woodlands.png"¶ ¶"Wytham.png"¶ 
+13 distinct words
+¶Xanadu¶ ¶xanadu¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Figure¶ ¶figure¶ 20
+¶of¶ ¶of¶ 20
+¶Woodlands¶ ¶woodlands¶ 20
+¶is¶ ¶is¶ 20
+¶the¶ ¶the¶ 20
+¶file¶ ¶file¶ 20
+¶"Woodlands.png"¶ ¶"Woodlands.png"¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Figure¶ ¶figure¶ 20
+¶of¶ ¶of¶ 20
+¶Woodlands¶ ¶woodlands¶ 20
+¶is¶ ¶is¶ 20
+¶the¶ ¶the¶ 20
+¶file¶ ¶file¶ 20
+¶"Wytham.png"¶ ¶"Wytham.png"¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

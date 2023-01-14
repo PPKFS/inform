@@ -1,0 +1,15 @@
+7 words
+¶bell¶ ¶sound¶ ¶translates¶ ¶into¶ ¶unicode¶ ¶as¶ ¶"7"¶ ¶.¶ ¶|__¶ 
+9 distinct words
+¶Bell¶ ¶bell¶ 0a
+¶sound¶ ¶sound¶ 20
+¶translates¶ ¶translates¶ 20
+¶into¶ ¶into¶ 20
+¶Unicode¶ ¶unicode¶ 20
+¶as¶ ¶as¶ 20
+¶"7"¶ ¶"7"¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

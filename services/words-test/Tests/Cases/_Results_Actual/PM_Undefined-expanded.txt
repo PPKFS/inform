@@ -1,0 +1,24 @@
+13 words
+¶there¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶every¶ ¶turn¶ ¶when¶ ¶1¶ ¶:¶ ¶stop¶ ¶|__¶ 
+12 distinct words
+¶There¶ ¶there¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶Every¶ ¶every¶ 0a
+¶turn¶ ¶turn¶ 20
+¶when¶ ¶when¶ 20
+¶1¶ ¶1¶ 20
+¶is¶ ¶is¶ 20
+¶1¶ ¶1¶ 20
+¶:¶ ¶:¶ 20
+¶Every¶ ¶every¶ 41
+¶turn¶ ¶turn¶ 20
+¶:¶ ¶:¶ 20
+¶stop¶ ¶stop¶ 42
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

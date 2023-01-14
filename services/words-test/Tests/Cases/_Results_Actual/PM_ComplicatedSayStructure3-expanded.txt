@@ -1,0 +1,26 @@
+21 words
+¶bar¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶"This is Bar, the leading "¶ ¶,¶ ¶one¶ ¶of¶ ¶"pet shop"¶ ¶or¶ ¶"haberdashery"¶ ¶"bakery in the Kidlington area."¶ ¶|__¶ 
+14 distinct words
+¶Bar¶ ¶bar¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶"This is Bar, the leading "¶ ¶"This is Bar, the leading "¶ 20
+¶,¶ ¶,¶ 20
+¶one¶ ¶one¶ 20
+¶of¶ ¶of¶ 20
+¶,¶ ¶,¶ 20
+¶"pet shop"¶ ¶"pet shop"¶ 20
+¶,¶ ¶,¶ 20
+¶or¶ ¶or¶ 20
+¶,¶ ¶,¶ 20
+¶"haberdashery"¶ ¶"haberdashery"¶ 20
+¶,¶ ¶,¶ 20
+¶or¶ ¶or¶ 20
+¶,¶ ¶,¶ 20
+¶"bakery in the Kidlington area."¶ ¶"bakery in the Kidlington area."¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

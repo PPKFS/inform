@@ -1,0 +1,77 @@
+60 words
+¶grocery¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶fruit¶ ¶kind¶ ¶of¶ ¶thing¶ ¶apple¶ ¶,¶ ¶banana¶ ¶and¶ ¶cherry¶ ¶are¶ ¶fruits¶ ¶to¶ ¶say¶ ¶appearance¶ ¶(¶ ¶f¶ ¶-¶ ¶)¶ ¶:¶ ¶if¶ ¶an¶ ¶begin¶ ¶;¶ ¶"Apples are red."¶ ¶otherwise¶ ¶"Bananas are yellow."¶ ¶"Cherries are red."¶ ¶"You can see a tasty fruit, "¶ ¶" here."¶ ¶end¶ 
+36 distinct words
+¶Grocery¶ ¶grocery¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Fruit¶ ¶fruit¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶kind¶ ¶kind¶ 20
+¶of¶ ¶of¶ 20
+¶thing¶ ¶thing¶ 20
+¶.¶ ¶.¶ 20
+¶Apple¶ ¶apple¶ 20
+¶,¶ ¶,¶ 20
+¶banana¶ ¶banana¶ 20
+¶,¶ ¶,¶ 20
+¶and¶ ¶and¶ 20
+¶cherry¶ ¶cherry¶ 20
+¶are¶ ¶are¶ 20
+¶fruits¶ ¶fruits¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶To¶ ¶to¶ 20
+¶say¶ ¶say¶ 20
+¶appearance¶ ¶appearance¶ 20
+¶of¶ ¶of¶ 20
+¶(¶ ¶(¶ 20
+¶F¶ ¶f¶ 20
+¶-¶ ¶-¶ 20
+¶a¶ ¶a¶ 20
+¶fruit¶ ¶fruit¶ 20
+¶)¶ ¶)¶ 20
+¶:¶ ¶:¶ 20
+¶if¶ ¶if¶ 0a
+¶F¶ ¶f¶ 20
+¶is¶ ¶is¶ 20
+¶an¶ ¶an¶ 20
+¶apple¶ ¶apple¶ 20
+¶begin¶ ¶begin¶ 20
+¶;¶ ¶;¶ 20
+¶say¶ ¶say¶ 41
+¶"Apples are red."¶ ¶"Apples are red."¶ 20
+¶;¶ ¶;¶ 20
+¶otherwise¶ ¶otherwise¶ 0a
+¶if¶ ¶if¶ 20
+¶F¶ ¶f¶ 20
+¶is¶ ¶is¶ 20
+¶banana¶ ¶banana¶ 20
+¶;¶ ¶;¶ 20
+¶say¶ ¶say¶ 41
+¶"Bananas are yellow."¶ ¶"Bananas are yellow."¶ 20
+¶;¶ ¶;¶ 20
+¶otherwise¶ ¶otherwise¶ 0a
+¶;¶ ¶;¶ 20
+¶say¶ ¶say¶ 0a
+¶"Cherries are red."¶ ¶"Cherries are red."¶ 20
+¶;¶ ¶;¶ 20
+¶otherwise¶ ¶otherwise¶ 0a
+¶;¶ ¶;¶ 20
+¶say¶ ¶say¶ 41
+¶"You can see a tasty fruit, "¶ ¶"You can see a tasty fruit, "¶ 20
+¶,¶ ¶,¶ 20
+¶F¶ ¶f¶ 20
+¶,¶ ¶,¶ 20
+¶" here."¶ ¶" here."¶ 20
+¶;¶ ¶;¶ 20
+¶end¶ ¶end¶ 0a
+¶if¶ ¶if¶ 20
+¶;¶ ¶;¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

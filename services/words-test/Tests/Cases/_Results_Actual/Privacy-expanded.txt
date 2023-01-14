@@ -1,0 +1,43 @@
+15 words
+¶|__¶ ¶to¶ ¶begin¶ ¶:¶ ¶disclaim¶ ¶;¶ ¶showme¶ ¶1¶ ¶divided¶ ¶by¶ ¶0¶ ¶.¶ ¶include¶ ¶(-¶ ¶
++private [ RunTimeProblem;
+	"Hey, there's no problem here.";
+];
+¶ ¶ RunTimeProblem(); ¶ 
+16 distinct words
+¶|__¶ ¶|__¶ 0a
+¶To¶ ¶to¶ 20
+¶begin¶ ¶begin¶ 20
+¶:¶ ¶:¶ 20
+¶disclaim¶ ¶disclaim¶ 41
+¶;¶ ¶;¶ 20
+¶showme¶ ¶showme¶ 41
+¶1¶ ¶1¶ 20
+¶divided¶ ¶divided¶ 20
+¶by¶ ¶by¶ 20
+¶0¶ ¶0¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Include¶ ¶include¶ 20
+¶(-¶ ¶(-¶ 20
+¶
++private [ RunTimeProblem;
+	"Hey, there's no problem here.";
+];
+¶ ¶
++private [ RunTimeProblem;
+	"Hey, there's no problem here.";
+];
+¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶To¶ ¶to¶ 20
+¶disclaim¶ ¶disclaim¶ 20
+¶:¶ ¶:¶ 20
+¶(-¶ ¶(-¶ 20
+¶ RunTimeProblem(); ¶ ¶ RunTimeProblem(); ¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

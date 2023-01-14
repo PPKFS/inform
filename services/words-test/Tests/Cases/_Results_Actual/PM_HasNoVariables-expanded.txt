@@ -1,0 +1,15 @@
+7 words
+¶100¶ ¶has¶ ¶a¶ ¶number¶ ¶called¶ ¶square¶ ¶root¶ ¶.¶ ¶|__¶ 
+9 distinct words
+¶100¶ ¶100¶ 0a
+¶has¶ ¶has¶ 20
+¶a¶ ¶a¶ 20
+¶number¶ ¶number¶ 20
+¶called¶ ¶called¶ 20
+¶square¶ ¶square¶ 20
+¶root¶ ¶root¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,13 @@
+5 words
+¶every¶ ¶door¶ ¶is¶ ¶container¶ ¶.¶ ¶|__¶ 
+6 distinct words
+¶Every¶ ¶every¶ 0a
+¶door¶ ¶door¶ 20
+¶is¶ ¶is¶ 20
+¶every¶ ¶every¶ 20
+¶container¶ ¶container¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

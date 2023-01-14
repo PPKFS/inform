@@ -1,0 +1,27 @@
+14 words
+¶there¶ ¶is¶ ¶room¶ ¶.¶ ¶|__¶ ¶figure¶ ¶null¶ ¶the¶ ¶file¶ ¶""¶ ¶nearly¶ ¶"  "¶ 
+12 distinct words
+¶There¶ ¶there¶ 0a
+¶is¶ ¶is¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Figure¶ ¶figure¶ 20
+¶null¶ ¶null¶ 20
+¶is¶ ¶is¶ 20
+¶the¶ ¶the¶ 20
+¶file¶ ¶file¶ 20
+¶""¶ ¶""¶ 20
+¶.¶ ¶.¶ 20
+¶Figure¶ ¶figure¶ 0a
+¶nearly¶ ¶nearly¶ 20
+¶null¶ ¶null¶ 20
+¶is¶ ¶is¶ 20
+¶the¶ ¶the¶ 20
+¶file¶ ¶file¶ 20
+¶"  "¶ ¶"  "¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

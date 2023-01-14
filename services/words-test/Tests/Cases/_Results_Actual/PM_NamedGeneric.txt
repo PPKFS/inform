@@ -1,0 +1,29 @@
+18 words
+¶stage¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶to¶ ¶say¶ ¶(¶ ¶v¶ ¶-¶ ¶value¶ ¶)¶ ¶twice¶ ¶this¶ ¶double-saying¶ ¶:¶ ¶"[V]. [V], I say!"¶ 
+18 distinct words
+¶Stage¶ ¶stage¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶To¶ ¶to¶ 20
+¶say¶ ¶say¶ 20
+¶(¶ ¶(¶ 20
+¶V¶ ¶v¶ 20
+¶-¶ ¶-¶ 20
+¶value¶ ¶value¶ 20
+¶)¶ ¶)¶ 20
+¶twice¶ ¶twice¶ 20
+¶(¶ ¶(¶ 20
+¶this¶ ¶this¶ 20
+¶is¶ ¶is¶ 20
+¶double-saying¶ ¶double-saying¶ 20
+¶)¶ ¶)¶ 20
+¶:¶ ¶:¶ 20
+¶say¶ ¶say¶ 20
+¶"[V]. [V], I say!"¶ ¶"[V]. [V], I say!"¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

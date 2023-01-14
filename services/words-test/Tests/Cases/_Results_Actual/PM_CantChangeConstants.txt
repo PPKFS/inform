@@ -1,0 +1,23 @@
+13 words
+¶temple¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶when¶ ¶play¶ ¶begins¶ ¶:¶ ¶now¶ ¶story¶ ¶title¶ ¶"Hello World"¶ 
+14 distinct words
+¶Temple¶ ¶temple¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶When¶ ¶when¶ 20
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶:¶ ¶:¶ 20
+¶now¶ ¶now¶ 20
+¶story¶ ¶story¶ 20
+¶title¶ ¶title¶ 20
+¶is¶ ¶is¶ 20
+¶"Hello World"¶ ¶"Hello World"¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

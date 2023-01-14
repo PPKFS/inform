@@ -1,0 +1,28 @@
+16 words
+¶xanadu¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶the¶ ¶taking¶ ¶action¶ ¶has¶ ¶number¶ ¶called¶ ¶parenthetical¶ ¶amount¶ ¶(¶ ¶so¶ ¶there¶ ¶)¶ 
+18 distinct words
+¶Xanadu¶ ¶xanadu¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶taking¶ ¶taking¶ 20
+¶action¶ ¶action¶ 20
+¶has¶ ¶has¶ 20
+¶a¶ ¶a¶ 20
+¶number¶ ¶number¶ 20
+¶called¶ ¶called¶ 20
+¶the¶ ¶the¶ 20
+¶parenthetical¶ ¶parenthetical¶ 20
+¶amount¶ ¶amount¶ 20
+¶(¶ ¶(¶ 20
+¶so¶ ¶so¶ 20
+¶there¶ ¶there¶ 20
+¶)¶ ¶)¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

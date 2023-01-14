@@ -1,0 +1,14 @@
+7 words
+¶"Surreal Case 11"¶ ¶|__¶ ¶"Fish"¶ ¶is¶ ¶a¶ ¶number¶ ¶.¶ 
+7 distinct words
+¶"Surreal Case 11"¶ ¶"Surreal Case 11"¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶"Fish"¶ ¶"Fish"¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶number¶ ¶number¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

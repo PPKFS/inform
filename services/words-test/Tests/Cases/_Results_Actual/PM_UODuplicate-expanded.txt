@@ -1,0 +1,29 @@
+18 words
+¶home¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶use¶ ¶sequential¶ ¶action¶ ¶translates¶ ¶as¶ ¶(-¶ ¶ Constant SEQUENTIAL_ACTION; ¶ ¶ Constant ASEQUENTIAL_ACTION; ¶ 
+14 distinct words
+¶Home¶ ¶home¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Use¶ ¶use¶ 20
+¶sequential¶ ¶sequential¶ 20
+¶action¶ ¶action¶ 20
+¶translates¶ ¶translates¶ 20
+¶as¶ ¶as¶ 20
+¶(-¶ ¶(-¶ 20
+¶ Constant SEQUENTIAL_ACTION; ¶ ¶ Constant SEQUENTIAL_ACTION; ¶ 20
+¶.¶ ¶.¶ 20
+¶Use¶ ¶use¶ 0a
+¶sequential¶ ¶sequential¶ 20
+¶action¶ ¶action¶ 20
+¶translates¶ ¶translates¶ 20
+¶as¶ ¶as¶ 20
+¶(-¶ ¶(-¶ 20
+¶ Constant ASEQUENTIAL_ACTION; ¶ ¶ Constant ASEQUENTIAL_ACTION; ¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

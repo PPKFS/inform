@@ -1,0 +1,35 @@
+22 words
+¶where¶ ¶the¶ ¶heart¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶definition¶ ¶:¶ ¶home¶ ¶(¶ ¶rather¶ ¶than¶ ¶house¶ ¶)¶ ¶if¶ ¶it¶ 
+18 distinct words
+¶Where¶ ¶where¶ 0a
+¶The¶ ¶the¶ 20
+¶Heart¶ ¶heart¶ 20
+¶Is¶ ¶is¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Definition¶ ¶definition¶ 20
+¶:¶ ¶:¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶is¶ ¶is¶ 20
+¶home¶ ¶home¶ 20
+¶(¶ ¶(¶ 20
+¶rather¶ ¶rather¶ 20
+¶than¶ ¶than¶ 20
+¶house¶ ¶house¶ 20
+¶)¶ ¶)¶ 20
+¶if¶ ¶if¶ 20
+¶it¶ ¶it¶ 20
+¶is¶ ¶is¶ 20
+¶Where¶ ¶where¶ 20
+¶The¶ ¶the¶ 20
+¶Heart¶ ¶heart¶ 20
+¶Is¶ ¶is¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

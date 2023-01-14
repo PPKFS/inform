@@ -1,0 +1,19 @@
+9 words
+¶home¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶arfle¶ ¶barfle¶ ¶gloop¶ ¶:¶ ¶say¶ ¶"Yes."¶ 
+12 distinct words
+¶Home¶ ¶home¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Arfle¶ ¶arfle¶ 20
+¶barfle¶ ¶barfle¶ 20
+¶gloop¶ ¶gloop¶ 20
+¶:¶ ¶:¶ 20
+¶say¶ ¶say¶ 20
+¶"Yes."¶ ¶"Yes."¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

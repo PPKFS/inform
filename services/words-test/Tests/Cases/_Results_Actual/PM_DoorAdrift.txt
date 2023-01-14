@@ -1,0 +1,32 @@
+22 words
+¶a¶ ¶door¶ ¶is¶ ¶kind¶ ¶of¶ ¶backdrop¶ ¶.¶ ¶the¶ ¶portal¶ ¶east¶ ¶foo¶ ¶and¶ ¶west¶ ¶goo¶ ¶|__¶ 
+15 distinct words
+¶A¶ ¶a¶ 0a
+¶door¶ ¶door¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶kind¶ ¶kind¶ 20
+¶of¶ ¶of¶ 20
+¶backdrop¶ ¶backdrop¶ 20
+¶.¶ ¶.¶ 20
+¶The¶ ¶the¶ 0a
+¶portal¶ ¶portal¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶door¶ ¶door¶ 20
+¶.¶ ¶.¶ 20
+¶The¶ ¶the¶ 0a
+¶portal¶ ¶portal¶ 20
+¶is¶ ¶is¶ 20
+¶east¶ ¶east¶ 20
+¶of¶ ¶of¶ 20
+¶Foo¶ ¶foo¶ 20
+¶and¶ ¶and¶ 20
+¶west¶ ¶west¶ 20
+¶of¶ ¶of¶ 20
+¶Goo¶ ¶goo¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,32 @@
+20 words
+¶indoors¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶outdoors¶ ¶|__¶ ¶dojo¶ ¶an¶ ¶action¶ ¶name¶ ¶has¶ ¶number¶ ¶called¶ ¶difficulty¶ 
+15 distinct words
+¶Indoors¶ ¶indoors¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶Outdoors¶ ¶outdoors¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Dojo¶ ¶dojo¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶An¶ ¶an¶ 20
+¶action¶ ¶action¶ 20
+¶name¶ ¶name¶ 20
+¶has¶ ¶has¶ 20
+¶a¶ ¶a¶ 20
+¶number¶ ¶number¶ 20
+¶called¶ ¶called¶ 20
+¶difficulty¶ ¶difficulty¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

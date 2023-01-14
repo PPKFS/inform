@@ -1,0 +1,14 @@
+6 words
+¶include¶ ¶bogus¶ ¶extension¶ ¶by¶ ¶mr¶ ¶nobody¶ ¶.¶ ¶|__¶ 
+8 distinct words
+¶Include¶ ¶include¶ 0a
+¶Bogus¶ ¶bogus¶ 20
+¶Extension¶ ¶extension¶ 20
+¶by¶ ¶by¶ 20
+¶Mr¶ ¶mr¶ 20
+¶Nobody¶ ¶nobody¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

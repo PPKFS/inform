@@ -1,0 +1,25 @@
+14 words
+¶the¶ ¶ballroom¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶can¶ ¶be¶ ¶either¶ ¶elongated¶ ¶,¶ ¶round¶ ¶or¶ ¶octagonal¶ 
+15 distinct words
+¶The¶ ¶the¶ 0a
+¶Ballroom¶ ¶ballroom¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶A¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶can¶ ¶can¶ 20
+¶be¶ ¶be¶ 20
+¶either¶ ¶either¶ 20
+¶elongated¶ ¶elongated¶ 20
+¶,¶ ¶,¶ 20
+¶round¶ ¶round¶ 20
+¶or¶ ¶or¶ 20
+¶octagonal¶ ¶octagonal¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

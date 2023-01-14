@@ -1,0 +1,12 @@
+4 words
+¶ni--crash--1¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ 
+6 distinct words
+¶ni--crash--1¶ ¶ni--crash--1¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,19 @@
+18 words
+¶boing¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶"This is Boing, the leading pet shop"¶ ¶,¶ ¶purely¶ ¶at¶ ¶random¶ ¶" in the Kidlington area."¶ ¶|__¶ 
+12 distinct words
+¶Boing¶ ¶boing¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶"This is Boing, the leading pet shop"¶ ¶"This is Boing, the leading pet shop"¶ 20
+¶,¶ ¶,¶ 20
+¶purely¶ ¶purely¶ 20
+¶at¶ ¶at¶ 20
+¶random¶ ¶random¶ 20
+¶,¶ ¶,¶ 20
+¶" in the Kidlington area."¶ ¶" in the Kidlington area."¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

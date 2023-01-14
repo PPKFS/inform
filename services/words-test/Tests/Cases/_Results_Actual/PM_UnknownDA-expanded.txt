@@ -1,0 +1,16 @@
+8 words
+¶include¶ ¶ant¶ ¶thorax¶ ¶dissections¶ ¶in¶ ¶the¶ ¶debugging¶ ¶log¶ ¶.¶ ¶|__¶ 
+10 distinct words
+¶Include¶ ¶include¶ 0a
+¶ant¶ ¶ant¶ 20
+¶thorax¶ ¶thorax¶ 20
+¶dissections¶ ¶dissections¶ 20
+¶in¶ ¶in¶ 20
+¶the¶ ¶the¶ 20
+¶debugging¶ ¶debugging¶ 20
+¶log¶ ¶log¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

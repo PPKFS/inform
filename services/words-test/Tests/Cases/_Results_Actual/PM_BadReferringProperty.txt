@@ -1,0 +1,35 @@
+24 words
+¶the¶ ¶fruit¶ ¶palace¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶person¶ ¶has¶ ¶rulebook¶ ¶called¶ ¶banana¶ ¶rating¶ ¶understand¶ ¶property¶ ¶as¶ ¶describing¶ 
+18 distinct words
+¶The¶ ¶the¶ 0a
+¶Fruit¶ ¶fruit¶ 20
+¶Palace¶ ¶palace¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶A¶ ¶a¶ 20
+¶person¶ ¶person¶ 20
+¶has¶ ¶has¶ 20
+¶a¶ ¶a¶ 20
+¶rulebook¶ ¶rulebook¶ 20
+¶called¶ ¶called¶ 20
+¶the¶ ¶the¶ 20
+¶banana¶ ¶banana¶ 20
+¶rating¶ ¶rating¶ 20
+¶.¶ ¶.¶ 20
+¶Understand¶ ¶understand¶ 20
+¶the¶ ¶the¶ 20
+¶banana¶ ¶banana¶ 20
+¶rating¶ ¶rating¶ 0a
+¶property¶ ¶property¶ 20
+¶as¶ ¶as¶ 20
+¶describing¶ ¶describing¶ 20
+¶a¶ ¶a¶ 20
+¶person¶ ¶person¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,26 @@
+15 words
+¶the¶ ¶verb¶ ¶to¶ ¶occlude¶ ¶mightily¶ ¶(¶ ¶he¶ ¶occludes¶ ¶,¶ ¶vikings¶ ¶)¶ ¶implies¶ ¶concealment¶ ¶relation¶ ¶.¶ ¶|__¶ 
+16 distinct words
+¶The¶ ¶the¶ 0a
+¶verb¶ ¶verb¶ 20
+¶to¶ ¶to¶ 20
+¶occlude¶ ¶occlude¶ 20
+¶mightily¶ ¶mightily¶ 20
+¶(¶ ¶(¶ 20
+¶he¶ ¶he¶ 20
+¶occludes¶ ¶occludes¶ 20
+¶mightily¶ ¶mightily¶ 20
+¶,¶ ¶,¶ 20
+¶Vikings¶ ¶vikings¶ 20
+¶occlude¶ ¶occlude¶ 20
+¶mightily¶ ¶mightily¶ 20
+¶)¶ ¶)¶ 20
+¶implies¶ ¶implies¶ 0a
+¶the¶ ¶the¶ 20
+¶concealment¶ ¶concealment¶ 20
+¶relation¶ ¶relation¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

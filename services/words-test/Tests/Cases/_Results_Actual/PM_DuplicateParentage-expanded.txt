@@ -1,0 +1,33 @@
+20 words
+¶the¶ ¶chapel¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶antechapel¶ ¶|__¶ ¶lectern¶ ¶in¶ ¶here¶ 
+11 distinct words
+¶The¶ ¶the¶ 0a
+¶Chapel¶ ¶chapel¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶The¶ ¶the¶ 20
+¶Antechapel¶ ¶antechapel¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶lectern¶ ¶lectern¶ 20
+¶is¶ ¶is¶ 20
+¶in¶ ¶in¶ 20
+¶the¶ ¶the¶ 20
+¶Chapel¶ ¶chapel¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶lectern¶ ¶lectern¶ 20
+¶is¶ ¶is¶ 20
+¶here¶ ¶here¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

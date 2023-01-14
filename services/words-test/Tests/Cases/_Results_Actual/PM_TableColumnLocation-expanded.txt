@@ -1,0 +1,49 @@
+43 words
+¶foo¶ ¶is¶ ¶west¶ ¶of¶ ¶bar¶ ¶.¶ ¶|__¶ ¶a¶ ¶shirt¶ ¶kind¶ ¶thing¶ ¶some¶ ¶shirts¶ ¶are¶ ¶defined¶ ¶by¶ ¶the¶ ¶table¶ ¶shirtness¶ ¶description¶ ¶location¶ ¶blue¶ ¶"This shirt is blue."¶ ¶grey¶ ¶"This shirt is grey."¶ 
+25 distinct words
+¶Foo¶ ¶foo¶ 0a
+¶is¶ ¶is¶ 20
+¶west¶ ¶west¶ 20
+¶of¶ ¶of¶ 20
+¶Bar¶ ¶bar¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶A¶ ¶a¶ 20
+¶shirt¶ ¶shirt¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶kind¶ ¶kind¶ 20
+¶of¶ ¶of¶ 20
+¶thing¶ ¶thing¶ 20
+¶.¶ ¶.¶ 20
+¶Some¶ ¶some¶ 20
+¶shirts¶ ¶shirts¶ 20
+¶are¶ ¶are¶ 20
+¶defined¶ ¶defined¶ 20
+¶by¶ ¶by¶ 20
+¶the¶ ¶the¶ 20
+¶Table¶ ¶table¶ 20
+¶of¶ ¶of¶ 20
+¶Shirtness¶ ¶shirtness¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Table¶ ¶table¶ 20
+¶of¶ ¶of¶ 20
+¶Shirtness¶ ¶shirtness¶ 20
+¶shirt¶ ¶shirt¶ 0a
+¶description¶ ¶description¶ 09
+¶location¶ ¶location¶ 09
+¶a¶ ¶a¶ 0a
+¶blue¶ ¶blue¶ 20
+¶shirt¶ ¶shirt¶ 20
+¶"This shirt is blue."¶ ¶"This shirt is blue."¶ 09
+¶Foo¶ ¶foo¶ 09
+¶a¶ ¶a¶ 0a
+¶grey¶ ¶grey¶ 20
+¶shirt¶ ¶shirt¶ 20
+¶"This shirt is grey."¶ ¶"This shirt is grey."¶ 09
+¶Bar¶ ¶bar¶ 09
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

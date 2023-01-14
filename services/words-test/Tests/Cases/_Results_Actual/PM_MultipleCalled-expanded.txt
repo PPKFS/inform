@@ -1,0 +1,22 @@
+12 words
+¶xanadu¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶two¶ ¶men¶ ¶called¶ ¶fred¶ ¶and¶ ¶george¶ ¶are¶ ¶here¶ 
+14 distinct words
+¶Xanadu¶ ¶xanadu¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Two¶ ¶two¶ 20
+¶men¶ ¶men¶ 20
+¶called¶ ¶called¶ 20
+¶Fred¶ ¶fred¶ 20
+¶and¶ ¶and¶ 20
+¶George¶ ¶george¶ 20
+¶are¶ ¶are¶ 20
+¶here¶ ¶here¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

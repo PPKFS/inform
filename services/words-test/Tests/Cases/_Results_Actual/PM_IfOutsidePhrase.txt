@@ -1,0 +1,13 @@
+5 words
+¶if¶ ¶the¶ ¶score¶ ¶exceeds¶ ¶10¶ ¶.¶ ¶|__¶ 
+7 distinct words
+¶If¶ ¶if¶ 0a
+¶the¶ ¶the¶ 20
+¶score¶ ¶score¶ 20
+¶exceeds¶ ¶exceeds¶ 20
+¶10¶ ¶10¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

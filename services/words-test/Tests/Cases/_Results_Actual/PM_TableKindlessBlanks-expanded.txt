@@ -1,0 +1,25 @@
+16 words
+¶home¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶table¶ ¶1¶ ¶fish¶ ¶chips¶ ¶2¶ ¶with¶ ¶blank¶ ¶rows¶ ¶for¶ ¶each¶ ¶gzurniflap¶ 
+17 distinct words
+¶Home¶ ¶home¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Table¶ ¶table¶ 20
+¶1¶ ¶1¶ 20
+¶fish¶ ¶fish¶ 0a
+¶chips¶ ¶chips¶ 09
+¶1¶ ¶1¶ 0a
+¶2¶ ¶2¶ 09
+¶with¶ ¶with¶ 0a
+¶blank¶ ¶blank¶ 20
+¶rows¶ ¶rows¶ 20
+¶for¶ ¶for¶ 20
+¶each¶ ¶each¶ 20
+¶gzurniflap¶ ¶gzurniflap¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

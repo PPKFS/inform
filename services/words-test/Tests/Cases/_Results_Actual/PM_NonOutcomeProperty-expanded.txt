@@ -1,0 +1,29 @@
+18 words
+¶xanadu¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶the¶ ¶cavern¶ ¶measuring¶ ¶rules¶ ¶are¶ ¶rulebook¶ ¶have¶ ¶other¶ ¶stuff¶ 
+15 distinct words
+¶Xanadu¶ ¶xanadu¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶cavern¶ ¶cavern¶ 20
+¶measuring¶ ¶measuring¶ 20
+¶rules¶ ¶rules¶ 20
+¶are¶ ¶are¶ 20
+¶a¶ ¶a¶ 20
+¶rulebook¶ ¶rulebook¶ 20
+¶.¶ ¶.¶ 20
+¶The¶ ¶the¶ 20
+¶cavern¶ ¶cavern¶ 20
+¶measuring¶ ¶measuring¶ 20
+¶rules¶ ¶rules¶ 20
+¶have¶ ¶have¶ 20
+¶other¶ ¶other¶ 0a
+¶stuff¶ ¶stuff¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

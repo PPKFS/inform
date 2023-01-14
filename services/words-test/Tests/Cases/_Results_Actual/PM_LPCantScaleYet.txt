@@ -1,0 +1,31 @@
+19 words
+¶globular¶ ¶cluster¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶mass¶ ¶kind¶ ¶of¶ ¶value¶ ¶1kg¶ ¶specifies¶ ¶scaled¶ ¶up¶ ¶by¶ ¶100¶ 
+17 distinct words
+¶Globular¶ ¶globular¶ 0a
+¶Cluster¶ ¶cluster¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Mass¶ ¶mass¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶kind¶ ¶kind¶ 20
+¶of¶ ¶of¶ 20
+¶value¶ ¶value¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶1kg¶ ¶1kg¶ 20
+¶specifies¶ ¶specifies¶ 20
+¶a¶ ¶a¶ 20
+¶mass¶ ¶mass¶ 20
+¶scaled¶ ¶scaled¶ 20
+¶up¶ ¶up¶ 20
+¶by¶ ¶by¶ 20
+¶100¶ ¶100¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

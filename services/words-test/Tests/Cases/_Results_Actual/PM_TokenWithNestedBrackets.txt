@@ -1,0 +1,29 @@
+15 words
+¶burrow¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶to¶ ¶shoot¶ ¶(¶ ¶n¶ ¶or¶ ¶m¶ ¶)¶ ¶-¶ ¶number¶ ¶wombles¶ ¶:¶ ¶say¶ ¶"Bang!"¶ 
+19 distinct words
+¶Burrow¶ ¶burrow¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶To¶ ¶to¶ 20
+¶shoot¶ ¶shoot¶ 20
+¶(¶ ¶(¶ 20
+¶N¶ ¶n¶ 20
+¶(¶ ¶(¶ 20
+¶Or¶ ¶or¶ 20
+¶M¶ ¶m¶ 20
+¶)¶ ¶)¶ 20
+¶-¶ ¶-¶ 20
+¶a¶ ¶a¶ 20
+¶number¶ ¶number¶ 20
+¶)¶ ¶)¶ 20
+¶wombles¶ ¶wombles¶ 20
+¶:¶ ¶:¶ 20
+¶say¶ ¶say¶ 20
+¶"Bang!"¶ ¶"Bang!"¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

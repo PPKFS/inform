@@ -1,0 +1,19 @@
+9 words
+¶there¶ ¶is¶ ¶room¶ ¶.¶ ¶|__¶ ¶nothing¶ ¶greater¶ ¶than¶ ¶the¶ ¶player¶ 
+10 distinct words
+¶There¶ ¶there¶ 0a
+¶is¶ ¶is¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Nothing¶ ¶nothing¶ 20
+¶is¶ ¶is¶ 20
+¶greater¶ ¶greater¶ 20
+¶than¶ ¶than¶ 20
+¶the¶ ¶the¶ 20
+¶player¶ ¶player¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

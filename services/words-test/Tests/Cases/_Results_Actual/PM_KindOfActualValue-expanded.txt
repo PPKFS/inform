@@ -1,0 +1,24 @@
+14 words
+¶a¶ ¶twentynine¶ ¶is¶ ¶kind¶ ¶of¶ ¶29¶ ¶.¶ ¶|__¶ ¶gentian¶ ¶flower¶ 
+10 distinct words
+¶A¶ ¶a¶ 0a
+¶twentynine¶ ¶twentynine¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶kind¶ ¶kind¶ 20
+¶of¶ ¶of¶ 20
+¶29¶ ¶29¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶A¶ ¶a¶ 20
+¶gentian¶ ¶gentian¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶kind¶ ¶kind¶ 20
+¶of¶ ¶of¶ 20
+¶flower¶ ¶flower¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

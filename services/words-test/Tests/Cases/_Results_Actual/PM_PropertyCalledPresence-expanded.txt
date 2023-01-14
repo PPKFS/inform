@@ -1,0 +1,15 @@
+7 words
+¶a¶ ¶person¶ ¶has¶ ¶text¶ ¶called¶ ¶presence¶ ¶.¶ ¶|__¶ 
+8 distinct words
+¶A¶ ¶a¶ 0a
+¶person¶ ¶person¶ 20
+¶has¶ ¶has¶ 20
+¶a¶ ¶a¶ 20
+¶text¶ ¶text¶ 20
+¶called¶ ¶called¶ 20
+¶presence¶ ¶presence¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

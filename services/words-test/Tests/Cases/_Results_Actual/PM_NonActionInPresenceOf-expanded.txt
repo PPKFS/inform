@@ -1,0 +1,31 @@
+23 words
+¶burrow¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶mme¶ ¶cholet¶ ¶in¶ ¶the¶ ¶|__¶ ¶every¶ ¶turn¶ ¶presence¶ ¶of¶ ¶:¶ ¶say¶ ¶"Mme Cholet eyes you."¶ 
+17 distinct words
+¶Burrow¶ ¶burrow¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶Mme¶ ¶mme¶ 20
+¶Cholet¶ ¶cholet¶ 20
+¶is¶ ¶is¶ 20
+¶in¶ ¶in¶ 20
+¶the¶ ¶the¶ 20
+¶Burrow¶ ¶burrow¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Every¶ ¶every¶ 20
+¶turn¶ ¶turn¶ 20
+¶in¶ ¶in¶ 20
+¶the¶ ¶the¶ 20
+¶presence¶ ¶presence¶ 20
+¶of¶ ¶of¶ 20
+¶Mme¶ ¶mme¶ 20
+¶Cholet¶ ¶cholet¶ 20
+¶:¶ ¶:¶ 20
+¶say¶ ¶say¶ 20
+¶"Mme Cholet eyes you."¶ ¶"Mme Cholet eyes you."¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

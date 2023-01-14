@@ -1,0 +1,13 @@
+5 words
+¶the¶ ¶badger¶ ¶is¶ ¶a¶ ¶text¶ ¶.¶ ¶|__¶ 
+7 distinct words
+¶The¶ ¶the¶ 0a
+¶badger¶ ¶badger¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶text¶ ¶text¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

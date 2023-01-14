@@ -1,0 +1,33 @@
+23 words
+¶the¶ ¶taj¶ ¶mahal¶ ¶and¶ ¶grassy¶ ¶slope¶ ¶are¶ ¶rooms¶ ¶.¶ ¶|__¶ ¶index¶ ¶map¶ ¶with¶ ¶eps¶ ¶file¶ ¶room-size¶ ¶of¶ ¶set¶ ¶to¶ ¶off¶ 
+20 distinct words
+¶The¶ ¶the¶ 0a
+¶Taj¶ ¶taj¶ 20
+¶Mahal¶ ¶mahal¶ 20
+¶and¶ ¶and¶ 20
+¶the¶ ¶the¶ 20
+¶Grassy¶ ¶grassy¶ 20
+¶Slope¶ ¶slope¶ 20
+¶are¶ ¶are¶ 20
+¶rooms¶ ¶rooms¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Index¶ ¶index¶ 20
+¶map¶ ¶map¶ 20
+¶with¶ ¶with¶ 20
+¶EPS¶ ¶eps¶ 20
+¶file¶ ¶file¶ 20
+¶and¶ ¶and¶ 20
+¶room-size¶ ¶room-size¶ 20
+¶of¶ ¶of¶ 20
+¶the¶ ¶the¶ 20
+¶Taj¶ ¶taj¶ 20
+¶Mahal¶ ¶mahal¶ 20
+¶set¶ ¶set¶ 20
+¶to¶ ¶to¶ 20
+¶off¶ ¶off¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

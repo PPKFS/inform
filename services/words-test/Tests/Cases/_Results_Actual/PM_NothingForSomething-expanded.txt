@@ -1,0 +1,39 @@
+21 words
+¶workshop¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶to¶ ¶consume¶ ¶(¶ ¶t¶ ¶-¶ ¶thing¶ ¶)¶ ¶:¶ ¶say¶ ¶"You eat "¶ ¶,¶ ¶"."¶ ¶;¶ ¶when¶ ¶play¶ ¶begins¶ ¶player¶ ¶nothing¶ 
+24 distinct words
+¶Workshop¶ ¶workshop¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶To¶ ¶to¶ 20
+¶consume¶ ¶consume¶ 20
+¶(¶ ¶(¶ 20
+¶T¶ ¶t¶ 20
+¶-¶ ¶-¶ 20
+¶thing¶ ¶thing¶ 20
+¶)¶ ¶)¶ 20
+¶:¶ ¶:¶ 20
+¶say¶ ¶say¶ 20
+¶"You eat "¶ ¶"You eat "¶ 20
+¶,¶ ¶,¶ 20
+¶T¶ ¶t¶ 20
+¶,¶ ¶,¶ 20
+¶"."¶ ¶"."¶ 20
+¶;¶ ¶;¶ 20
+¶|__¶ ¶|__¶ 0a
+¶When¶ ¶when¶ 20
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶:¶ ¶:¶ 20
+¶consume¶ ¶consume¶ 41
+¶player¶ ¶player¶ 20
+¶;¶ ¶;¶ 20
+¶consume¶ ¶consume¶ 41
+¶nothing¶ ¶nothing¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

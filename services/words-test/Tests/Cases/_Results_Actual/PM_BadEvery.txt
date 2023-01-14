@@ -1,0 +1,14 @@
+6 words
+¶every¶ ¶room¶ ¶is¶ ¶the¶ ¶winter¶ ¶palace¶ ¶.¶ ¶|__¶ 
+8 distinct words
+¶Every¶ ¶every¶ 0a
+¶room¶ ¶room¶ 20
+¶is¶ ¶is¶ 20
+¶the¶ ¶the¶ 20
+¶Winter¶ ¶winter¶ 20
+¶Palace¶ ¶palace¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,11 @@
+3 words
+¶taking¶ ¶is¶ ¶dropping¶ ¶.¶ ¶|__¶ 
+5 distinct words
+¶Taking¶ ¶taking¶ 0a
+¶is¶ ¶is¶ 20
+¶dropping¶ ¶dropping¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

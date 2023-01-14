@@ -1,0 +1,98 @@
+96 words
+¶the¶ ¶daily¶ ¶planet¶ ¶newsroom¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶"Typewriters and stuff. [otherwise]At least Clark has gone![end if]"¶ ¶perry¶ ¶white's¶ ¶office¶ ¶west¶ ¶of¶ ¶in¶ ¶are¶ ¶desk¶ ¶and¶ ¶poster¶ ¶elvis¶ ¶on¶ ¶lead-lined¶ ¶box¶ ¶openable¶ ¶green¶ ¶kryptonite¶ ¶crystal¶ ¶supply¶ ¶closet¶ ¶east¶ ¶elevator¶ ¶bank¶ ¶north¶ ¶clark¶ ¶kent¶ ¶man¶ ¶"Clark [if Clark can see the
+kryptonite]looks a bit ill[otherwise]is here, frowning as he revises
+his latest article[end if]."¶ 
+38 distinct words
+¶The¶ ¶the¶ 0a
+¶Daily¶ ¶daily¶ 20
+¶Planet¶ ¶planet¶ 20
+¶Newsroom¶ ¶newsroom¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶"Typewriters and stuff. [otherwise]At least Clark has gone![end if]"¶ ¶"Typewriters and stuff. [otherwise]At least Clark has gone![end if]"¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Perry¶ ¶perry¶ 20
+¶White's¶ ¶white's¶ 20
+¶Office¶ ¶office¶ 20
+¶is¶ ¶is¶ 20
+¶west¶ ¶west¶ 20
+¶of¶ ¶of¶ 20
+¶the¶ ¶the¶ 20
+¶Newsroom¶ ¶newsroom¶ 20
+¶.¶ ¶.¶ 20
+¶In¶ ¶in¶ 20
+¶Perry¶ ¶perry¶ 20
+¶White's¶ ¶white's¶ 20
+¶Office¶ ¶office¶ 20
+¶are¶ ¶are¶ 20
+¶a¶ ¶a¶ 20
+¶desk¶ ¶desk¶ 0a
+¶and¶ ¶and¶ 20
+¶a¶ ¶a¶ 20
+¶poster¶ ¶poster¶ 20
+¶of¶ ¶of¶ 20
+¶Elvis¶ ¶elvis¶ 20
+¶.¶ ¶.¶ 20
+¶On¶ ¶on¶ 20
+¶the¶ ¶the¶ 20
+¶desk¶ ¶desk¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶lead-lined¶ ¶lead-lined¶ 20
+¶box¶ ¶box¶ 20
+¶.¶ ¶.¶ 20
+¶The¶ ¶the¶ 20
+¶box¶ ¶box¶ 20
+¶is¶ ¶is¶ 20
+¶openable¶ ¶openable¶ 0a
+¶.¶ ¶.¶ 20
+¶In¶ ¶in¶ 20
+¶the¶ ¶the¶ 20
+¶box¶ ¶box¶ 20
+¶is¶ ¶is¶ 20
+¶the¶ ¶the¶ 20
+¶green¶ ¶green¶ 20
+¶kryptonite¶ ¶kryptonite¶ 20
+¶crystal¶ ¶crystal¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶Supply¶ ¶supply¶ 20
+¶Closet¶ ¶closet¶ 20
+¶is¶ ¶is¶ 20
+¶east¶ ¶east¶ 20
+¶of¶ ¶of¶ 20
+¶the¶ ¶the¶ 20
+¶Newsroom¶ ¶newsroom¶ 20
+¶.¶ ¶.¶ 20
+¶The¶ ¶the¶ 20
+¶Elevator¶ ¶elevator¶ 20
+¶Bank¶ ¶bank¶ 20
+¶is¶ ¶is¶ 20
+¶north¶ ¶north¶ 20
+¶of¶ ¶of¶ 20
+¶the¶ ¶the¶ 0a
+¶Newsroom¶ ¶newsroom¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Clark¶ ¶clark¶ 20
+¶Kent¶ ¶kent¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶man¶ ¶man¶ 20
+¶in¶ ¶in¶ 20
+¶the¶ ¶the¶ 20
+¶Newsroom¶ ¶newsroom¶ 20
+¶.¶ ¶.¶ 20
+¶"Clark [if Clark can see the
+kryptonite]looks a bit ill[otherwise]is here, frowning as he revises
+his latest article[end if]."¶ ¶"Clark [if Clark can see the
+kryptonite]looks a bit ill[otherwise]is here, frowning as he revises
+his latest article[end if]."¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

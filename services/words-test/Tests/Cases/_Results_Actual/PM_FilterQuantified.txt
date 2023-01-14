@@ -1,0 +1,17 @@
+10 words
+¶foo¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶understand¶ ¶"[any any thing]"¶ ¶as¶ ¶examining¶ ¶|__¶ 
+10 distinct words
+¶Foo¶ ¶foo¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶Understand¶ ¶understand¶ 0a
+¶"[any any thing]"¶ ¶"[any any thing]"¶ 20
+¶as¶ ¶as¶ 20
+¶examining¶ ¶examining¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

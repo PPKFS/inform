@@ -1,0 +1,35 @@
+27 words
+¶the¶ ¶taj¶ ¶mahal¶ ¶and¶ ¶grassy¶ ¶slope¶ ¶are¶ ¶rooms¶ ¶.¶ ¶|__¶ ¶index¶ ¶map¶ ¶with¶ ¶rubric¶ ¶"Here Be Wyverns"¶ ¶size¶ ¶16¶ ¶font¶ ¶"Helvetica-Oblique"¶ ¶colour¶ ¶"Red"¶ ¶at¶ ¶150000¶ ¶from¶ 
+24 distinct words
+¶The¶ ¶the¶ 0a
+¶Taj¶ ¶taj¶ 20
+¶Mahal¶ ¶mahal¶ 20
+¶and¶ ¶and¶ 20
+¶the¶ ¶the¶ 20
+¶Grassy¶ ¶grassy¶ 20
+¶Slope¶ ¶slope¶ 20
+¶are¶ ¶are¶ 20
+¶rooms¶ ¶rooms¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Index¶ ¶index¶ 20
+¶map¶ ¶map¶ 20
+¶with¶ ¶with¶ 20
+¶rubric¶ ¶rubric¶ 20
+¶"Here Be Wyverns"¶ ¶"Here Be Wyverns"¶ 20
+¶size¶ ¶size¶ 20
+¶16¶ ¶16¶ 20
+¶font¶ ¶font¶ 20
+¶"Helvetica-Oblique"¶ ¶"Helvetica-Oblique"¶ 20
+¶colour¶ ¶colour¶ 41
+¶"Red"¶ ¶"Red"¶ 20
+¶at¶ ¶at¶ 20
+¶150000¶ ¶150000¶ 20
+¶from¶ ¶from¶ 20
+¶Taj¶ ¶taj¶ 20
+¶Mahal¶ ¶mahal¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,19 @@
+9 words
+¶example¶ ¶location¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶test¶ ¶"me"¶ ¶with¶ ¶"look"¶ 
+11 distinct words
+¶Example¶ ¶example¶ 0a
+¶Location¶ ¶location¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶test¶ ¶test¶ 20
+¶"me"¶ ¶"me"¶ 20
+¶with¶ ¶with¶ 20
+¶"look"¶ ¶"look"¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

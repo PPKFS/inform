@@ -1,0 +1,15 @@
+7 words
+¶a¶ ¶kind¶ ¶of¶ ¶door¶ ¶is¶ ¶portal¶ ¶.¶ ¶|__¶ 
+8 distinct words
+¶A¶ ¶a¶ 0a
+¶kind¶ ¶kind¶ 20
+¶of¶ ¶of¶ 20
+¶door¶ ¶door¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶portal¶ ¶portal¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

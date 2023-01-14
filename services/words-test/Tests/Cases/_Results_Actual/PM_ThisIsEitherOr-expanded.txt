@@ -1,0 +1,37 @@
+23 words
+¶xanadu¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶book¶ ¶kind¶ ¶of¶ ¶thing¶ ¶can¶ ¶be¶ ¶mint¶ ¶or¶ ¶foxed¶ ¶(¶ ¶this¶ ¶the¶ ¶cover¶ ¶state¶ ¶)¶ 
+21 distinct words
+¶Xanadu¶ ¶xanadu¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶A¶ ¶a¶ 20
+¶book¶ ¶book¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶kind¶ ¶kind¶ 20
+¶of¶ ¶of¶ 20
+¶thing¶ ¶thing¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶A¶ ¶a¶ 20
+¶book¶ ¶book¶ 20
+¶can¶ ¶can¶ 20
+¶be¶ ¶be¶ 20
+¶mint¶ ¶mint¶ 20
+¶or¶ ¶or¶ 20
+¶foxed¶ ¶foxed¶ 20
+¶(¶ ¶(¶ 20
+¶this¶ ¶this¶ 20
+¶is¶ ¶is¶ 20
+¶the¶ ¶the¶ 20
+¶cover¶ ¶cover¶ 20
+¶state¶ ¶state¶ 20
+¶)¶ ¶)¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

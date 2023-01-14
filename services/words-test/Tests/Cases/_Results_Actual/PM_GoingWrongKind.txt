@@ -1,0 +1,52 @@
+45 words
+¶ledge¶ ¶by¶ ¶bridge¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶nirvana¶ ¶region¶ ¶the¶ ¶ball¶ ¶of¶ ¶string¶ ¶in¶ ¶|__¶ ¶instead¶ ¶going¶ ¶from¶ ¶:¶ ¶say¶ ¶"Hey, watch you don't unwind!"¶ ¶nowhere¶ ¶"Hey, watch where you're going!"¶ 
+23 distinct words
+¶Ledge¶ ¶ledge¶ 0a
+¶by¶ ¶by¶ 20
+¶Bridge¶ ¶bridge¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶Room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶Nirvana¶ ¶nirvana¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶region¶ ¶region¶ 20
+¶.¶ ¶.¶ 20
+¶The¶ ¶the¶ 20
+¶ball¶ ¶ball¶ 20
+¶of¶ ¶of¶ 20
+¶string¶ ¶string¶ 20
+¶is¶ ¶is¶ 20
+¶in¶ ¶in¶ 20
+¶Ledge¶ ¶ledge¶ 0a
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Instead¶ ¶instead¶ 20
+¶of¶ ¶of¶ 20
+¶going¶ ¶going¶ 20
+¶from¶ ¶from¶ 20
+¶the¶ ¶the¶ 20
+¶ball¶ ¶ball¶ 20
+¶of¶ ¶of¶ 20
+¶string¶ ¶string¶ 20
+¶:¶ ¶:¶ 20
+¶say¶ ¶say¶ 41
+¶"Hey, watch you don't unwind!"¶ ¶"Hey, watch you don't unwind!"¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Instead¶ ¶instead¶ 20
+¶of¶ ¶of¶ 20
+¶going¶ ¶going¶ 20
+¶nowhere¶ ¶nowhere¶ 20
+¶from¶ ¶from¶ 20
+¶Ledge¶ ¶ledge¶ 20
+¶by¶ ¶by¶ 20
+¶Bridge¶ ¶bridge¶ 20
+¶:¶ ¶:¶ 20
+¶say¶ ¶say¶ 41
+¶"Hey, watch where you're going!"¶ ¶"Hey, watch where you're going!"¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

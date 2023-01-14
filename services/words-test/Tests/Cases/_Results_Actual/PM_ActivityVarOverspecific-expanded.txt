@@ -1,0 +1,26 @@
+16 words
+¶xanadu¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶the¶ ¶printing¶ ¶name¶ ¶activity¶ ¶has¶ ¶an¶ ¶open¶ ¶door¶ ¶called¶ ¶portal¶ 
+16 distinct words
+¶Xanadu¶ ¶xanadu¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶printing¶ ¶printing¶ 20
+¶the¶ ¶the¶ 20
+¶name¶ ¶name¶ 20
+¶activity¶ ¶activity¶ 20
+¶has¶ ¶has¶ 20
+¶an¶ ¶an¶ 20
+¶open¶ ¶open¶ 20
+¶door¶ ¶door¶ 20
+¶called¶ ¶called¶ 20
+¶the¶ ¶the¶ 20
+¶portal¶ ¶portal¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

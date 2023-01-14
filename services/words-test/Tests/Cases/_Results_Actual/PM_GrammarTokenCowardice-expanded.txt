@@ -1,0 +1,32 @@
+19 words
+¶there¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶foo¶ ¶here¶ ¶understand¶ ¶"in "¶ ¶,¶ ¶something¶ ¶related¶ ¶by¶ ¶reversed¶ ¶room-containment¶ ¶""¶ ¶as¶ ¶thing¶ ¶|__¶ 
+19 distinct words
+¶There¶ ¶there¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶There¶ ¶there¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶foo¶ ¶foo¶ 20
+¶here¶ ¶here¶ 20
+¶.¶ ¶.¶ 20
+¶Understand¶ ¶understand¶ 0a
+¶"in "¶ ¶"in "¶ 20
+¶,¶ ¶,¶ 20
+¶something¶ ¶something¶ 20
+¶related¶ ¶related¶ 20
+¶by¶ ¶by¶ 20
+¶reversed¶ ¶reversed¶ 20
+¶room-containment¶ ¶room-containment¶ 20
+¶,¶ ¶,¶ 20
+¶""¶ ¶""¶ 20
+¶as¶ ¶as¶ 20
+¶a¶ ¶a¶ 20
+¶thing¶ ¶thing¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

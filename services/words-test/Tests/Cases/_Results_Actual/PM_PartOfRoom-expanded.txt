@@ -1,0 +1,28 @@
+18 words
+¶the¶ ¶vehicle¶ ¶assembly¶ ¶building¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶shuttle¶ ¶processing¶ ¶bay¶ ¶part¶ ¶of¶ 
+14 distinct words
+¶The¶ ¶the¶ 0a
+¶Vehicle¶ ¶vehicle¶ 20
+¶Assembly¶ ¶assembly¶ 20
+¶Building¶ ¶building¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶Shuttle¶ ¶shuttle¶ 20
+¶Processing¶ ¶processing¶ 20
+¶Bay¶ ¶bay¶ 20
+¶is¶ ¶is¶ 20
+¶part¶ ¶part¶ 20
+¶of¶ ¶of¶ 20
+¶the¶ ¶the¶ 20
+¶Vehicle¶ ¶vehicle¶ 20
+¶Assembly¶ ¶assembly¶ 20
+¶Building¶ ¶building¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

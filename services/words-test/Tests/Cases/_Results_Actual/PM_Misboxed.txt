@@ -1,0 +1,28 @@
+18 words
+¶xanadu¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶when¶ ¶play¶ ¶begins¶ ¶:¶ ¶let¶ ¶x¶ ¶be¶ ¶"Frankly, my dear"¶ ¶;¶ ¶display¶ ¶the¶ ¶boxed¶ ¶quotation¶ 
+19 distinct words
+¶Xanadu¶ ¶xanadu¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶When¶ ¶when¶ 20
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶:¶ ¶:¶ 20
+¶let¶ ¶let¶ 41
+¶X¶ ¶x¶ 20
+¶be¶ ¶be¶ 20
+¶"Frankly, my dear"¶ ¶"Frankly, my dear"¶ 20
+¶;¶ ¶;¶ 20
+¶display¶ ¶display¶ 0a
+¶the¶ ¶the¶ 20
+¶boxed¶ ¶boxed¶ 20
+¶quotation¶ ¶quotation¶ 20
+¶X¶ ¶x¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

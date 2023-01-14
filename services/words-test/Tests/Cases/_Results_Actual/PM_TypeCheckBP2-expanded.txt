@@ -1,0 +1,28 @@
+17 words
+¶this¶ ¶spot¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶after¶ ¶reading¶ ¶command¶ ¶:¶ ¶if¶ ¶the¶ ¶player's¶ ¶contains¶ ¶"anything"¶ ¶,¶ ¶say¶ ¶"Yowza!"¶ 
+19 distinct words
+¶This¶ ¶this¶ 0a
+¶Spot¶ ¶spot¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶After¶ ¶after¶ 20
+¶reading¶ ¶reading¶ 20
+¶a¶ ¶a¶ 20
+¶command¶ ¶command¶ 20
+¶:¶ ¶:¶ 20
+¶if¶ ¶if¶ 41
+¶the¶ ¶the¶ 20
+¶player's¶ ¶player's¶ 20
+¶command¶ ¶command¶ 20
+¶contains¶ ¶contains¶ 20
+¶"anything"¶ ¶"anything"¶ 20
+¶,¶ ¶,¶ 20
+¶say¶ ¶say¶ 20
+¶"Yowza!"¶ ¶"Yowza!"¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

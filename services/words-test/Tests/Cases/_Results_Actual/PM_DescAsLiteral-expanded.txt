@@ -1,0 +1,31 @@
+19 words
+¶there¶ ¶is¶ ¶room¶ ¶.¶ ¶|__¶ ¶the¶ ¶tricksy¶ ¶variable¶ ¶a¶ ¶description¶ ¶of¶ ¶numbers¶ ¶that¶ ¶varies¶ ¶even¶ 
+15 distinct words
+¶There¶ ¶there¶ 0a
+¶is¶ ¶is¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶tricksy¶ ¶tricksy¶ 20
+¶variable¶ ¶variable¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶description¶ ¶description¶ 20
+¶of¶ ¶of¶ 20
+¶numbers¶ ¶numbers¶ 20
+¶that¶ ¶that¶ 20
+¶varies¶ ¶varies¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶tricksy¶ ¶tricksy¶ 20
+¶variable¶ ¶variable¶ 20
+¶is¶ ¶is¶ 20
+¶even¶ ¶even¶ 20
+¶numbers¶ ¶numbers¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

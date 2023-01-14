@@ -1,0 +1,33 @@
+17 words
+¶the¶ ¶temple¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶this¶ ¶banana¶ ¶split¶ ¶rule¶ ¶:¶ ¶say¶ ¶"Yellow!"¶ ¶(¶ ¶)¶ ¶;¶ ¶"Creamy!"¶ 
+18 distinct words
+¶The¶ ¶the¶ 0a
+¶Temple¶ ¶temple¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶This¶ ¶this¶ 20
+¶is¶ ¶is¶ 20
+¶the¶ ¶the¶ 20
+¶banana¶ ¶banana¶ 20
+¶split¶ ¶split¶ 20
+¶rule¶ ¶rule¶ 20
+¶:¶ ¶:¶ 20
+¶say¶ ¶say¶ 41
+¶"Yellow!"¶ ¶"Yellow!"¶ 20
+¶(¶ ¶(¶ 20
+¶A¶ ¶a¶ 20
+¶)¶ ¶)¶ 20
+¶;¶ ¶;¶ 20
+¶say¶ ¶say¶ 41
+¶"Creamy!"¶ ¶"Creamy!"¶ 20
+¶(¶ ¶(¶ 20
+¶A¶ ¶a¶ 20
+¶)¶ ¶)¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,27 @@
+15 words
+¶xanadu¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶when¶ ¶play¶ ¶begins¶ ¶:¶ ¶repeat¶ ¶with¶ ¶x¶ ¶running¶ ¶through¶ ¶numbers¶ ¶say¶ ¶"X."¶ ¶;¶ 
+19 distinct words
+¶Xanadu¶ ¶xanadu¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶When¶ ¶when¶ 20
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶:¶ ¶:¶ 20
+¶repeat¶ ¶repeat¶ 41
+¶with¶ ¶with¶ 20
+¶X¶ ¶x¶ 20
+¶running¶ ¶running¶ 20
+¶through¶ ¶through¶ 20
+¶numbers¶ ¶numbers¶ 20
+¶:¶ ¶:¶ 20
+¶say¶ ¶say¶ 42
+¶"X."¶ ¶"X."¶ 20
+¶;¶ ¶;¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

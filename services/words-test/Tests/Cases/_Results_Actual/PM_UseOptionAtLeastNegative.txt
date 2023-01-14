@@ -1,0 +1,54 @@
+30 words
+¶foo¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶use¶ ¶blurble¶ ¶of¶ ¶at¶ ¶least¶ ¶0¶ ¶translates¶ ¶as¶ ¶(-¶ ¶ Constant BLURBLE = {N}; ¶ ¶blah¶ ¶-10¶ ¶ Constant BLAH = {N}; ¶ ¶include¶ ¶
+	[ foo2 x; x = BLURBLE; ];
+¶ ¶
+	[ foo x; x = BLAH; ];
+¶ ¶|__¶ 
+22 distinct words
+¶Foo¶ ¶foo¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶Use¶ ¶use¶ 0a
+¶blurble¶ ¶blurble¶ 20
+¶of¶ ¶of¶ 20
+¶at¶ ¶at¶ 20
+¶least¶ ¶least¶ 20
+¶0¶ ¶0¶ 20
+¶translates¶ ¶translates¶ 20
+¶as¶ ¶as¶ 20
+¶(-¶ ¶(-¶ 20
+¶ Constant BLURBLE = {N}; ¶ ¶ Constant BLURBLE = {N}; ¶ 20
+¶.¶ ¶.¶ 20
+¶Use¶ ¶use¶ 0a
+¶blah¶ ¶blah¶ 20
+¶of¶ ¶of¶ 20
+¶at¶ ¶at¶ 20
+¶least¶ ¶least¶ 20
+¶-10¶ ¶-10¶ 20
+¶translates¶ ¶translates¶ 20
+¶as¶ ¶as¶ 20
+¶(-¶ ¶(-¶ 20
+¶ Constant BLAH = {N}; ¶ ¶ Constant BLAH = {N}; ¶ 20
+¶.¶ ¶.¶ 20
+¶Include¶ ¶include¶ 0a
+¶(-¶ ¶(-¶ 20
+¶
+	[ foo2 x; x = BLURBLE; ];
+¶ ¶
+	[ foo2 x; x = BLURBLE; ];
+¶ 20
+¶.¶ ¶.¶ 20
+¶Include¶ ¶include¶ 0a
+¶(-¶ ¶(-¶ 20
+¶
+	[ foo x; x = BLAH; ];
+¶ ¶
+	[ foo x; x = BLAH; ];
+¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

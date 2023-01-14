@@ -1,0 +1,27 @@
+16 words
+¶the¶ ¶typographium¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶when¶ ¶play¶ ¶begins¶ ¶:¶ ¶if¶ ¶23¶ ¶entire¶ ¶game¶ ¶,¶ ¶say¶ ¶"No."¶ 
+18 distinct words
+¶The¶ ¶the¶ 0a
+¶Typographium¶ ¶typographium¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶When¶ ¶when¶ 20
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶:¶ ¶:¶ 20
+¶if¶ ¶if¶ 41
+¶23¶ ¶23¶ 20
+¶is¶ ¶is¶ 20
+¶the¶ ¶the¶ 20
+¶Entire¶ ¶entire¶ 20
+¶Game¶ ¶game¶ 20
+¶,¶ ¶,¶ 20
+¶say¶ ¶say¶ 20
+¶"No."¶ ¶"No."¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

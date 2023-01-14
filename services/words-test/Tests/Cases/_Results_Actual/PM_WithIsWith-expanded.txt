@@ -1,0 +1,19 @@
+11 words
+¶a¶ ¶container¶ ¶with¶ ¶description¶ ¶"White"¶ ¶is¶ ¶"Black"¶ ¶.¶ ¶|__¶ 
+9 distinct words
+¶A¶ ¶a¶ 0a
+¶container¶ ¶container¶ 20
+¶with¶ ¶with¶ 20
+¶description¶ ¶description¶ 20
+¶"White"¶ ¶"White"¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶container¶ ¶container¶ 20
+¶with¶ ¶with¶ 20
+¶description¶ ¶description¶ 20
+¶"Black"¶ ¶"Black"¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

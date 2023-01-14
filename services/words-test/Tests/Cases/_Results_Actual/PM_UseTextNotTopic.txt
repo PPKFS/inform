@@ -1,0 +1,30 @@
+24 words
+¶the¶ ¶starting¶ ¶location¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶player¶ ¶in¶ ¶|__¶ ¶understand¶ ¶"t [a person] about [a topic]"¶ ¶as¶ ¶telling¶ ¶it¶ ¶about¶ 
+16 distinct words
+¶The¶ ¶the¶ 0a
+¶Starting¶ ¶starting¶ 20
+¶Location¶ ¶location¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶The¶ ¶the¶ 20
+¶player¶ ¶player¶ 20
+¶is¶ ¶is¶ 20
+¶in¶ ¶in¶ 20
+¶the¶ ¶the¶ 20
+¶starting¶ ¶starting¶ 20
+¶location¶ ¶location¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Understand¶ ¶understand¶ 20
+¶"t [a person] about [a topic]"¶ ¶"t [a person] about [a topic]"¶ 20
+¶as¶ ¶as¶ 20
+¶telling¶ ¶telling¶ 20
+¶it¶ ¶it¶ 20
+¶about¶ ¶about¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

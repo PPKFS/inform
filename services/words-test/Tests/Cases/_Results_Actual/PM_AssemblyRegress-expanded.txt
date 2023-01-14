@@ -1,0 +1,32 @@
+21 words
+¶a¶ ¶container¶ ¶is¶ ¶in¶ ¶every¶ ¶.¶ ¶|__¶ ¶the¶ ¶boxing¶ ¶ring¶ ¶room¶ ¶pandora's¶ ¶box¶ 
+13 distinct words
+¶A¶ ¶a¶ 0a
+¶container¶ ¶container¶ 20
+¶is¶ ¶is¶ 20
+¶in¶ ¶in¶ 20
+¶every¶ ¶every¶ 20
+¶container¶ ¶container¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶Boxing¶ ¶boxing¶ 20
+¶Ring¶ ¶ring¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶Pandora's¶ ¶pandora's¶ 20
+¶Box¶ ¶box¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶container¶ ¶container¶ 20
+¶in¶ ¶in¶ 20
+¶the¶ ¶the¶ 20
+¶Boxing¶ ¶boxing¶ 20
+¶Ring¶ ¶ring¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

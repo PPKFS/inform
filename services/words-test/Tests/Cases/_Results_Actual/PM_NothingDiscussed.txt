@@ -1,0 +1,13 @@
+5 words
+¶the¶ ¶carrying¶ ¶capacity¶ ¶is¶ ¶10¶ ¶.¶ ¶|__¶ 
+7 distinct words
+¶The¶ ¶the¶ 0a
+¶carrying¶ ¶carrying¶ 20
+¶capacity¶ ¶capacity¶ 20
+¶is¶ ¶is¶ 20
+¶10¶ ¶10¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

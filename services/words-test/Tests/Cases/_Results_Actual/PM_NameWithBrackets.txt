@@ -1,0 +1,16 @@
+6 words
+¶ballroom¶ ¶(¶ ¶east¶ ¶corner¶ ¶)¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ 
+10 distinct words
+¶Ballroom¶ ¶ballroom¶ 0a
+¶(¶ ¶(¶ 20
+¶East¶ ¶east¶ 20
+¶Corner¶ ¶corner¶ 20
+¶)¶ ¶)¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

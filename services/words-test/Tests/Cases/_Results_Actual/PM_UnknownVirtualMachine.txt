@@ -1,0 +1,21 @@
+10 words
+¶section¶ ¶1¶ ¶(¶ ¶for¶ ¶cucumber¶ ¶only¶ ¶)¶ ¶|__¶ ¶lettuce¶ ¶patch¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ 
+14 distinct words
+¶Section¶ ¶section¶ 0a
+¶1¶ ¶1¶ 20
+¶(¶ ¶(¶ 20
+¶for¶ ¶for¶ 20
+¶Cucumber¶ ¶cucumber¶ 20
+¶only¶ ¶only¶ 20
+¶)¶ ¶)¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Lettuce¶ ¶lettuce¶ 20
+¶patch¶ ¶patch¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

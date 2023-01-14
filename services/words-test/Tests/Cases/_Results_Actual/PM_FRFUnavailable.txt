@@ -1,0 +1,24 @@
+14 words
+¶home¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶ineptness¶ ¶relates¶ ¶one¶ ¶to¶ ¶person¶ ¶with¶ ¶fast¶ ¶route-finding¶ 
+14 distinct words
+¶Home¶ ¶home¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Ineptness¶ ¶ineptness¶ 20
+¶relates¶ ¶relates¶ 20
+¶one¶ ¶one¶ 20
+¶room¶ ¶room¶ 20
+¶to¶ ¶to¶ 20
+¶one¶ ¶one¶ 20
+¶person¶ ¶person¶ 20
+¶with¶ ¶with¶ 20
+¶fast¶ ¶fast¶ 20
+¶route-finding¶ ¶route-finding¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

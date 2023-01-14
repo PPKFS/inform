@@ -1,0 +1,24 @@
+14 words
+¶foo¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶definition¶ ¶:¶ ¶big¶ ¶number¶ ¶if¶ ¶it¶ ¶123¶ ¶|__¶ 
+13 distinct words
+¶Foo¶ ¶foo¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶Definition¶ ¶definition¶ 0a
+¶:¶ ¶:¶ 20
+¶a¶ ¶a¶ 20
+¶big¶ ¶big¶ 20
+¶number¶ ¶number¶ 20
+¶is¶ ¶is¶ 20
+¶big¶ ¶big¶ 20
+¶if¶ ¶if¶ 20
+¶it¶ ¶it¶ 20
+¶is¶ ¶is¶ 20
+¶123¶ ¶123¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,13 @@
+5 words
+¶dropping¶ ¶something¶ ¶is¶ ¶the¶ ¶score¶ ¶.¶ ¶|__¶ 
+7 distinct words
+¶Dropping¶ ¶dropping¶ 0a
+¶something¶ ¶something¶ 20
+¶is¶ ¶is¶ 20
+¶the¶ ¶the¶ 20
+¶score¶ ¶score¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

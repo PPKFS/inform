@@ -1,0 +1,26 @@
+16 words
+¶home¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶instead¶ ¶of¶ ¶opening¶ ¶door¶ ¶when¶ ¶the¶ ¶closed¶ ¶:¶ ¶say¶ ¶"X."¶ 
+16 distinct words
+¶Home¶ ¶home¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Instead¶ ¶instead¶ 20
+¶of¶ ¶of¶ 20
+¶opening¶ ¶opening¶ 20
+¶a¶ ¶a¶ 20
+¶door¶ ¶door¶ 20
+¶when¶ ¶when¶ 20
+¶the¶ ¶the¶ 20
+¶door¶ ¶door¶ 20
+¶is¶ ¶is¶ 20
+¶closed¶ ¶closed¶ 20
+¶:¶ ¶:¶ 20
+¶say¶ ¶say¶ 20
+¶"X."¶ ¶"X."¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,29 @@
+18 words
+¶xanadu¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶definition¶ ¶:¶ ¶thing¶ ¶stately¶ ¶if¶ ¶its¶ ¶carrying¶ ¶capacity¶ ¶the¶ ¶score¶ ¶or¶ ¶more¶ 
+18 distinct words
+¶Xanadu¶ ¶xanadu¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Definition¶ ¶definition¶ 20
+¶:¶ ¶:¶ 20
+¶a¶ ¶a¶ 20
+¶thing¶ ¶thing¶ 20
+¶is¶ ¶is¶ 20
+¶stately¶ ¶stately¶ 20
+¶if¶ ¶if¶ 20
+¶its¶ ¶its¶ 20
+¶carrying¶ ¶carrying¶ 20
+¶capacity¶ ¶capacity¶ 20
+¶is¶ ¶is¶ 20
+¶the¶ ¶the¶ 20
+¶score¶ ¶score¶ 20
+¶or¶ ¶or¶ 20
+¶more¶ ¶more¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

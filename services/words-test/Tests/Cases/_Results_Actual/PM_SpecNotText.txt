@@ -1,0 +1,34 @@
+22 words
+¶king¶ ¶solomon's¶ ¶mine¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶volcano¶ ¶cup¶ ¶size¶ ¶kind¶ ¶of¶ ¶value¶ ¶the¶ ¶specification¶ ¶10¶ 
+17 distinct words
+¶King¶ ¶king¶ 0a
+¶Solomon's¶ ¶solomon's¶ 20
+¶Mine¶ ¶mine¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Volcano¶ ¶volcano¶ 20
+¶cup¶ ¶cup¶ 20
+¶size¶ ¶size¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶kind¶ ¶kind¶ 20
+¶of¶ ¶of¶ 20
+¶value¶ ¶value¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶specification¶ ¶specification¶ 20
+¶of¶ ¶of¶ 20
+¶volcano¶ ¶volcano¶ 20
+¶cup¶ ¶cup¶ 20
+¶size¶ ¶size¶ 20
+¶is¶ ¶is¶ 20
+¶10¶ ¶10¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

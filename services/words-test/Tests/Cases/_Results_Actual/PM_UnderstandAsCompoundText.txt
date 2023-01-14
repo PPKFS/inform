@@ -1,0 +1,19 @@
+13 words
+¶endless¶ ¶expanse¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶understand¶ ¶"burn [something]"¶ ¶as¶ ¶"burn [something preferably held]"¶ 
+11 distinct words
+¶Endless¶ ¶endless¶ 0a
+¶Expanse¶ ¶expanse¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Understand¶ ¶understand¶ 20
+¶"burn [something]"¶ ¶"burn [something]"¶ 20
+¶as¶ ¶as¶ 20
+¶"burn [something preferably held]"¶ ¶"burn [something preferably held]"¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,19 @@
+9 words
+¶dummy¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶trevor¶ ¶initially¶ ¶carries¶ ¶the¶ ¶fish¶ 
+11 distinct words
+¶Dummy¶ ¶dummy¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Trevor¶ ¶trevor¶ 20
+¶initially¶ ¶initially¶ 20
+¶carries¶ ¶carries¶ 20
+¶the¶ ¶the¶ 20
+¶fish¶ ¶fish¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

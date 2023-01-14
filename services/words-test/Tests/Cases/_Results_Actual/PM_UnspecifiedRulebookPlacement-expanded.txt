@@ -1,0 +1,32 @@
+23 words
+¶burrow¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶this¶ ¶the¶ ¶wombling¶ ¶rule¶ ¶:¶ ¶say¶ ¶"Remember you're a Womble."¶ ¶listed¶ ¶after¶ 
+15 distinct words
+¶Burrow¶ ¶burrow¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶This¶ ¶this¶ 20
+¶is¶ ¶is¶ 20
+¶the¶ ¶the¶ 20
+¶Wombling¶ ¶wombling¶ 20
+¶rule¶ ¶rule¶ 20
+¶:¶ ¶:¶ 20
+¶say¶ ¶say¶ 20
+¶"Remember you're a Womble."¶ ¶"Remember you're a Womble."¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶Wombling¶ ¶wombling¶ 20
+¶rule¶ ¶rule¶ 20
+¶is¶ ¶is¶ 20
+¶listed¶ ¶listed¶ 20
+¶after¶ ¶after¶ 20
+¶the¶ ¶the¶ 20
+¶Wombling¶ ¶wombling¶ 20
+¶rule¶ ¶rule¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

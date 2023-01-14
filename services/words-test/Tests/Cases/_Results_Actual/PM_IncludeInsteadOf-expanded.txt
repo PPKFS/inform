@@ -1,0 +1,34 @@
+12 words
+¶the¶ ¶french¶ ¶kitchen¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶include¶ ¶(-¶ ¶
+[ SquareRoot num;
+	"Nobody cares about square roots, son.";
+];
+¶ ¶instead¶ ¶of¶ ¶"Mathematics.i6t"¶ 
+14 distinct words
+¶The¶ ¶the¶ 0a
+¶French¶ ¶french¶ 20
+¶Kitchen¶ ¶kitchen¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Include¶ ¶include¶ 20
+¶(-¶ ¶(-¶ 20
+¶
+[ SquareRoot num;
+	"Nobody cares about square roots, son.";
+];
+¶ ¶
+[ SquareRoot num;
+	"Nobody cares about square roots, son.";
+];
+¶ 20
+¶instead¶ ¶instead¶ 20
+¶of¶ ¶of¶ 20
+¶"Mathematics.i6t"¶ ¶"Mathematics.i6t"¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

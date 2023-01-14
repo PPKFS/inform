@@ -1,0 +1,35 @@
+22 words
+¶inline¶ ¶arena¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶the¶ ¶restore¶ ¶game¶ ¶rule¶ ¶translates¶ ¶into¶ ¶i6¶ ¶as¶ ¶"RESTORE_THE_GAME_R"¶ ¶with¶ ¶"Restore failed."¶ ¶(¶ ¶)¶ ¶"Ok."¶ ¶b¶ 
+22 distinct words
+¶Inline¶ ¶inline¶ 0a
+¶Arena¶ ¶arena¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶restore¶ ¶restore¶ 20
+¶the¶ ¶the¶ 20
+¶game¶ ¶game¶ 20
+¶rule¶ ¶rule¶ 20
+¶translates¶ ¶translates¶ 20
+¶into¶ ¶into¶ 20
+¶I6¶ ¶i6¶ 20
+¶as¶ ¶as¶ 20
+¶"RESTORE_THE_GAME_R"¶ ¶"RESTORE_THE_GAME_R"¶ 20
+¶with¶ ¶with¶ 20
+¶"Restore failed."¶ ¶"Restore failed."¶ 41
+¶(¶ ¶(¶ 20
+¶A¶ ¶a¶ 20
+¶)¶ ¶)¶ 20
+¶with¶ ¶with¶ 20
+¶"Ok."¶ ¶"Ok."¶ 41
+¶(¶ ¶(¶ 20
+¶B¶ ¶b¶ 20
+¶)¶ ¶)¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

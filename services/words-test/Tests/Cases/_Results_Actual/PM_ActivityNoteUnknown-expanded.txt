@@ -1,0 +1,26 @@
+14 words
+¶xanadu¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶decreeing¶ ¶pleasure-domes¶ ¶(¶ ¶best¶ ¶left¶ ¶to¶ ¶the¶ ¶chinese¶ ¶)¶ ¶an¶ ¶activity¶ 
+17 distinct words
+¶Xanadu¶ ¶xanadu¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Decreeing¶ ¶decreeing¶ 20
+¶pleasure-domes¶ ¶pleasure-domes¶ 20
+¶(¶ ¶(¶ 20
+¶best¶ ¶best¶ 20
+¶left¶ ¶left¶ 20
+¶to¶ ¶to¶ 20
+¶the¶ ¶the¶ 20
+¶Chinese¶ ¶chinese¶ 20
+¶)¶ ¶)¶ 20
+¶is¶ ¶is¶ 20
+¶an¶ ¶an¶ 20
+¶activity¶ ¶activity¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,21 @@
+11 words
+¶the¶ ¶temple¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶11¶ ¶translates¶ ¶into¶ ¶french¶ ¶as¶ ¶onze¶ 
+13 distinct words
+¶The¶ ¶the¶ 0a
+¶Temple¶ ¶temple¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶11¶ ¶11¶ 20
+¶translates¶ ¶translates¶ 20
+¶into¶ ¶into¶ 20
+¶French¶ ¶french¶ 20
+¶as¶ ¶as¶ 20
+¶onze¶ ¶onze¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

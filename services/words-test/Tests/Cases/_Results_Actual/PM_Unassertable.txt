@@ -1,0 +1,16 @@
+8 words
+¶the¶ ¶kitchen¶ ¶is¶ ¶adjacent¶ ¶to¶ ¶dining¶ ¶room¶ ¶.¶ ¶|__¶ 
+9 distinct words
+¶The¶ ¶the¶ 0a
+¶Kitchen¶ ¶kitchen¶ 20
+¶is¶ ¶is¶ 20
+¶adjacent¶ ¶adjacent¶ 20
+¶to¶ ¶to¶ 20
+¶the¶ ¶the¶ 20
+¶Dining¶ ¶dining¶ 20
+¶Room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,24 @@
+14 words
+¶foo¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶blob¶ ¶kind¶ ¶of¶ ¶thing¶ ¶goo¶ ¶south¶ ¶|__¶ 
+12 distinct words
+¶Foo¶ ¶foo¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶A¶ ¶a¶ 0a
+¶blob¶ ¶blob¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶kind¶ ¶kind¶ 20
+¶of¶ ¶of¶ 20
+¶thing¶ ¶thing¶ 20
+¶.¶ ¶.¶ 20
+¶Goo¶ ¶goo¶ 0a
+¶is¶ ¶is¶ 20
+¶south¶ ¶south¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

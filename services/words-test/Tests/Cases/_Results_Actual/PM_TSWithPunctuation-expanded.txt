@@ -1,0 +1,60 @@
+29 words
+¶home¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶when¶ ¶play¶ ¶begins¶ ¶:¶ ¶say¶ ¶"Hello "¶ ¶,¶ ¶""¶ ¶;¶ ¶"Goodbye "¶ ¶" and"¶ ¶"Farewell "¶ ¶""¶ ¶table¶ ¶1.1¶ ¶-¶ ¶bogus¶ ¶hello¶ ¶there¶ ¶10¶ ¶12¶ ¶"Hello "¶ ¶""¶ 
+29 distinct words
+¶Home¶ ¶home¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶When¶ ¶when¶ 20
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶:¶ ¶:¶ 20
+¶say¶ ¶say¶ 20
+¶"Hello "¶ ¶"Hello "¶ 20
+¶,¶ ¶,¶ 20
+¶.¶ ¶.¶ 20
+¶,¶ ¶,¶ 20
+¶""¶ ¶""¶ 20
+¶;¶ ¶;¶ 20
+¶say¶ ¶say¶ 20
+¶"Goodbye "¶ ¶"Goodbye "¶ 20
+¶,¶ ¶,¶ 20
+¶;¶ ¶;¶ 20
+¶,¶ ¶,¶ 20
+¶" and"¶ ¶" and"¶ 20
+¶;¶ ¶;¶ 20
+¶say¶ ¶say¶ 20
+¶"Farewell "¶ ¶"Farewell "¶ 20
+¶,¶ ¶,¶ 20
+¶:¶ ¶:¶ 20
+¶,¶ ¶,¶ 20
+¶""¶ ¶""¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Table¶ ¶table¶ 20
+¶1.1¶ ¶1.1¶ 20
+¶-¶ ¶-¶ 20
+¶Bogus¶ ¶bogus¶ 20
+¶hello¶ ¶hello¶ 0a
+¶there¶ ¶there¶ 09
+¶10¶ ¶10¶ 0a
+¶12¶ ¶12¶ 09
+¶|__¶ ¶|__¶ 0a
+¶When¶ ¶when¶ 20
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶:¶ ¶:¶ 20
+¶say¶ ¶say¶ 20
+¶"Hello "¶ ¶"Hello "¶ 20
+¶,¶ ¶,¶ 20
+¶Table¶ ¶table¶ 20
+¶1.1¶ ¶1.1¶ 20
+¶,¶ ¶,¶ 20
+¶""¶ ¶""¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

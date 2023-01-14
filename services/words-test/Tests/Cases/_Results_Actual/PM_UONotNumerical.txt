@@ -1,0 +1,21 @@
+11 words
+¶xanadu¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶use¶ ¶american¶ ¶dialect¶ ¶of¶ ¶at¶ ¶least¶ ¶1000¶ 
+13 distinct words
+¶Xanadu¶ ¶xanadu¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Use¶ ¶use¶ 20
+¶American¶ ¶american¶ 20
+¶dialect¶ ¶dialect¶ 20
+¶of¶ ¶of¶ 20
+¶at¶ ¶at¶ 20
+¶least¶ ¶least¶ 20
+¶1000¶ ¶1000¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

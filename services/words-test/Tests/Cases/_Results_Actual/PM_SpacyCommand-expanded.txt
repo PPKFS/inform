@@ -1,0 +1,21 @@
+12 words
+¶lab¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶understand¶ ¶the¶ ¶command¶ ¶"two words"¶ ¶as¶ ¶something¶ ¶new¶ 
+13 distinct words
+¶Lab¶ ¶lab¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Understand¶ ¶understand¶ 20
+¶the¶ ¶the¶ 20
+¶command¶ ¶command¶ 20
+¶"two words"¶ ¶"two words"¶ 20
+¶as¶ ¶as¶ 20
+¶something¶ ¶something¶ 20
+¶new¶ ¶new¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

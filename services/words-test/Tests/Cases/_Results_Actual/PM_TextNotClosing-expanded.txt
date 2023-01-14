@@ -1,0 +1,16 @@
+12 words
+¶"Another Problematic One"¶ ¶|__¶ ¶"The Palace is open"¶ ¶the¶ ¶palace¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ 
+9 distinct words
+¶"Another Problematic One"¶ ¶"Another Problematic One"¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶"The Palace is open"¶ ¶"The Palace is open"¶ 20
+¶The¶ ¶the¶ 20
+¶Palace¶ ¶palace¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

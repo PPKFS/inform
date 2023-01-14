@@ -1,0 +1,22 @@
+12 words
+¶xanadu¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶release¶ ¶along¶ ¶with¶ ¶public¶ ¶existing¶ ¶story¶ ¶file¶ 
+13 distinct words
+¶Xanadu¶ ¶xanadu¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Release¶ ¶release¶ 20
+¶along¶ ¶along¶ 20
+¶with¶ ¶with¶ 20
+¶a¶ ¶a¶ 20
+¶public¶ ¶public¶ 20
+¶existing¶ ¶existing¶ 20
+¶story¶ ¶story¶ 20
+¶file¶ ¶file¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

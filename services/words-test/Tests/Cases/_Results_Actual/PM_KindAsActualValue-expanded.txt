@@ -1,0 +1,21 @@
+11 words
+¶this¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶persuasion¶ ¶kind¶ ¶of¶ ¶value¶ 
+10 distinct words
+¶This¶ ¶this¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶A¶ ¶a¶ 20
+¶persuasion¶ ¶persuasion¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶kind¶ ¶kind¶ 20
+¶of¶ ¶of¶ 20
+¶value¶ ¶value¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

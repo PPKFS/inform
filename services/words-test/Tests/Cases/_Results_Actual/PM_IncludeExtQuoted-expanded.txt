@@ -1,0 +1,20 @@
+10 words
+¶include¶ ¶"Plurality"¶ ¶by¶ ¶emily¶ ¶short¶ ¶.¶ ¶|__¶ ¶the¶ ¶cave¶ ¶is¶ ¶a¶ ¶room¶ 
+12 distinct words
+¶Include¶ ¶include¶ 0a
+¶"Plurality"¶ ¶"Plurality"¶ 20
+¶by¶ ¶by¶ 20
+¶Emily¶ ¶emily¶ 20
+¶Short¶ ¶short¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶cave¶ ¶cave¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

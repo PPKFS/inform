@@ -1,0 +1,29 @@
+19 words
+¶include¶ ¶when¶ ¶to¶ ¶the¶ ¶sessions¶ ¶of¶ ¶sweet¶ ¶silent¶ ¶thought¶ ¶i¶ ¶conjure¶ ¶up¶ ¶by¶ ¶araminta¶ ¶intest¶ ¶.¶ ¶|__¶ ¶xenon¶ ¶is¶ ¶a¶ ¶room¶ 
+21 distinct words
+¶Include¶ ¶include¶ 0a
+¶When¶ ¶when¶ 20
+¶To¶ ¶to¶ 20
+¶The¶ ¶the¶ 20
+¶Sessions¶ ¶sessions¶ 20
+¶Of¶ ¶of¶ 20
+¶Sweet¶ ¶sweet¶ 20
+¶Silent¶ ¶silent¶ 20
+¶Thought¶ ¶thought¶ 20
+¶I¶ ¶i¶ 20
+¶Conjure¶ ¶conjure¶ 20
+¶Up¶ ¶up¶ 20
+¶by¶ ¶by¶ 20
+¶Araminta¶ ¶araminta¶ 20
+¶Intest¶ ¶intest¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Xenon¶ ¶xenon¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

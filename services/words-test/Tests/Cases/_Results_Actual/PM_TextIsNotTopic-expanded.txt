@@ -1,0 +1,30 @@
+18 words
+¶place¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶when¶ ¶play¶ ¶begins¶ ¶:¶ ¶let¶ ¶changed¶ ¶subject¶ ¶be¶ ¶topic¶ ¶;¶ ¶now¶ ¶"fish"¶ 
+18 distinct words
+¶Place¶ ¶place¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶When¶ ¶when¶ 20
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶:¶ ¶:¶ 20
+¶let¶ ¶let¶ 41
+¶changed¶ ¶changed¶ 20
+¶subject¶ ¶subject¶ 20
+¶be¶ ¶be¶ 20
+¶a¶ ¶a¶ 20
+¶topic¶ ¶topic¶ 20
+¶;¶ ¶;¶ 20
+¶now¶ ¶now¶ 41
+¶changed¶ ¶changed¶ 20
+¶subject¶ ¶subject¶ 20
+¶is¶ ¶is¶ 20
+¶"fish"¶ ¶"fish"¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

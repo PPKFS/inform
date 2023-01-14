@@ -1,0 +1,18 @@
+9 words
+¶foo¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶every¶ ¶person¶ ¶wears¶ ¶|__¶ 
+9 distinct words
+¶Foo¶ ¶foo¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶Every¶ ¶every¶ 0a
+¶person¶ ¶person¶ 20
+¶wears¶ ¶wears¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

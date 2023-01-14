@@ -1,0 +1,24 @@
+17 words
+¶chapter¶ ¶1¶ ¶on¶ ¶certain¶ ¶magnetic¶ ¶phenomena¶ ¶et¶ ¶their¶ ¶explanation¶ ¶in¶ ¶terms¶ ¶of¶ ¶the¶ ¶divine¶ ¶spirit¶ ¶potatoes¶ ¶|__¶ 
+17 distinct words
+¶Chapter¶ ¶chapter¶ 0a
+¶1¶ ¶1¶ 20
+¶On¶ ¶on¶ 20
+¶Certain¶ ¶certain¶ 20
+¶Magnetic¶ ¶magnetic¶ 20
+¶Phenomena¶ ¶phenomena¶ 20
+¶Et¶ ¶et¶ 20
+¶Their¶ ¶their¶ 20
+¶Explanation¶ ¶explanation¶ 20
+¶In¶ ¶in¶ 20
+¶Terms¶ ¶terms¶ 20
+¶Of¶ ¶of¶ 0a
+¶The¶ ¶the¶ 20
+¶Divine¶ ¶divine¶ 20
+¶Spirit¶ ¶spirit¶ 20
+¶Of¶ ¶of¶ 20
+¶Potatoes¶ ¶potatoes¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

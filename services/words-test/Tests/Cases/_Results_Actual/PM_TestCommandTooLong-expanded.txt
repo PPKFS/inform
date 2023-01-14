@@ -1,0 +1,39 @@
+27 words
+¶lab¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶test¶ ¶me¶ ¶with¶ ¶"i/z/take inventory/take inventory/take inventory/take
+inventory/take inventory/take inventory/take inventory/take inventory/take
+inventory/take inventory/take inventory/take inventory/take inventory/take
+inventory/take inventory/take inventory/take
+kjghhhhhhhhhhhhhhkjhgkjhgkjhgkjggggggggggggggggggggggjjjjjjjjjjjjjjjjjjjjjj
+jjjjjjjjjjjjjjjjjjjjjghgkjg lkhlkjhlkjhlhj
+.kjh;ljh;lkj;lkj;lkj;lkj;lkj;lkj;lkj;lkj;lkj;lkj;lkj;lkj inventory/take
+inventory/take inventory/take inventory/take inventory/take inventory"¶ 
+10 distinct words
+¶Lab¶ ¶lab¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Test¶ ¶test¶ 20
+¶me¶ ¶me¶ 20
+¶with¶ ¶with¶ 20
+¶"i/z/take inventory/take inventory/take inventory/take
+inventory/take inventory/take inventory/take inventory/take inventory/take
+inventory/take inventory/take inventory/take inventory/take inventory/take
+inventory/take inventory/take inventory/take
+kjghhhhhhhhhhhhhhkjhgkjhgkjhgkjggggggggggggggggggggggjjjjjjjjjjjjjjjjjjjjjj
+jjjjjjjjjjjjjjjjjjjjjghgkjg lkhlkjhlkjhlhj
+.kjh;ljh;lkj;lkj;lkj;lkj;lkj;lkj;lkj;lkj;lkj;lkj;lkj;lkj inventory/take
+inventory/take inventory/take inventory/take inventory/take inventory"¶ ¶"i/z/take inventory/take inventory/take inventory/take
+inventory/take inventory/take inventory/take inventory/take inventory/take
+inventory/take inventory/take inventory/take inventory/take inventory/take
+inventory/take inventory/take inventory/take
+kjghhhhhhhhhhhhhhkjhgkjhgkjhgkjggggggggggggggggggggggjjjjjjjjjjjjjjjjjjjjjj
+jjjjjjjjjjjjjjjjjjjjjghgkjg lkhlkjhlkjhlhj
+.kjh;ljh;lkj;lkj;lkj;lkj;lkj;lkj;lkj;lkj;lkj;lkj;lkj;lkj inventory/take
+inventory/take inventory/take inventory/take inventory/take inventory"¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

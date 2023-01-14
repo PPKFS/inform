@@ -1,0 +1,35 @@
+23 words
+¶the¶ ¶taj¶ ¶mahal¶ ¶and¶ ¶grassy¶ ¶slope¶ ¶are¶ ¶rooms¶ ¶.¶ ¶|__¶ ¶cyberman¶ ¶is¶ ¶a¶ ¶device¶ ¶index¶ ¶map¶ ¶with¶ ¶mapped¶ ¶east¶ ¶of¶ 
+20 distinct words
+¶The¶ ¶the¶ 0a
+¶Taj¶ ¶taj¶ 20
+¶Mahal¶ ¶mahal¶ 20
+¶and¶ ¶and¶ 20
+¶the¶ ¶the¶ 20
+¶Grassy¶ ¶grassy¶ 20
+¶Slope¶ ¶slope¶ 20
+¶are¶ ¶are¶ 20
+¶rooms¶ ¶rooms¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶Cyberman¶ ¶cyberman¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶device¶ ¶device¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Index¶ ¶index¶ 20
+¶map¶ ¶map¶ 20
+¶with¶ ¶with¶ 20
+¶Grassy¶ ¶grassy¶ 20
+¶Slope¶ ¶slope¶ 20
+¶mapped¶ ¶mapped¶ 20
+¶east¶ ¶east¶ 20
+¶of¶ ¶of¶ 20
+¶Cyberman¶ ¶cyberman¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

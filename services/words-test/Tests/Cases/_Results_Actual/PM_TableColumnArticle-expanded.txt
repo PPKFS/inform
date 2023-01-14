@@ -1,0 +1,20 @@
+11 words
+¶table¶ ¶of¶ ¶despair¶ ¶a¶ ¶|__¶ ¶the¶ ¶room¶ ¶failure¶ ¶is¶ ¶.¶ 
+10 distinct words
+¶Table¶ ¶table¶ 0a
+¶of¶ ¶of¶ 20
+¶Despair¶ ¶despair¶ 20
+¶a¶ ¶a¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶Room¶ ¶room¶ 20
+¶of¶ ¶of¶ 20
+¶Failure¶ ¶failure¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,18 @@
+8 words
+¶xanadu¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶use¶ ¶where_alph_the_sacred_river_ran_down_through_caverns_etc_to_a_sunless_sea¶ ¶of¶ ¶1500¶ 
+10 distinct words
+¶Xanadu¶ ¶xanadu¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Use¶ ¶use¶ 20
+¶WHERE_ALPH_THE_SACRED_RIVER_RAN_DOWN_THROUGH_CAVERNS_ETC_TO_A_SUNLESS_SEA¶ ¶where_alph_the_sacred_river_ran_down_through_caverns_etc_to_a_sunless_sea¶ 20
+¶of¶ ¶of¶ 20
+¶1500¶ ¶1500¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

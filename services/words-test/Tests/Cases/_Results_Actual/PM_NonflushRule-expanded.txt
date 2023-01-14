@@ -1,0 +1,36 @@
+27 words
+¶the¶ ¶east¶ ¶bay¶ ¶is¶ ¶from¶ ¶west¶ ¶.¶ ¶before¶ ¶going¶ ¶in¶ ¶:¶ ¶if¶ ¶player¶ ¶had¶ ¶been¶ ¶holding¶ ¶something¶ ¶say¶ ¶"Not so fast!"¶ ¶instead¶ ¶|__¶ 
+21 distinct words
+¶The¶ ¶the¶ 0a
+¶East¶ ¶east¶ 20
+¶Bay¶ ¶bay¶ 20
+¶is¶ ¶is¶ 20
+¶east¶ ¶east¶ 20
+¶from¶ ¶from¶ 20
+¶the¶ ¶the¶ 20
+¶West¶ ¶west¶ 20
+¶Bay¶ ¶bay¶ 20
+¶.¶ ¶.¶ 20
+¶Before¶ ¶before¶ 41
+¶going¶ ¶going¶ 20
+¶in¶ ¶in¶ 20
+¶the¶ ¶the¶ 20
+¶East¶ ¶east¶ 20
+¶Bay¶ ¶bay¶ 20
+¶:¶ ¶:¶ 20
+¶if¶ ¶if¶ 42
+¶the¶ ¶the¶ 20
+¶player¶ ¶player¶ 20
+¶had¶ ¶had¶ 20
+¶been¶ ¶been¶ 20
+¶holding¶ ¶holding¶ 20
+¶something¶ ¶something¶ 20
+¶:¶ ¶:¶ 20
+¶say¶ ¶say¶ 43
+¶"Not so fast!"¶ ¶"Not so fast!"¶ 20
+¶instead¶ ¶instead¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

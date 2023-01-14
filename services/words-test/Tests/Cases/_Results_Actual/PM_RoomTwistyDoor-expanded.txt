@@ -1,0 +1,29 @@
+19 words
+¶a¶ ¶doorway¶ ¶is¶ ¶door¶ ¶.¶ ¶it¶ ¶west¶ ¶from¶ ¶the¶ ¶treasure¶ ¶room¶ ¶passageway¶ ¶east¶ ¶|__¶ 
+14 distinct words
+¶A¶ ¶a¶ 0a
+¶doorway¶ ¶doorway¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶door¶ ¶door¶ 20
+¶.¶ ¶.¶ 20
+¶It¶ ¶it¶ 20
+¶is¶ ¶is¶ 20
+¶west¶ ¶west¶ 20
+¶from¶ ¶from¶ 20
+¶the¶ ¶the¶ 20
+¶Treasure¶ ¶treasure¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶The¶ ¶the¶ 0a
+¶Passageway¶ ¶passageway¶ 20
+¶is¶ ¶is¶ 20
+¶east¶ ¶east¶ 20
+¶from¶ ¶from¶ 20
+¶the¶ ¶the¶ 20
+¶doorway¶ ¶doorway¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,41 @@
+32 words
+¶the¶ ¶admiralty¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶ship¶ ¶kind¶ ¶of¶ ¶vehicle¶ ¶some¶ ¶ships¶ ¶are¶ ¶defined¶ ¶by¶ ¶table¶ ¶1¶ ¶|__¶ ¶-¶ ¶vessels¶ ¶rate¶ ¶commander¶ ¶stuff¶ ¶yeah¶ ¶"Captain Meldrew"¶ ¶b¶ ¶"v"¶ ¶"Commodore Short"¶ 
+28 distinct words
+¶The¶ ¶the¶ 0a
+¶Admiralty¶ ¶admiralty¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶Ship¶ ¶ship¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶kind¶ ¶kind¶ 20
+¶of¶ ¶of¶ 20
+¶vehicle¶ ¶vehicle¶ 20
+¶.¶ ¶.¶ 20
+¶Some¶ ¶some¶ 20
+¶ships¶ ¶ships¶ 20
+¶are¶ ¶are¶ 20
+¶defined¶ ¶defined¶ 20
+¶by¶ ¶by¶ 0a
+¶Table¶ ¶table¶ 20
+¶1¶ ¶1¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Table¶ ¶table¶ 20
+¶1¶ ¶1¶ 20
+¶-¶ ¶-¶ 20
+¶Vessels¶ ¶vessels¶ 20
+¶rate¶ ¶rate¶ 0a
+¶commander¶ ¶commander¶ 09
+¶stuff¶ ¶stuff¶ 0a
+¶yeah¶ ¶yeah¶ 20
+¶"Captain Meldrew"¶ ¶"Captain Meldrew"¶ 09
+¶b¶ ¶b¶ 0a
+¶"v"¶ ¶"v"¶ 20
+¶"Commodore Short"¶ ¶"Commodore Short"¶ 09
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

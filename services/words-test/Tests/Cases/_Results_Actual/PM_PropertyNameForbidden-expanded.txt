@@ -1,0 +1,31 @@
+24 words
+¶the¶ ¶garage¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶game¶ ¶kind¶ ¶of¶ ¶thing¶ ¶has¶ ¶text¶ ¶called¶ ¶"BUG: game has no title"¶ 
+15 distinct words
+¶The¶ ¶the¶ 0a
+¶Garage¶ ¶garage¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶A¶ ¶a¶ 20
+¶game¶ ¶game¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶kind¶ ¶kind¶ 20
+¶of¶ ¶of¶ 20
+¶a¶ ¶a¶ 20
+¶thing¶ ¶thing¶ 20
+¶.¶ ¶.¶ 20
+¶A¶ ¶a¶ 0a
+¶game¶ ¶game¶ 20
+¶has¶ ¶has¶ 20
+¶a¶ ¶a¶ 20
+¶text¶ ¶text¶ 20
+¶called¶ ¶called¶ 20
+¶"BUG: game has no title"¶ ¶"BUG: game has no title"¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

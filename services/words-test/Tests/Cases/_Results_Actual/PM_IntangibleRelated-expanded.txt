@@ -1,0 +1,13 @@
+5 words
+¶in¶ ¶the¶ ¶box¶ ¶is¶ ¶closed¶ ¶.¶ ¶|__¶ 
+7 distinct words
+¶In¶ ¶in¶ 0a
+¶the¶ ¶the¶ 20
+¶box¶ ¶box¶ 20
+¶is¶ ¶is¶ 20
+¶closed¶ ¶closed¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,28 @@
+18 words
+¶the¶ ¶kitchen¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶cooker¶ ¶kind¶ ¶of¶ ¶thing¶ ¶can¶ ¶be¶ ¶supporter¶ ¶|__¶ 
+14 distinct words
+¶The¶ ¶the¶ 0a
+¶Kitchen¶ ¶kitchen¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶A¶ ¶a¶ 20
+¶cooker¶ ¶cooker¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶kind¶ ¶kind¶ 20
+¶of¶ ¶of¶ 20
+¶thing¶ ¶thing¶ 20
+¶.¶ ¶.¶ 20
+¶A¶ ¶a¶ 20
+¶cooker¶ ¶cooker¶ 20
+¶can¶ ¶can¶ 20
+¶be¶ ¶be¶ 20
+¶a¶ ¶a¶ 20
+¶supporter¶ ¶supporter¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

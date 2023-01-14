@@ -1,0 +1,22 @@
+11 words
+¶cygnus¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶when¶ ¶play¶ ¶begins¶ ¶:¶ ¶try¶ ¶arfle¶ ¶barfle¶ ¶gloop¶ 
+14 distinct words
+¶Cygnus¶ ¶cygnus¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶When¶ ¶when¶ 20
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶:¶ ¶:¶ 20
+¶try¶ ¶try¶ 41
+¶arfle¶ ¶arfle¶ 20
+¶barfle¶ ¶barfle¶ 20
+¶gloop¶ ¶gloop¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,21 @@
+11 words
+¶there¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶enunciating¶ ¶something¶ ¶an¶ ¶activity¶ ¶on¶ ¶values¶ 
+12 distinct words
+¶There¶ ¶there¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Enunciating¶ ¶enunciating¶ 20
+¶something¶ ¶something¶ 20
+¶is¶ ¶is¶ 20
+¶an¶ ¶an¶ 20
+¶activity¶ ¶activity¶ 20
+¶on¶ ¶on¶ 20
+¶values¶ ¶values¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

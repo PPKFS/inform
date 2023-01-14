@@ -1,0 +1,37 @@
+23 words
+¶home¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶when¶ ¶play¶ ¶begins¶ ¶:¶ ¶if¶ ¶1¶ ¶2¶ ¶begin¶ ¶;¶ ¶say¶ ¶"yes"¶ ¶end¶ ¶while¶ ¶"oh yes"¶ 
+20 distinct words
+¶Home¶ ¶home¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶When¶ ¶when¶ 20
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶:¶ ¶:¶ 20
+¶if¶ ¶if¶ 41
+¶1¶ ¶1¶ 20
+¶is¶ ¶is¶ 20
+¶2¶ ¶2¶ 20
+¶begin¶ ¶begin¶ 20
+¶;¶ ¶;¶ 20
+¶say¶ ¶say¶ 42
+¶"yes"¶ ¶"yes"¶ 20
+¶;¶ ¶;¶ 20
+¶end¶ ¶end¶ 41
+¶if¶ ¶if¶ 20
+¶;¶ ¶;¶ 20
+¶while¶ ¶while¶ 41
+¶1¶ ¶1¶ 20
+¶is¶ ¶is¶ 20
+¶2¶ ¶2¶ 20
+¶:¶ ¶:¶ 20
+¶say¶ ¶say¶ 42
+¶"oh yes"¶ ¶"oh yes"¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

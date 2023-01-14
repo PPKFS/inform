@@ -1,0 +1,24 @@
+13 words
+¶the¶ ¶admiralty¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶table¶ ¶of¶ ¶vessels¶ ¶(¶ ¶continued¶ ¶)¶ ¶ship¶ ¶rate¶ ¶"Euryalus"¶ ¶6¶ 
+17 distinct words
+¶The¶ ¶the¶ 0a
+¶Admiralty¶ ¶admiralty¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Table¶ ¶table¶ 20
+¶of¶ ¶of¶ 20
+¶Vessels¶ ¶vessels¶ 20
+¶(¶ ¶(¶ 20
+¶continued¶ ¶continued¶ 20
+¶)¶ ¶)¶ 20
+¶ship¶ ¶ship¶ 0a
+¶rate¶ ¶rate¶ 09
+¶"Euryalus"¶ ¶"Euryalus"¶ 0a
+¶6¶ ¶6¶ 09
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

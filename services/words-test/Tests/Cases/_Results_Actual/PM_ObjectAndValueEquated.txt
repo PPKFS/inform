@@ -1,0 +1,33 @@
+19 words
+¶this¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶persuasion¶ ¶kind¶ ¶of¶ ¶value¶ ¶the¶ ¶rules¶ ¶are¶ ¶convinced¶ ¶,¶ ¶leaning¶ ¶and¶ ¶unconvinced¶ 
+18 distinct words
+¶This¶ ¶this¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶A¶ ¶a¶ 20
+¶persuasion¶ ¶persuasion¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶kind¶ ¶kind¶ 20
+¶of¶ ¶of¶ 20
+¶value¶ ¶value¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶persuasion¶ ¶persuasion¶ 20
+¶rules¶ ¶rules¶ 20
+¶are¶ ¶are¶ 20
+¶convinced¶ ¶convinced¶ 20
+¶,¶ ¶,¶ 20
+¶leaning¶ ¶leaning¶ 20
+¶,¶ ¶,¶ 20
+¶and¶ ¶and¶ 20
+¶unconvinced¶ ¶unconvinced¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

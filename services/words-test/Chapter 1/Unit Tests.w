@@ -7,25 +7,88 @@ How we shall test it.
 @d SPOTTED_MC 0x00010000
 
 =
-void Unit::test_lexer(text_stream *arg) {
+
+source_file *Unit::feed_open_file_into_lexer_full
+
+(filename *F, FILE *handle,
+    text_stream *leaf, int documentation_only, general_pointer ref, int expand) {
+    source_file *sf = CREATE(source_file);
+    sf->words_of_source = 0;
+    sf->words_of_quoted_text = 0;
+    sf->your_ref = ref;
+    sf->name = F;
+    sf->handle = handle;
+    source_location top_of_file;
+    int cr, last_cr, next_cr, read_cr, newline_char = 0;
+
+    unicode_file_buffer ufb = TextFiles::create_ufb();
+
+    top_of_file.file_of_origin = sf;
+    top_of_file.line_number = 1;
+
+    Lexer::feed_begins(top_of_file);
+		if (expand) lexer_divide_strings_at_text_substitutions = TRUE;
+    if (documentation_only) lexer_wait_for_dashes = TRUE;
+
+    last_cr = ' '; cr = ' '; next_cr = TextFiles::utf8_fgetc(sf->handle, NULL, TRUE, &ufb);
+    if (next_cr == 0xFEFF) next_cr = TextFiles::utf8_fgetc(sf->handle, NULL, TRUE, &ufb);
+    if (next_cr != EOF)
+        while (((read_cr = TextFiles::utf8_fgetc(sf->handle, NULL, TRUE, &ufb)), next_cr) != EOF) {
+            last_cr = cr; cr = next_cr; next_cr = read_cr;
+            switch(cr) {
+                case '\x0a':
+                    if (newline_char == '\x0d') {
+                        newline_char = 0; continue;
+                    }
+                    newline_char = cr; cr = '\n';
+                    break;
+                case '\x0d':
+                    if (newline_char == '\x0a') {
+                        newline_char = 0; continue;
+                    }
+                    newline_char = cr; cr = '\n';
+                    break;
+                default:
+                    newline_char = 0;
+                    break;
+            }
+            Lexer::feed_triplet(last_cr, cr, next_cr);
+        }
+
+    sf->text_read = Lexer::feed_ends(TRUE, leaf);
+
+    LOOP_THROUGH_WORDING(wc, sf->text_read)
+        sf->words_of_source += TextFromFiles::word_count(wc);
+    return sf;
+}
+
+source_file *Unit::feed_into_lexer_full(filename *F, general_pointer ref, int expand) {
+    FILE *handle = Filenames::fopen(F, "r");
+    if (handle == NULL) return NULL;
+    source_file *sf = Unit::feed_open_file_into_lexer_full(F, handle,
+        Filenames::get_leafname(F), FALSE, ref, expand);
+    fclose(handle);
+    return sf;
+}
+
+void Unit::test_lexer(text_stream *arg, int expand) {
 	filename *F = Filenames::from_text(arg);
-	source_file *sf = TextFromFiles::feed_into_lexer(F, NULL_GENERAL_POINTER);
+	source_file *sf = Unit::feed_into_lexer_full(F, NULL_GENERAL_POINTER, expand);
 	if (sf == NULL) PRINT("File has failed to open\n");
 	else {
-		PRINT("File contained %d lexer words\nWord counted at %d\n",
-			Wordings::length(sf->text_read), sf->words_of_source);
+		PRINT("%d words\n", sf->words_of_source);
 		int c = 0;
 		LOOP_THROUGH_WORDING(wn, sf->text_read) {
 			vocabulary_entry *ve = Lexer::word(wn);
 			if ((ve) && (Vocabulary::test_vflags(ve, SPOTTED_MC) == 0)) {
-				PRINT("%w ", ve->exemplar);
+				PRINT("¶%w¶ ", ve->exemplar);
 				Vocabulary::set_flags(ve, SPOTTED_MC);
 				c++;
 			}
 		}
-		PRINT("\n");
-		PRINT("File contained %d distinct words\n", c);
 	}
+    for (int i=0; i<lexer_wordcount; i++)
+        PRINT("¶%+N¶ ¶%N¶ %02x\n", i, i, Lexer::break_before(i));
 }
 
 @h Preform.

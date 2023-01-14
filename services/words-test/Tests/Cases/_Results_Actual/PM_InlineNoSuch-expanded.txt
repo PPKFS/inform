@@ -1,0 +1,45 @@
+20 words
+¶inline¶ ¶arena¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶to¶ ¶go¶ ¶awry¶ ¶(¶ ¶n¶ ¶-¶ ¶number¶ ¶)¶ ¶:¶ ¶(-¶ ¶
+		{-unprotect:N};
+		{-show-me:blobby};
+	¶ ¶when¶ ¶play¶ ¶begins¶ ¶21¶ 
+22 distinct words
+¶Inline¶ ¶inline¶ 0a
+¶Arena¶ ¶arena¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶To¶ ¶to¶ 20
+¶go¶ ¶go¶ 20
+¶awry¶ ¶awry¶ 20
+¶(¶ ¶(¶ 20
+¶N¶ ¶n¶ 20
+¶-¶ ¶-¶ 20
+¶a¶ ¶a¶ 20
+¶number¶ ¶number¶ 20
+¶)¶ ¶)¶ 20
+¶:¶ ¶:¶ 20
+¶(-¶ ¶(-¶ 20
+¶
+		{-unprotect:N};
+		{-show-me:blobby};
+	¶ ¶
+		{-unprotect:N};
+		{-show-me:blobby};
+	¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶When¶ ¶when¶ 20
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶:¶ ¶:¶ 20
+¶go¶ ¶go¶ 41
+¶awry¶ ¶awry¶ 20
+¶21¶ ¶21¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

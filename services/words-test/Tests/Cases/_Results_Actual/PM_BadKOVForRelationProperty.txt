@@ -1,0 +1,27 @@
+15 words
+¶xanadu¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶acquaintance¶ ¶relates¶ ¶one¶ ¶person¶ ¶(¶ ¶called¶ ¶the¶ ¶carrying¶ ¶capacity¶ ¶)¶ ¶to¶ ¶various¶ ¶people¶ 
+19 distinct words
+¶Xanadu¶ ¶xanadu¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Acquaintance¶ ¶acquaintance¶ 20
+¶relates¶ ¶relates¶ 20
+¶one¶ ¶one¶ 20
+¶person¶ ¶person¶ 20
+¶(¶ ¶(¶ 20
+¶called¶ ¶called¶ 20
+¶the¶ ¶the¶ 20
+¶carrying¶ ¶carrying¶ 20
+¶capacity¶ ¶capacity¶ 20
+¶)¶ ¶)¶ 20
+¶to¶ ¶to¶ 20
+¶various¶ ¶various¶ 20
+¶people¶ ¶people¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,16 @@
+words-test: Quoted text never ends: PM_UnendingQuote.txt
+18 words
+¶"Test of a Problem"¶ ¶by¶ ¶dr¶ ¶evil¶ ¶|__¶ ¶"This is a quote which never ends "¶ ¶,¶ ¶though¶ ¶a¶ ¶substitution¶ ¶does¶ 
+11 distinct words
+¶"Test of a Problem"¶ ¶"Test of a Problem"¶ 0a
+¶by¶ ¶by¶ 20
+¶Dr¶ ¶dr¶ 20
+¶Evil¶ ¶evil¶ 20
+¶|__¶ ¶|__¶ 0a
+¶"This is a quote which never ends "¶ ¶"This is a quote which never ends "¶ 20
+¶,¶ ¶,¶ 20
+¶though¶ ¶though¶ 20
+¶a¶ ¶a¶ 20
+¶substitution¶ ¶substitution¶ 20
+¶does¶ ¶does¶ 20
+¶,¶ ¶,¶ 20

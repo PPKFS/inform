@@ -1,0 +1,20 @@
+11 words
+¶there¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶the¶ ¶every¶ ¶turn¶ ¶rulebook¶ ¶has¶ ¶an¶ ¶object¶ ¶|__¶ 
+13 distinct words
+¶There¶ ¶there¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶The¶ ¶the¶ 0a
+¶every¶ ¶every¶ 20
+¶turn¶ ¶turn¶ 20
+¶rulebook¶ ¶rulebook¶ 20
+¶has¶ ¶has¶ 20
+¶an¶ ¶an¶ 20
+¶object¶ ¶object¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

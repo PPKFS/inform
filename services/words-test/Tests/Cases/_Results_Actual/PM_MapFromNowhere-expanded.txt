@@ -1,0 +1,30 @@
+20 words
+¶the¶ ¶bedroom¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶door¶ ¶called¶ ¶north¶ ¶of¶ ¶and¶ ¶south¶ ¶nowhere¶ 
+14 distinct words
+¶The¶ ¶the¶ 0a
+¶bedroom¶ ¶bedroom¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶A¶ ¶a¶ 20
+¶door¶ ¶door¶ 20
+¶called¶ ¶called¶ 20
+¶the¶ ¶the¶ 20
+¶bedroom¶ ¶bedroom¶ 20
+¶door¶ ¶door¶ 20
+¶is¶ ¶is¶ 20
+¶north¶ ¶north¶ 20
+¶of¶ ¶of¶ 20
+¶the¶ ¶the¶ 20
+¶bedroom¶ ¶bedroom¶ 20
+¶and¶ ¶and¶ 20
+¶south¶ ¶south¶ 20
+¶of¶ ¶of¶ 20
+¶nowhere¶ ¶nowhere¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,25 @@
+15 words
+¶more¶ ¶than¶ ¶three¶ ¶people¶ ¶are¶ ¶in¶ ¶the¶ ¶dining¶ ¶room¶ ¶.¶ ¶|__¶ ¶none¶ ¶of¶ ¶doors¶ ¶is¶ ¶open¶ 
+16 distinct words
+¶More¶ ¶more¶ 0a
+¶than¶ ¶than¶ 20
+¶three¶ ¶three¶ 20
+¶people¶ ¶people¶ 20
+¶are¶ ¶are¶ 20
+¶in¶ ¶in¶ 20
+¶the¶ ¶the¶ 20
+¶Dining¶ ¶dining¶ 20
+¶Room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶None¶ ¶none¶ 20
+¶of¶ ¶of¶ 20
+¶the¶ ¶the¶ 20
+¶doors¶ ¶doors¶ 20
+¶is¶ ¶is¶ 20
+¶open¶ ¶open¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

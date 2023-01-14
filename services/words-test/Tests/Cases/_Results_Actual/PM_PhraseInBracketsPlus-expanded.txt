@@ -1,0 +1,43 @@
+18 words
+¶the¶ ¶lab¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶to¶ ¶decide¶ ¶which¶ ¶number¶ ¶magic¶ ¶:¶ ¶(-¶ ¶ 35638 ¶ ¶include¶ ¶
+[ foo_func x;
+	x = (+ the magic number +);
+];
+¶ 
+17 distinct words
+¶The¶ ¶the¶ 0a
+¶lab¶ ¶lab¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶To¶ ¶to¶ 20
+¶decide¶ ¶decide¶ 20
+¶which¶ ¶which¶ 20
+¶number¶ ¶number¶ 20
+¶is¶ ¶is¶ 20
+¶the¶ ¶the¶ 20
+¶magic¶ ¶magic¶ 20
+¶number¶ ¶number¶ 20
+¶:¶ ¶:¶ 20
+¶(-¶ ¶(-¶ 41
+¶ 35638 ¶ ¶ 35638 ¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Include¶ ¶include¶ 20
+¶(-¶ ¶(-¶ 20
+¶
+[ foo_func x;
+	x = (+ the magic number +);
+];
+¶ ¶
+[ foo_func x;
+	x = (+ the magic number +);
+];
+¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,25 @@
+15 words
+¶the¶ ¶building¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶in¶ ¶person¶ ¶called¶ ¶wallace¶ ¶,¶ ¶gromit¶ ¶too¶ ¶|__¶ 
+14 distinct words
+¶The¶ ¶the¶ 0a
+¶Building¶ ¶building¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶In¶ ¶in¶ 20
+¶the¶ ¶the¶ 20
+¶Building¶ ¶building¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶person¶ ¶person¶ 20
+¶called¶ ¶called¶ 20
+¶Wallace¶ ¶wallace¶ 20
+¶,¶ ¶,¶ 20
+¶Gromit¶ ¶gromit¶ 20
+¶Too¶ ¶too¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

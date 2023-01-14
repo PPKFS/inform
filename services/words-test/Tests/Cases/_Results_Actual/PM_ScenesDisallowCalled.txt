@@ -1,0 +1,36 @@
+23 words
+¶eynforme¶ ¶halt¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶train¶ ¶stop¶ ¶scene¶ ¶|__¶ ¶begins¶ ¶when¶ ¶person¶ ¶(¶ ¶called¶ ¶the¶ ¶passenger¶ ¶)¶ ¶in¶ 
+19 distinct words
+¶Eynforme¶ ¶eynforme¶ 0a
+¶Halt¶ ¶halt¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶Train¶ ¶train¶ 20
+¶Stop¶ ¶stop¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶scene¶ ¶scene¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Train¶ ¶train¶ 20
+¶Stop¶ ¶stop¶ 20
+¶begins¶ ¶begins¶ 20
+¶when¶ ¶when¶ 20
+¶a¶ ¶a¶ 20
+¶person¶ ¶person¶ 20
+¶(¶ ¶(¶ 20
+¶called¶ ¶called¶ 20
+¶the¶ ¶the¶ 20
+¶passenger¶ ¶passenger¶ 20
+¶)¶ ¶)¶ 20
+¶is¶ ¶is¶ 20
+¶in¶ ¶in¶ 20
+¶Eynforme¶ ¶eynforme¶ 20
+¶Halt¶ ¶halt¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,37 @@
+23 words
+¶the¶ ¶one¶ ¶room¶ ¶is¶ ¶a¶ ¶.¶ ¶|__¶ ¶sunrise¶ ¶time¶ ¶variable¶ ¶5:34¶ ¶am¶ ¶dawn¶ 
+13 distinct words
+¶The¶ ¶the¶ 0a
+¶One¶ ¶one¶ 20
+¶Room¶ ¶room¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Sunrise¶ ¶sunrise¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶time¶ ¶time¶ 20
+¶variable¶ ¶variable¶ 20
+¶.¶ ¶.¶ 20
+¶Sunrise¶ ¶sunrise¶ 20
+¶is¶ ¶is¶ 20
+¶5:34¶ ¶5:34¶ 20
+¶am¶ ¶am¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Dawn¶ ¶dawn¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶time¶ ¶time¶ 20
+¶variable¶ ¶variable¶ 20
+¶.¶ ¶.¶ 20
+¶Dawn¶ ¶dawn¶ 20
+¶is¶ ¶is¶ 20
+¶Sunrise¶ ¶sunrise¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

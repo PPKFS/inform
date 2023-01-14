@@ -1,0 +1,26 @@
+16 words
+¶the¶ ¶mona¶ ¶lisa¶ ¶is¶ ¶in¶ ¶louvre¶ ¶.¶ ¶|__¶ ¶a¶ ¶renaissance¶ ¶portrait¶ ¶kind¶ ¶of¶ 
+13 distinct words
+¶The¶ ¶the¶ 0a
+¶Mona¶ ¶mona¶ 20
+¶Lisa¶ ¶lisa¶ 20
+¶is¶ ¶is¶ 20
+¶in¶ ¶in¶ 20
+¶the¶ ¶the¶ 20
+¶Louvre¶ ¶louvre¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶A¶ ¶a¶ 20
+¶Renaissance¶ ¶renaissance¶ 20
+¶portrait¶ ¶portrait¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶kind¶ ¶kind¶ 20
+¶of¶ ¶of¶ 20
+¶Mona¶ ¶mona¶ 20
+¶Lisa¶ ¶lisa¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,17 @@
+9 words
+¶the¶ ¶solomon¶ ¶islands¶ ¶does¶ ¶not¶ ¶have¶ ¶an¶ ¶air¶ ¶force¶ ¶.¶ ¶|__¶ 
+11 distinct words
+¶The¶ ¶the¶ 0a
+¶Solomon¶ ¶solomon¶ 20
+¶Islands¶ ¶islands¶ 20
+¶does¶ ¶does¶ 20
+¶not¶ ¶not¶ 20
+¶have¶ ¶have¶ 20
+¶an¶ ¶an¶ 20
+¶air¶ ¶air¶ 20
+¶force¶ ¶force¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

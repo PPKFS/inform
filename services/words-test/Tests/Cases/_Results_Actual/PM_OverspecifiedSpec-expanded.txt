@@ -1,0 +1,44 @@
+36 words
+¶the¶ ¶train¶ ¶yard¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶power¶ ¶line¶ ¶backdrop¶ ¶in¶ ¶description¶ ¶of¶ ¶"This is a power line."¶ 
+15 distinct words
+¶The¶ ¶the¶ 0a
+¶Train¶ ¶train¶ 20
+¶Yard¶ ¶yard¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶power¶ ¶power¶ 20
+¶line¶ ¶line¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶backdrop¶ ¶backdrop¶ 20
+¶.¶ ¶.¶ 20
+¶The¶ ¶the¶ 20
+¶power¶ ¶power¶ 20
+¶line¶ ¶line¶ 20
+¶is¶ ¶is¶ 20
+¶in¶ ¶in¶ 20
+¶the¶ ¶the¶ 20
+¶Train¶ ¶train¶ 20
+¶Yard¶ ¶yard¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶description¶ ¶description¶ 20
+¶of¶ ¶of¶ 20
+¶the¶ ¶the¶ 20
+¶power¶ ¶power¶ 20
+¶line¶ ¶line¶ 20
+¶in¶ ¶in¶ 20
+¶the¶ ¶the¶ 20
+¶Train¶ ¶train¶ 20
+¶Yard¶ ¶yard¶ 20
+¶is¶ ¶is¶ 20
+¶"This is a power line."¶ ¶"This is a power line."¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

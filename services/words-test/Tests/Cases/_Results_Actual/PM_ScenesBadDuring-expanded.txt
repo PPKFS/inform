@@ -1,0 +1,22 @@
+12 words
+¶foo¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶when¶ ¶play¶ ¶begins¶ ¶during¶ ¶three¶ ¶scenes¶ ¶:¶ ¶do¶ ¶nothing¶ ¶|__¶ 
+15 distinct words
+¶Foo¶ ¶foo¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶When¶ ¶when¶ 0a
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶during¶ ¶during¶ 20
+¶three¶ ¶three¶ 20
+¶scenes¶ ¶scenes¶ 20
+¶:¶ ¶:¶ 20
+¶do¶ ¶do¶ 20
+¶nothing¶ ¶nothing¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,34 @@
+21 words
+¶xanadu¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶box¶ ¶kind¶ ¶of¶ ¶container¶ ¶understand¶ ¶"box of "¶ ¶,¶ ¶something¶ ¶related¶ ¶by¶ ¶grobble¶ ¶""¶ ¶as¶ 
+19 distinct words
+¶Xanadu¶ ¶xanadu¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶A¶ ¶a¶ 20
+¶box¶ ¶box¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶kind¶ ¶kind¶ 20
+¶of¶ ¶of¶ 20
+¶container¶ ¶container¶ 20
+¶.¶ ¶.¶ 20
+¶Understand¶ ¶understand¶ 20
+¶"box of "¶ ¶"box of "¶ 20
+¶,¶ ¶,¶ 20
+¶something¶ ¶something¶ 20
+¶related¶ ¶related¶ 20
+¶by¶ ¶by¶ 20
+¶grobble¶ ¶grobble¶ 20
+¶,¶ ¶,¶ 20
+¶""¶ ¶""¶ 20
+¶as¶ ¶as¶ 0a
+¶a¶ ¶a¶ 20
+¶box¶ ¶box¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,15 @@
+7 words
+¶a¶ ¶coin¶ ¶is¶ ¶in¶ ¶every¶ ¶open¶ ¶container¶ ¶.¶ ¶|__¶ 
+9 distinct words
+¶A¶ ¶a¶ 0a
+¶coin¶ ¶coin¶ 20
+¶is¶ ¶is¶ 20
+¶in¶ ¶in¶ 20
+¶every¶ ¶every¶ 20
+¶open¶ ¶open¶ 20
+¶container¶ ¶container¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,32 @@
+19 words
+¶the¶ ¶meaningless¶ ¶room¶ ¶is¶ ¶a¶ ¶.¶ ¶|__¶ ¶thinking¶ ¶about¶ ¶something¶ ¶an¶ ¶activity¶ ¶understand¶ ¶"think about "¶ ¶,¶ ¶noun¶ ¶""¶ ¶as¶ 
+18 distinct words
+¶The¶ ¶the¶ 0a
+¶Meaningless¶ ¶meaningless¶ 20
+¶Room¶ ¶room¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Thinking¶ ¶thinking¶ 20
+¶about¶ ¶about¶ 20
+¶something¶ ¶something¶ 20
+¶is¶ ¶is¶ 20
+¶an¶ ¶an¶ 20
+¶activity¶ ¶activity¶ 20
+¶.¶ ¶.¶ 20
+¶Understand¶ ¶understand¶ 0a
+¶"think about "¶ ¶"think about "¶ 20
+¶,¶ ¶,¶ 20
+¶noun¶ ¶noun¶ 20
+¶,¶ ¶,¶ 20
+¶""¶ ¶""¶ 20
+¶as¶ ¶as¶ 20
+¶thinking¶ ¶thinking¶ 20
+¶about¶ ¶about¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

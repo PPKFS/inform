@@ -1,0 +1,30 @@
+18 words
+¶home¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶treedom¶ ¶relates¶ ¶one¶ ¶xyzzy¶ ¶to¶ ¶person¶ ¶shrubdom¶ ¶plugh¶ 
+14 distinct words
+¶Home¶ ¶home¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Treedom¶ ¶treedom¶ 20
+¶relates¶ ¶relates¶ 20
+¶one¶ ¶one¶ 20
+¶xyzzy¶ ¶xyzzy¶ 20
+¶to¶ ¶to¶ 20
+¶one¶ ¶one¶ 20
+¶person¶ ¶person¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Shrubdom¶ ¶shrubdom¶ 20
+¶relates¶ ¶relates¶ 20
+¶one¶ ¶one¶ 20
+¶person¶ ¶person¶ 20
+¶to¶ ¶to¶ 20
+¶one¶ ¶one¶ 20
+¶plugh¶ ¶plugh¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

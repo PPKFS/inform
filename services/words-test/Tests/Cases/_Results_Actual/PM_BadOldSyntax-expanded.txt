@@ -1,0 +1,30 @@
+18 words
+¶there¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶when¶ ¶play¶ ¶begins¶ ¶:¶ ¶let¶ ¶x¶ ¶be¶ ¶zero¶ ¶;¶ ¶if¶ ¶--¶ ¶0¶ ¶say¶ ¶"Okay."¶ 
+20 distinct words
+¶There¶ ¶there¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶When¶ ¶when¶ 20
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶:¶ ¶:¶ 20
+¶let¶ ¶let¶ 41
+¶x¶ ¶x¶ 20
+¶be¶ ¶be¶ 20
+¶zero¶ ¶zero¶ 20
+¶;¶ ¶;¶ 20
+¶if¶ ¶if¶ 41
+¶x¶ ¶x¶ 20
+¶is¶ ¶is¶ 20
+¶:¶ ¶:¶ 20
+¶--¶ ¶--¶ 42
+¶0¶ ¶0¶ 20
+¶say¶ ¶say¶ 43
+¶"Okay."¶ ¶"Okay."¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

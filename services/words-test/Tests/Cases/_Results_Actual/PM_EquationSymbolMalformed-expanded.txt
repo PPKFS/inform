@@ -1,0 +1,36 @@
+24 words
+¶laboratory¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶equation¶ ¶2¶ ¶abacadabras¶ ¶=¶ ¶abacadabras2¶ ¶+¶ ¶fish100¶ ¶where¶ ¶number¶ ¶,¶ 
+16 distinct words
+¶Laboratory¶ ¶laboratory¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Equation¶ ¶equation¶ 20
+¶2¶ ¶2¶ 20
+¶Abacadabras¶ ¶abacadabras¶ 0a
+¶=¶ ¶=¶ 20
+¶Abacadabras2¶ ¶abacadabras2¶ 20
+¶+¶ ¶+¶ 20
+¶Fish100¶ ¶fish100¶ 20
+¶where¶ ¶where¶ 0a
+¶Abacadabras¶ ¶abacadabras¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶number¶ ¶number¶ 20
+¶,¶ ¶,¶ 20
+¶Abacadabras2¶ ¶abacadabras2¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶number¶ ¶number¶ 20
+¶,¶ ¶,¶ 20
+¶Fish100¶ ¶fish100¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶number¶ ¶number¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

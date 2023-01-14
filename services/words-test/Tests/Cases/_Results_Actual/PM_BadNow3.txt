@@ -1,0 +1,43 @@
+35 words
+¶the¶ ¶dock¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶some¶ ¶vending¶ ¶machines¶ ¶are¶ ¶containers¶ ¶in¶ ¶|__¶ ¶to¶ ¶break¶ ¶,¶ ¶by¶ ¶superpower¶ ¶or¶ ¶brute¶ ¶force¶ ¶:¶ ¶now¶ ¶;¶ ¶say¶ ¶"Your heat-vision prangs open the machine."¶ 
+26 distinct words
+¶The¶ ¶the¶ 0a
+¶Dock¶ ¶dock¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶Some¶ ¶some¶ 20
+¶vending¶ ¶vending¶ 20
+¶machines¶ ¶machines¶ 20
+¶are¶ ¶are¶ 20
+¶containers¶ ¶containers¶ 20
+¶in¶ ¶in¶ 20
+¶the¶ ¶the¶ 20
+¶dock¶ ¶dock¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶To¶ ¶to¶ 20
+¶break¶ ¶break¶ 20
+¶the¶ ¶the¶ 20
+¶vending¶ ¶vending¶ 20
+¶machines¶ ¶machines¶ 20
+¶,¶ ¶,¶ 20
+¶by¶ ¶by¶ 20
+¶superpower¶ ¶superpower¶ 20
+¶or¶ ¶or¶ 20
+¶by¶ ¶by¶ 20
+¶brute¶ ¶brute¶ 20
+¶force¶ ¶force¶ 20
+¶:¶ ¶:¶ 20
+¶now¶ ¶now¶ 41
+¶by¶ ¶by¶ 20
+¶brute¶ ¶brute¶ 20
+¶force¶ ¶force¶ 20
+¶;¶ ¶;¶ 20
+¶say¶ ¶say¶ 41
+¶"Your heat-vision prangs open the machine."¶ ¶"Your heat-vision prangs open the machine."¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

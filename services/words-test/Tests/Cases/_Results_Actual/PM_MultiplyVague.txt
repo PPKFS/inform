@@ -1,0 +1,12 @@
+4 words
+¶five¶ ¶rooms¶ ¶are¶ ¶lighted¶ ¶.¶ ¶|__¶ 
+6 distinct words
+¶Five¶ ¶five¶ 0a
+¶rooms¶ ¶rooms¶ 20
+¶are¶ ¶are¶ 20
+¶lighted¶ ¶lighted¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,21 @@
+11 words
+¶xanadu¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶person¶ ¶has¶ ¶text¶ ¶called¶ ¶101¶ 
+11 distinct words
+¶Xanadu¶ ¶xanadu¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶A¶ ¶a¶ 20
+¶person¶ ¶person¶ 20
+¶has¶ ¶has¶ 20
+¶a¶ ¶a¶ 20
+¶text¶ ¶text¶ 20
+¶called¶ ¶called¶ 20
+¶101¶ ¶101¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

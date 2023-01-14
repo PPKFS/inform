@@ -1,0 +1,17 @@
+9 words
+¶a¶ ¶room¶ ¶has¶ ¶an¶ ¶open¶ ¶container¶ ¶called¶ ¶the¶ ¶bucket¶ ¶.¶ ¶|__¶ 
+11 distinct words
+¶A¶ ¶a¶ 0a
+¶room¶ ¶room¶ 20
+¶has¶ ¶has¶ 20
+¶an¶ ¶an¶ 20
+¶open¶ ¶open¶ 20
+¶container¶ ¶container¶ 20
+¶called¶ ¶called¶ 20
+¶the¶ ¶the¶ 20
+¶bucket¶ ¶bucket¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

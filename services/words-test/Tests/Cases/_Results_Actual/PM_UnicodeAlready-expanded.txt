@@ -1,0 +1,31 @@
+21 words
+¶at¶ ¶sigil¶ ¶translates¶ ¶into¶ ¶unicode¶ ¶as¶ ¶64¶ ¶.¶ ¶67¶ ¶|__¶ 
+10 distinct words
+¶At¶ ¶at¶ 0a
+¶sigil¶ ¶sigil¶ 20
+¶translates¶ ¶translates¶ 20
+¶into¶ ¶into¶ 20
+¶Unicode¶ ¶unicode¶ 20
+¶as¶ ¶as¶ 20
+¶64¶ ¶64¶ 20
+¶.¶ ¶.¶ 20
+¶At¶ ¶at¶ 0a
+¶sigil¶ ¶sigil¶ 20
+¶translates¶ ¶translates¶ 20
+¶into¶ ¶into¶ 20
+¶Unicode¶ ¶unicode¶ 20
+¶as¶ ¶as¶ 20
+¶64¶ ¶64¶ 20
+¶.¶ ¶.¶ 20
+¶At¶ ¶at¶ 0a
+¶sigil¶ ¶sigil¶ 20
+¶translates¶ ¶translates¶ 20
+¶into¶ ¶into¶ 20
+¶Unicode¶ ¶unicode¶ 20
+¶as¶ ¶as¶ 20
+¶67¶ ¶67¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

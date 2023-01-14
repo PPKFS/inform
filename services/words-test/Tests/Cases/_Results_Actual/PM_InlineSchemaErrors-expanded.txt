@@ -1,0 +1,35 @@
+17 words
+¶laboratory¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶to¶ ¶splodge¶ ¶:¶ ¶(-¶ ¶ objectloop (200) ; ¶ ¶spludge¶ ¶ print 1 +; ¶ ¶when¶ ¶play¶ ¶begins¶ ¶;¶ 
+17 distinct words
+¶Laboratory¶ ¶laboratory¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶To¶ ¶to¶ 20
+¶splodge¶ ¶splodge¶ 20
+¶:¶ ¶:¶ 20
+¶(-¶ ¶(-¶ 41
+¶ objectloop (200) ; ¶ ¶ objectloop (200) ; ¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶To¶ ¶to¶ 20
+¶spludge¶ ¶spludge¶ 20
+¶:¶ ¶:¶ 20
+¶(-¶ ¶(-¶ 41
+¶ print 1 +; ¶ ¶ print 1 +; ¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶When¶ ¶when¶ 20
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶:¶ ¶:¶ 20
+¶splodge¶ ¶splodge¶ 41
+¶;¶ ¶;¶ 20
+¶spludge¶ ¶spludge¶ 41
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

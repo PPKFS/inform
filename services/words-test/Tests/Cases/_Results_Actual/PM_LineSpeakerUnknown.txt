@@ -1,0 +1,36 @@
+22 words
+¶elsinore¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶horatio¶ ¶and¶ ¶marcellus¶ ¶are¶ ¶here¶ ¶|__¶ ¶section¶ ¶1¶ ¶-¶ ¶meeting¶ ¶(¶ ¶dialogue¶ ¶)¶ ¶about¶ ¶polonius¶ ¶:¶ ¶"What am I doing here?"¶ 
+22 distinct words
+¶Elsinore¶ ¶elsinore¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶Horatio¶ ¶horatio¶ 20
+¶and¶ ¶and¶ 20
+¶Marcellus¶ ¶marcellus¶ 20
+¶are¶ ¶are¶ 20
+¶here¶ ¶here¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Section¶ ¶section¶ 20
+¶1¶ ¶1¶ 20
+¶-¶ ¶-¶ 20
+¶Meeting¶ ¶meeting¶ 20
+¶(¶ ¶(¶ 20
+¶dialogue¶ ¶dialogue¶ 20
+¶)¶ ¶)¶ 20
+¶|__¶ ¶|__¶ 0a
+¶(¶ ¶(¶ 20
+¶About¶ ¶about¶ 20
+¶Marcellus¶ ¶marcellus¶ 20
+¶.¶ ¶.¶ 20
+¶)¶ ¶)¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Polonius¶ ¶polonius¶ 20
+¶:¶ ¶:¶ 20
+¶"What am I doing here?"¶ ¶"What am I doing here?"¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

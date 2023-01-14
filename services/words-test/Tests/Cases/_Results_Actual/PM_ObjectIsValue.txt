@@ -1,0 +1,12 @@
+4 words
+¶the¶ ¶pineapple¶ ¶is¶ ¶20¶ ¶.¶ ¶|__¶ 
+6 distinct words
+¶The¶ ¶the¶ 0a
+¶pineapple¶ ¶pineapple¶ 20
+¶is¶ ¶is¶ 20
+¶20¶ ¶20¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

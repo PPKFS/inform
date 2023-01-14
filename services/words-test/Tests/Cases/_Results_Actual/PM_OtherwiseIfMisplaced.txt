@@ -1,0 +1,32 @@
+20 words
+¶testroom¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶when¶ ¶play¶ ¶begins¶ ¶:¶ ¶if¶ ¶true¶ ¶,¶ ¶say¶ ¶"--."¶ ¶;¶ ¶else¶ ¶"--."¶ ¶|__¶ 
+18 distinct words
+¶TestRoom¶ ¶testroom¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶Room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶When¶ ¶when¶ 0a
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶:¶ ¶:¶ 20
+¶If¶ ¶if¶ 41
+¶true¶ ¶true¶ 20
+¶is¶ ¶is¶ 20
+¶true¶ ¶true¶ 20
+¶,¶ ¶,¶ 20
+¶say¶ ¶say¶ 20
+¶"--."¶ ¶"--."¶ 20
+¶;¶ ¶;¶ 20
+¶Else¶ ¶else¶ 41
+¶if¶ ¶if¶ 20
+¶true¶ ¶true¶ 20
+¶is¶ ¶is¶ 20
+¶true¶ ¶true¶ 20
+¶,¶ ¶,¶ 20
+¶say¶ ¶say¶ 20
+¶"--."¶ ¶"--."¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,29 @@
+18 words
+¶the¶ ¶taj¶ ¶mahal¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶on¶ ¶table¶ ¶flower¶ ¶in¶ ¶petal¶ 
+13 distinct words
+¶The¶ ¶the¶ 0a
+¶Taj¶ ¶taj¶ 20
+¶Mahal¶ ¶mahal¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶On¶ ¶on¶ 20
+¶the¶ ¶the¶ 20
+¶table¶ ¶table¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶flower¶ ¶flower¶ 20
+¶.¶ ¶.¶ 20
+¶In¶ ¶in¶ 20
+¶the¶ ¶the¶ 20
+¶table¶ ¶table¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶petal¶ ¶petal¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

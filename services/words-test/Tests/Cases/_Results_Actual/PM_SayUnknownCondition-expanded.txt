@@ -1,0 +1,43 @@
+29 words
+¶a¶ ¶tree¶ ¶is¶ ¶kind¶ ¶of¶ ¶thing¶ ¶.¶ ¶either¶ ¶living¶ ¶or¶ ¶dead¶ ¶the¶ ¶description¶ ¶"A "¶ ¶,¶ ¶condition¶ ¶" tree"¶ ¶|__¶ ¶forest¶ ¶room¶ 
+20 distinct words
+¶A¶ ¶a¶ 0a
+¶tree¶ ¶tree¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶kind¶ ¶kind¶ 20
+¶of¶ ¶of¶ 20
+¶thing¶ ¶thing¶ 20
+¶.¶ ¶.¶ 20
+¶A¶ ¶a¶ 0a
+¶tree¶ ¶tree¶ 20
+¶is¶ ¶is¶ 20
+¶either¶ ¶either¶ 20
+¶living¶ ¶living¶ 20
+¶or¶ ¶or¶ 20
+¶dead¶ ¶dead¶ 20
+¶.¶ ¶.¶ 20
+¶The¶ ¶the¶ 0a
+¶description¶ ¶description¶ 20
+¶of¶ ¶of¶ 20
+¶a¶ ¶a¶ 20
+¶tree¶ ¶tree¶ 20
+¶is¶ ¶is¶ 20
+¶"A "¶ ¶"A "¶ 20
+¶,¶ ¶,¶ 20
+¶tree¶ ¶tree¶ 20
+¶condition¶ ¶condition¶ 20
+¶,¶ ¶,¶ 20
+¶" tree"¶ ¶" tree"¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶The¶ ¶the¶ 20
+¶Forest¶ ¶forest¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

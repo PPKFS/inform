@@ -1,0 +1,25 @@
+14 words
+¶home¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶definition¶ ¶:¶ ¶"Frogs"¶ ¶wibbly¶ ¶if¶ ¶it¶ ¶100¶ ¶years¶ ¶old¶ 
+15 distinct words
+¶Home¶ ¶home¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Definition¶ ¶definition¶ 20
+¶:¶ ¶:¶ 20
+¶"Frogs"¶ ¶"Frogs"¶ 20
+¶is¶ ¶is¶ 20
+¶wibbly¶ ¶wibbly¶ 20
+¶if¶ ¶if¶ 20
+¶it¶ ¶it¶ 20
+¶is¶ ¶is¶ 20
+¶100¶ ¶100¶ 20
+¶years¶ ¶years¶ 20
+¶old¶ ¶old¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

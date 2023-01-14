@@ -1,0 +1,33 @@
+21 words
+¶eynforme¶ ¶halt¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶train¶ ¶stop¶ ¶scene¶ ¶explosion¶ ¶|__¶ ¶begins¶ ¶when¶ ¶ends¶ ¶unexpectedly¶ 
+15 distinct words
+¶Eynforme¶ ¶eynforme¶ 0a
+¶Halt¶ ¶halt¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶Train¶ ¶train¶ 20
+¶Stop¶ ¶stop¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶scene¶ ¶scene¶ 20
+¶.¶ ¶.¶ 20
+¶Explosion¶ ¶explosion¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶scene¶ ¶scene¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶Explosion¶ ¶explosion¶ 20
+¶begins¶ ¶begins¶ 20
+¶when¶ ¶when¶ 20
+¶Train¶ ¶train¶ 20
+¶Stop¶ ¶stop¶ 20
+¶ends¶ ¶ends¶ 20
+¶unexpectedly¶ ¶unexpectedly¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

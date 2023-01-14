@@ -1,0 +1,35 @@
+19 words
+¶xanadu¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶to¶ ¶blow¶ ¶up¶ ¶(¶ ¶n¶ ¶-¶ ¶number¶ ¶)¶ ¶:¶ ¶(-¶ ¶ score = 0; {-strange:N} ¶ ¶when¶ ¶play¶ ¶begins¶ ¶1¶ 
+21 distinct words
+¶Xanadu¶ ¶xanadu¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶To¶ ¶to¶ 20
+¶blow¶ ¶blow¶ 20
+¶up¶ ¶up¶ 20
+¶(¶ ¶(¶ 20
+¶N¶ ¶n¶ 20
+¶-¶ ¶-¶ 20
+¶a¶ ¶a¶ 20
+¶number¶ ¶number¶ 20
+¶)¶ ¶)¶ 20
+¶:¶ ¶:¶ 20
+¶(-¶ ¶(-¶ 20
+¶ score = 0; {-strange:N} ¶ ¶ score = 0; {-strange:N} ¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶When¶ ¶when¶ 20
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶:¶ ¶:¶ 20
+¶blow¶ ¶blow¶ 41
+¶up¶ ¶up¶ 20
+¶1¶ ¶1¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,34 @@
+24 words
+¶the¶ ¶taj¶ ¶mahal¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶great¶ ¶gate¶ ¶and¶ ¶lesser¶ ¶are¶ ¶doors¶ ¶east¶ ¶of¶ ¶|__¶ 
+16 distinct words
+¶The¶ ¶the¶ 0a
+¶Taj¶ ¶taj¶ 20
+¶Mahal¶ ¶mahal¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶The¶ ¶the¶ 20
+¶Great¶ ¶great¶ 20
+¶Gate¶ ¶gate¶ 20
+¶and¶ ¶and¶ 20
+¶the¶ ¶the¶ 20
+¶Lesser¶ ¶lesser¶ 20
+¶Gate¶ ¶gate¶ 20
+¶are¶ ¶are¶ 20
+¶doors¶ ¶doors¶ 20
+¶.¶ ¶.¶ 20
+¶East¶ ¶east¶ 0a
+¶of¶ ¶of¶ 20
+¶the¶ ¶the¶ 20
+¶Great¶ ¶great¶ 20
+¶Gate¶ ¶gate¶ 20
+¶is¶ ¶is¶ 20
+¶the¶ ¶the¶ 20
+¶Lesser¶ ¶lesser¶ 20
+¶Gate¶ ¶gate¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

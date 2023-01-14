@@ -1,0 +1,19 @@
+10 words
+¶hovel¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶the¶ ¶description¶ ¶printed¶ ¶name¶ ¶|__¶ 
+10 distinct words
+¶Hovel¶ ¶hovel¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶The¶ ¶the¶ 20
+¶description¶ ¶description¶ 20
+¶is¶ ¶is¶ 20
+¶the¶ ¶the¶ 20
+¶printed¶ ¶printed¶ 20
+¶name¶ ¶name¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

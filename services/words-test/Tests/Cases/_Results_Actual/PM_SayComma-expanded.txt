@@ -1,0 +1,24 @@
+13 words
+¶the¶ ¶ni¶ ¶school¶ ¶for¶ ¶typing¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶when¶ ¶play¶ ¶begins¶ ¶:¶ ¶say¶ ¶,¶ ¶"Hello."¶ 
+17 distinct words
+¶The¶ ¶the¶ 0a
+¶NI¶ ¶ni¶ 20
+¶School¶ ¶school¶ 20
+¶for¶ ¶for¶ 20
+¶Typing¶ ¶typing¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶When¶ ¶when¶ 20
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶:¶ ¶:¶ 20
+¶say¶ ¶say¶ 41
+¶,¶ ¶,¶ 20
+¶"Hello."¶ ¶"Hello."¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,36 @@
+21 words
+¶home¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶when¶ ¶play¶ ¶begins¶ ¶:¶ ¶let¶ ¶n¶ ¶be¶ ¶13¶ ¶;¶ ¶if¶ ¶begin¶ ¶--¶ ¶1¶ ¶say¶ ¶"1"¶ ¶end¶ 
+22 distinct words
+¶Home¶ ¶home¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶When¶ ¶when¶ 20
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶:¶ ¶:¶ 20
+¶let¶ ¶let¶ 20
+¶N¶ ¶n¶ 20
+¶be¶ ¶be¶ 20
+¶13¶ ¶13¶ 20
+¶;¶ ¶;¶ 20
+¶if¶ ¶if¶ 20
+¶N¶ ¶n¶ 20
+¶is¶ ¶is¶ 20
+¶begin¶ ¶begin¶ 20
+¶;¶ ¶;¶ 20
+¶--¶ ¶--¶ 20
+¶1¶ ¶1¶ 20
+¶;¶ ¶;¶ 20
+¶say¶ ¶say¶ 20
+¶"1"¶ ¶"1"¶ 20
+¶;¶ ¶;¶ 20
+¶end¶ ¶end¶ 20
+¶if¶ ¶if¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

@@ -1,0 +1,27 @@
+16 words
+¶wharf¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶|__¶ ¶when¶ ¶play¶ ¶begins¶ ¶:¶ ¶if¶ ¶the¶ ¶noun¶ ¶was¶ ¶in¶ ¶,¶ ¶say¶ ¶"Hi."¶ 
+18 distinct words
+¶Wharf¶ ¶wharf¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶When¶ ¶when¶ 20
+¶play¶ ¶play¶ 20
+¶begins¶ ¶begins¶ 20
+¶:¶ ¶:¶ 20
+¶if¶ ¶if¶ 41
+¶the¶ ¶the¶ 20
+¶noun¶ ¶noun¶ 20
+¶was¶ ¶was¶ 20
+¶in¶ ¶in¶ 20
+¶the¶ ¶the¶ 20
+¶Wharf¶ ¶wharf¶ 20
+¶,¶ ¶,¶ 20
+¶say¶ ¶say¶ 20
+¶"Hi."¶ ¶"Hi."¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

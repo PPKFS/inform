@@ -1,0 +1,13 @@
+5 words
+¶the¶ ¶quest¶ ¶is¶ ¶.¶ ¶|__¶ 
+5 distinct words
+¶The¶ ¶the¶ 0a
+¶Quest¶ ¶quest¶ 20
+¶is¶ ¶is¶ 20
+¶the¶ ¶the¶ 20
+¶Quest¶ ¶quest¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a

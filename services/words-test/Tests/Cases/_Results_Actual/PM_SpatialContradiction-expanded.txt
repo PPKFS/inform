@@ -1,0 +1,35 @@
+23 words
+¶there¶ ¶is¶ ¶a¶ ¶room¶ ¶.¶ ¶hairstyle¶ ¶kind¶ ¶of¶ ¶thing¶ ¶every¶ ¶incorporates¶ ¶hairspray¶ ¶|__¶ 
+13 distinct words
+¶There¶ ¶there¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶room¶ ¶room¶ 20
+¶.¶ ¶.¶ 20
+¶A¶ ¶a¶ 0a
+¶hairstyle¶ ¶hairstyle¶ 20
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶kind¶ ¶kind¶ 20
+¶of¶ ¶of¶ 20
+¶thing¶ ¶thing¶ 20
+¶.¶ ¶.¶ 20
+¶Every¶ ¶every¶ 0a
+¶hairstyle¶ ¶hairstyle¶ 20
+¶incorporates¶ ¶incorporates¶ 20
+¶hairspray¶ ¶hairspray¶ 20
+¶.¶ ¶.¶ 20
+¶There¶ ¶there¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶hairstyle¶ ¶hairstyle¶ 20
+¶.¶ ¶.¶ 20
+¶There¶ ¶there¶ 0a
+¶is¶ ¶is¶ 20
+¶a¶ ¶a¶ 20
+¶hairstyle¶ ¶hairstyle¶ 20
+¶.¶ ¶.¶ 20
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
+¶|__¶ ¶|__¶ 0a
